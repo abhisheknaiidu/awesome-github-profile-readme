@@ -5,7 +5,7 @@
 ## Categories
 
 #### Github Actions 🤖
-
+- [Brian Douglas](https://github.com/bdougie/bdougie)
 #### Out of the box 🌈
 
 #### Game Mode 🚀
