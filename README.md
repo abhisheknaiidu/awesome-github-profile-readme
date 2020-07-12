@@ -6,7 +6,7 @@
 
 - [Github Actions 🤖]()
 - [Out of the box 🌈]()
-- [Dyanamic Realtime 💫](https://github.com/abhisheknaiidu/awesome-github-profile-readme/tree/master/Dyanamic-Realtime%F0%9F%92%AB)
+- [Dyanamic Realtime 💫](https://github.com/mazharalibaig/awesome-github-profile-readme/tree/master/Dyanamic-Realtime%F0%9F%92%AB)
 
 ## Contribute
 
