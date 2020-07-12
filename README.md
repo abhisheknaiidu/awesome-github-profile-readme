@@ -8,7 +8,7 @@
 
 #### Out of the box 🌈
 
-#### Game Mode
+#### Game Mode 🚀
 - [Tim Burgan](https://github.com/timburgan/timburgan)
 
 #### Dyanamic Realtime 💫
