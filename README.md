@@ -6,6 +6,7 @@
 
 #### Github Actions 🤖
 - [Brian Douglas](https://github.com/bdougie/bdougie)
+- [Shawn Wang](https://github.com/sw-yx/sw-yx)
 #### Out of the box 🌈
 
 #### Game Mode 🚀
