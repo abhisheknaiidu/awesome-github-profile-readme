@@ -2,7 +2,6 @@
 
 Please ensure your pull request adheres to the following guidelines:
 
-- The name of the file should be your **username.md** file
 - Suggested Github Profile READMEs should be beautiful or stand out in some way.
 - Make an individual pull request for each suggestion.
 - Can suggest for different categories.
