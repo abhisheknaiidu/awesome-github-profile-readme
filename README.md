@@ -18,6 +18,7 @@
 - [Anurag Hazra](https://github.com/anuraghazra/anuraghazra)
 
 #### Simple but Innovative One's 🤗
+- [Nate Moore](https://github.com/natemoo-re/natemoo-re)
 - [CyrisXD](https://github.com/CyrisXD/CyrisXD)
 - [Mpho Mphego](https://github.com/mmphego/mmphego)
 
