@@ -35,6 +35,13 @@
 #### Just GIF'S 👻
 - [Ari](https://github.com/ari-hacks/ari-hacks)
 
+## Tools
+- [Visitor Badge](https://visitor-badge.glitch.me/#docs) - Count visitors for your README.md, Issues, PRs in GitHub
+
+
+## Articles 
+- ["How To Create A GitHub Profile README"](https://www.aboutmonica.com/blog/how-to-create-a-github-profile-readme) - *Monica Powell*
+
 ## Contribute
 
 Contributions are always welcome!
