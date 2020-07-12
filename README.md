@@ -8,6 +8,9 @@
 
 #### Out of the box 🌈
 
+#### Game Mode
+- [Tim Burgan](https://github.com/timburgan/timburgan)
+
 #### Dyanamic Realtime 💫
 - [Abhishek Naidu](https://github.com/abhisheknaiidu/abhisheknaiidu)
 
