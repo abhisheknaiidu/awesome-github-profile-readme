@@ -5,7 +5,7 @@
 ## Categories
 
 - [Out of the box](https://github.com/abhisheknaiidu/awesome-github-profile-readme/Out-Of-The-Box)
-- [Dyanamic-Realtime](https://github.com/abhisheknaiidu/awesome-github-profile-readme/Dyanamic-Realtime)
+- [Dyanamic Realtime](https://github.com/abhisheknaiidu/awesome-github-profile-readme/Dyanamic-Realtime)
 
 ## Contribute
 
