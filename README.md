@@ -17,9 +17,12 @@
 - [Abhishek Naidu](https://github.com/abhisheknaiidu/abhisheknaiidu)
 - [Anurag Hazra](https://github.com/anuraghazra/anuraghazra)
 
-
-#### Simple One's 🤗
+#### Simple but Innovative One's 🤗
+- [CyrisXD](https://github.com/CyrisXD/CyrisXD)
 - [Mpho Mphego](https://github.com/mmphego/mmphego)
+
+#### Just GIF'S 👻
+- [Ari](https://github.com/ari-hacks/ari-hacks)
 
 ## Contribute
 
