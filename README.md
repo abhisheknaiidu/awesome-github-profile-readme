@@ -4,12 +4,16 @@
 
 ## Categories
 
-- [Github Actions 🤖]()
-- [Out of the box 🌈]()
-- [Dyanamic Realtime 💫](https://github.com/abhisheknaiidu/awesome-github-profile-readme/tree/master/Dyanamic-Realtime%F0%9F%92%AB)
-   *[Abhishek Naidu](https://github.com/abhisheknaiidu/abhisheknaiidu)
+### Github Actions 🤖
 
-- [Simple One's 🤗]()
+### Out of the box 🌈
+
+### Dyanamic Realtime 💫
+- [Abhishek Naidu](https://github.com/abhisheknaiidu/abhisheknaiidu)
+
+### Simple One's 🤗
+
+
 ## Contribute
 
 Contributions are always welcome!
