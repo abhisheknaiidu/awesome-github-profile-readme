@@ -4,14 +4,14 @@
 
 ## Categories
 
-### Github Actions 🤖
+#### Github Actions 🤖
 
-### Out of the box 🌈
+#### Out of the box 🌈
 
-### Dyanamic Realtime 💫
+#### Dyanamic Realtime 💫
 - [Abhishek Naidu](https://github.com/abhisheknaiidu/abhisheknaiidu)
 
-### Simple One's 🤗
+#### Simple One's 🤗
 
 
 ## Contribute
