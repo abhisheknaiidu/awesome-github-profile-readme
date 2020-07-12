@@ -29,6 +29,9 @@
 - [CyrisXD](https://github.com/CyrisXD/CyrisXD)
 - [Mpho Mphego](https://github.com/mmphego/mmphego)
 
+#### Anime 👾
+- [Ing](https://github.com/innng/innng)
+
 #### Just GIF'S 👻
 - [Ari](https://github.com/ari-hacks/ari-hacks)
 
