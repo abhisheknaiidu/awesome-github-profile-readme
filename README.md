@@ -37,6 +37,7 @@
 
 ## Tools
 - [Visitor Badge](https://visitor-badge.glitch.me/#docs) - Count visitors for your README.md, Issues, PRs in GitHub
+- [Simple Icons](https://github.com/simple-icons/simple-icons#cdn-usage)
 
 
 ## Articles 
