@@ -7,6 +7,7 @@
 #### Github Actions 🤖
 - [Brian Douglas](https://github.com/bdougie/bdougie)
 - [Shawn Wang](https://github.com/sw-yx/sw-yx)
+- [Simon Willison](https://github.com/simonw/simonw)
 
 #### Out of the box 🌈
 
