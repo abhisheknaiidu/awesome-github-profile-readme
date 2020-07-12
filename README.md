@@ -13,6 +13,8 @@
 
 #### Dyanamic Realtime 💫
 - [Abhishek Naidu](https://github.com/abhisheknaiidu/abhisheknaiidu)
+- [Anurag Hazra](https://github.com/anuraghazra/anuraghazra)
+
 
 #### Simple One's 🤗
 
