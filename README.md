@@ -9,10 +9,11 @@
 - [Shawn Wang](https://github.com/sw-yx/sw-yx)
 - [Simon Willison](https://github.com/simonw/simonw)
 
-#### Out of the box 🌈
-
 #### Game Mode 🚀
 - [Tim Burgan](https://github.com/timburgan/timburgan)
+
+#### Code Mode 👨🏽‍💻
+- [Thaiane Braga](https://github.com/Thaiane/Thaiane)
 
 #### Dyanamic Realtime 💫
 - [Abhishek Naidu](https://github.com/abhisheknaiidu/abhisheknaiidu)
