@@ -16,6 +16,7 @@
 #### Dyanamic Realtime 💫
 - [Abhishek Naidu](https://github.com/abhisheknaiidu/abhisheknaiidu)
 - [Anurag Hazra](https://github.com/anuraghazra/anuraghazra)
+- [Shanu Mishra](https://github.com/Shanu1515/Shanu1515)
 
 #### Simple but Innovative One's 🤗
 - [CyrisXD](https://github.com/CyrisXD/CyrisXD)
