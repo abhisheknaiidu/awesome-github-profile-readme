@@ -2,6 +2,12 @@
 # Awesome Github Profile README  [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome#readme) ![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.awesome-github-profile-readme)
 > A curated list of awesome Github Profile READMEs 
 
+[![GitHub issues](https://img.shields.io/github/stars/abhisheknaiidu/awesome-github-profile-readme)](https://github.com/abhisheknaiidu/awesome-github-profile-readme/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/abhisheknaiidu/awesome-github-profile-readme)](https://github.com/abhisheknaiidu/awesome-github-profile-readme/network/members)
+[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/abhisheknaiidu/awesome-github-profile-readme?style=plastic)](https://github.com/abhisheknaiidu/awesome-github-profile-readme/pulls)
+[![GitHub issues](https://img.shields.io/github/issues/abhisheknaiidu/awesome-github-profile-readme?style=plastic)](https://github.com/abhisheknaiidu/awesome-github-profile-readme/issues)
+[![GitHub License](https://img.shields.io/github/license/abhisheknaiidu/awesome-github-profile-readme)](https://github.com/abhisheknaiidu/awesome-github-profile-readme/blob/master/LICENSE)
+
 ## Categories
 
 #### Github Actions 🤖
