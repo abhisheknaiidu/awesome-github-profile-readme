@@ -25,6 +25,7 @@
 - [Waylon Walker](https://github.com/WaylonWalker/WaylonWalker)
 
 #### Typing.. Mode 🎰
+- [Abhinav Sharma](https://github.com/ABSphreak/ABSphreak)
 - [Mathieu Ledru](https://github.com/matyo91/matyo91)
 - [CyrisXD](https://github.com/CyrisXD/CyrisXD)
 - [Mpho Mphego](https://github.com/mmphego/mmphego)
@@ -38,6 +39,7 @@
 ## Tools
 - [Visitor Badge](https://visitor-badge.glitch.me/#docs) - Count visitors for your README.md, Issues, PRs in GitHub
 - [Simple Icons](https://github.com/simple-icons/simple-icons#cdn-usage) -  SVG icons for popular brands for your README.md files
+- [Shields Project](https://shields.io/)
 
 
 ## Articles 
