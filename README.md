@@ -27,6 +27,7 @@
 
 
 #### Simple but Innovative Ones 🤗
+- [Anirudh Emmadi](https://github.com/aemmadi)
 - [Nate Moore](https://github.com/natemoo-re/natemoo-re)
 - [Jhey Tompkins](https://github.com/jh3y/jh3y)
 - [Waylon Walker](https://github.com/WaylonWalker/WaylonWalker)
