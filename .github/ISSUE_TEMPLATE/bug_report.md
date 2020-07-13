@@ -1,6 +1,6 @@
 ---
 name: 🐛 Error
-about: Create a issue to help us improve Awesome Github Profile Readme
+about: Create a issue to help us to improve this project ✨
 title: "Error: "
 labels: 👀 needs triage, 🐛 error
 ---
