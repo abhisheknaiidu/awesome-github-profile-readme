@@ -37,7 +37,7 @@
 #### Just GIF'S 👻
 - [Ari](https://github.com/ari-hacks/ari-hacks)
 - [Shanu Mishra](https://github.com/Shanu1515/Shanu1515)
-- [Shubham Kumar](https://github.com/imskr)
+- [Shubham Kumar](https://github.com/imskr/imskr)
 
 ## Tools
 - [Visitor Badge](https://visitor-badge.glitch.me/#docs) - Count visitors for your README.md, Issues, PRs in GitHub
