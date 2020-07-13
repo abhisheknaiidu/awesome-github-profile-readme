@@ -26,7 +26,7 @@
 - [Anurag Hazra](https://github.com/anuraghazra/anuraghazra)
 
 
-#### Simple but Innovative One's 🤗
+#### Simple but Innovative Ones 🤗
 - [Nate Moore](https://github.com/natemoo-re/natemoo-re)
 - [Jhey Tompkins](https://github.com/jh3y/jh3y)
 - [Waylon Walker](https://github.com/WaylonWalker/WaylonWalker)
@@ -41,9 +41,15 @@
 #### Anime 👾
 - [Ing](https://github.com/innng/innng)
 
-#### Just GIF'S 👻
+#### Minimalistic
+- [Gift Egwuenu](https://github.com/lauragift21/lauragift21)
+
+#### Just GIFS 👻
 - [Ari](https://github.com/ari-hacks/ari-hacks)
 - [Shanu Mishra](https://github.com/Shanu1515/Shanu1515)
+
+#### Just Images 🎭
+- [偏右](https://github.com/afc163/afc163)
 
 ## Tools
 - [Visitor Badge](https://visitor-badge.glitch.me/#docs) - Count visitors for your README.md, Issues, PRs in GitHub
