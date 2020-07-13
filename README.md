@@ -25,10 +25,10 @@
 - [Waylon Walker](https://github.com/WaylonWalker/WaylonWalker)
 
 #### Typing.. Mode 🎰
-- [Abhinav Sharma](https://github.com/ABSphreak/ABSphreak)
 - [Mathieu Ledru](https://github.com/matyo91/matyo91)
 - [CyrisXD](https://github.com/CyrisXD/CyrisXD)
 - [Mpho Mphego](https://github.com/mmphego/mmphego)
+- [Abhinav Sharma](https://github.com/ABSphreak/ABSphreak)
 
 #### Anime 👾
 - [Ing](https://github.com/innng/innng)
@@ -38,9 +38,8 @@
 
 ## Tools
 - [Visitor Badge](https://visitor-badge.glitch.me/#docs) - Count visitors for your README.md, Issues, PRs in GitHub
+- [Shields Project](https://shields.io/) - Use Shields to create profile badges, compatible with Simple Icons
 - [Simple Icons](https://github.com/simple-icons/simple-icons#cdn-usage) -  SVG icons for popular brands for your README.md files
-- [Shields Project](https://shields.io/) - Use Shields to create profile badges (Compatible with Simple Icons)
-
 
 ## Articles 
 - ["How To Create A GitHub Profile README"](https://www.aboutmonica.com/blog/how-to-create-a-github-profile-readme) - *Monica Powell*
