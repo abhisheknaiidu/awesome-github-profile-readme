@@ -44,8 +44,9 @@
 #### Minimalistic
 - [Gift Egwuenu](https://github.com/lauragift21/lauragift21)
 
-#### Just GIFS 👻
+#### GIFS 👻
 - [Ari](https://github.com/ari-hacks/ari-hacks)
+- [Siv Ram Shastri](https://github.com/Prince-Shivaram/Prince-Shivaram)
 - [Shanu Mishra](https://github.com/Shanu1515/Shanu1515)
 
 #### Just Images 🎭
