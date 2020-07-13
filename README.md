@@ -39,7 +39,7 @@
 ## Tools
 - [Visitor Badge](https://visitor-badge.glitch.me/#docs) - Count visitors for your README.md, Issues, PRs in GitHub
 - [Simple Icons](https://github.com/simple-icons/simple-icons#cdn-usage) -  SVG icons for popular brands for your README.md files
-- [Shields Project](https://shields.io/)
+- [Shields Project](https://shields.io/) - Use Shields to create profile badges (Compatible with Simple Icons)
 
 
 ## Articles 
