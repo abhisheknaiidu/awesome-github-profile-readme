@@ -19,6 +19,7 @@
 - [Abhishek Naidu](https://github.com/abhisheknaiidu/abhisheknaiidu)
 - [Anurag Hazra](https://github.com/anuraghazra/anuraghazra)
 
+
 #### Simple but Innovative One's 🤗
 - [Nate Moore](https://github.com/natemoo-re/natemoo-re)
 - [Jhey Tompkins](https://github.com/jh3y/jh3y)
@@ -34,6 +35,7 @@
 
 #### Just GIF'S 👻
 - [Ari](https://github.com/ari-hacks/ari-hacks)
+- [Shanu Mishra](https://github.com/Shanu1515/Shanu1515)
 
 ## Tools
 - [Visitor Badge](https://visitor-badge.glitch.me/#docs) - Count visitors for your README.md, Issues, PRs in GitHub
