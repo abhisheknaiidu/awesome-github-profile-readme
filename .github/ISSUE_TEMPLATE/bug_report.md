@@ -1,11 +1,11 @@
 ---
-name: 🐛 Bug or Error
+name: 🐛 Error
 about: Create a issue to help us improve Awesome Github Profile Readme
-title: "Bug: "
-labels: 👀 needs triage, 🐛 bug
+title: "Error: "
+labels: 👀 needs triage, 🐛 error
 ---
 
-### Describe the Error or Bug
+### Describe the Error
 
 <!-- A clear and concise description of what the bug is. -->
 
