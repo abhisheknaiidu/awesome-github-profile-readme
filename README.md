@@ -10,6 +10,9 @@
 
 ## Categories
 
+#### Badges
+- [Anirudh Emmadi](https://github.com/aemmadi)
+
 #### Github Actions 🤖
 - [Brian Douglas](https://github.com/bdougie/bdougie)
 - [Shawn Wang](https://github.com/sw-yx/sw-yx)
@@ -27,7 +30,6 @@
 
 
 #### Simple but Innovative Ones 🤗
-- [Anirudh Emmadi](https://github.com/aemmadi)
 - [Nate Moore](https://github.com/natemoo-re/natemoo-re)
 - [Jhey Tompkins](https://github.com/jh3y/jh3y)
 - [Waylon Walker](https://github.com/WaylonWalker/WaylonWalker)
