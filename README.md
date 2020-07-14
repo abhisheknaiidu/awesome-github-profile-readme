@@ -56,11 +56,12 @@
 
 #### Just Images 🎭
 - [偏右](https://github.com/afc163/afc163)
+- [thewhiteh4t](https://github.com/thewhiteh4t/thewhiteh4t)
 
 #### Fancy Fonts 🖋
 - [xiaoluoboding](https://github.com/xiaoluoboding/xiaoluoboding)
 
-#### Icons
+#### Icons 🔥
 - [Hussainweb](https://github.com/hussainweb/hussainweb)
 
 
