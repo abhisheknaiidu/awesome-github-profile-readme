@@ -1,6 +1,6 @@
 
 # Awesome Github Profile README  [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome#readme) ![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.awesome-github-profile-readme)
-> A curated list of awesome Github Profile READMEs 
+> A curated list of awesome Github Profile READMEs
 
 [![GitHub issues](https://img.shields.io/github/stars/abhisheknaiidu/awesome-github-profile-readme)](https://github.com/abhisheknaiidu/awesome-github-profile-readme/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/abhisheknaiidu/awesome-github-profile-readme)](https://github.com/abhisheknaiidu/awesome-github-profile-readme/network/members)
@@ -43,6 +43,7 @@
 - [CyrisXD](https://github.com/CyrisXD/CyrisXD)
 - [Mpho Mphego](https://github.com/mmphego/mmphego)
 - [Abhinav Sharma](https://github.com/ABSphreak/ABSphreak)
+- [Mason Slover](https://github.com/MasonSlover/MasonSlover)
 
 #### Anime 👾
 - [Ing](https://github.com/innng/innng)
@@ -74,7 +75,7 @@
 - [Github Readme Stats](https://github.com/anuraghazra/github-readme-stats) - Get dynamically generated GitHub stats on your readmes
 - [Simple Icons](https://github.com/simple-icons/simple-icons#cdn-usage) -  SVG icons for popular brands for your README.md files
 
-## Articles 
+## Articles
 - ["How To Create A GitHub Profile README"](https://www.aboutmonica.com/blog/how-to-create-a-github-profile-readme) - *Monica Powell*
 - ["What's on your GitHub Profile"](https://dev.to/waylonwalker/what-s-on-your-github-profile-40p3) - *Waylon Walker*
 - ["3 Ways to Spice up your Github Profile README 🔥"](https://dev.to/jayehernandez/3-ways-to-spice-up-your-github-profile-readme-1276) - *Jaye Hernandez*
