@@ -37,6 +37,7 @@
 - [Vansh Kapoor](https://github.com/vanshkapoor/vanshkapoor)
 - [Harsh Kumar Khatri](https://github.com/harshkumarkhatri/harshkumarkhatri)
 - [Stephen Ajulu](https://github.com/stephenajulu/stephenajulu)
+- [Akash Rai](https://github.com/akasrai/akasrai)
 
 #### Typing.. Mode 🎰
 - [Mathieu Ledru](https://github.com/matyo91/matyo91)
