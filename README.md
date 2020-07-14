@@ -17,6 +17,7 @@
 
 #### Game Mode 🚀
 - [Tim Burgan](https://github.com/timburgan/timburgan)
+- [Ben Sampica](https://github.com/benjaminsampica/benjaminsampica)
 
 #### Code Mode 👨🏽‍💻
 - [Thaiane Braga](https://github.com/Thaiane/Thaiane)
