@@ -6,6 +6,7 @@
 [![GitHub forks](https://img.shields.io/github/forks/abhisheknaiidu/awesome-github-profile-readme)](https://github.com/abhisheknaiidu/awesome-github-profile-readme/network/members)
 [![GitHub Pull Requests](https://img.shields.io/github/issues-pr/abhisheknaiidu/awesome-github-profile-readme?style=plastic)](https://github.com/abhisheknaiidu/awesome-github-profile-readme/pulls)
 [![GitHub issues](https://img.shields.io/github/issues/abhisheknaiidu/awesome-github-profile-readme?style=plastic)](https://github.com/abhisheknaiidu/awesome-github-profile-readme/issues)
+![Star Repo](https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99)
 [![GitHub License](https://img.shields.io/github/license/abhisheknaiidu/awesome-github-profile-readme)](https://github.com/abhisheknaiidu/awesome-github-profile-readme/blob/master/LICENSE)
 
 ## Categories
