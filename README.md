@@ -8,6 +8,27 @@
 [![GitHub issues](https://img.shields.io/github/issues/abhisheknaiidu/awesome-github-profile-readme?style=plastic)](https://github.com/abhisheknaiidu/awesome-github-profile-readme/issues)
 [![GitHub License](https://img.shields.io/github/license/abhisheknaiidu/awesome-github-profile-readme)](https://github.com/abhisheknaiidu/awesome-github-profile-readme/blob/master/LICENSE)
 
+### Contents
+  - [Categories](#categories)
+      - [Github Actions 🤖](#github-actions-)
+      - [Game Mode 🚀](#game-mode-)
+      - [Code Mode 👨🏽‍💻](#code-mode-)
+      - [Dynamic Realtime 💫](#dynamic-realtime-)
+      - [Descriptive 🗒](#descriptive-)
+      - [Simple but Innovative Ones 🤗](#simple-but-innovative-ones-)
+      - [Typing.. Mode 🎰](#typing-mode-)
+      - [Anime 👾](#anime-)
+      - [Minimalistic](#minimalistic)
+      - [GIFS 👻](#gifs-)
+      - [Just Images 🎭](#just-images-)
+      - [Fancy Fonts 🖋](#fancy-fonts-)
+      - [Icons 🎯](#icons-)
+  - [Tools](#tools)
+  - [Articles](#articles)
+  - [Contribute](#contribute)
+  - [License](#license)
+
+
 ## Categories
 
 #### Github Actions 🤖
