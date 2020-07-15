@@ -84,6 +84,7 @@
 #### Just Images 🎭
 - [偏右](https://github.com/afc163/afc163)
 - [thewhiteh4t](https://github.com/thewhiteh4t/thewhiteh4t)
+- [Pratik Kumar](https://github.com/pr2tik1)
 
 #### Fancy Fonts 🖋
 - [xiaoluoboding](https://github.com/xiaoluoboding/xiaoluoboding)
