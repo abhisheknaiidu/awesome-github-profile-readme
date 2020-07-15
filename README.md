@@ -27,6 +27,7 @@
 #### Dynamic Realtime 💫
 - [Abhishek Naidu](https://github.com/abhisheknaiidu/abhisheknaiidu)
 - [Anurag Hazra](https://github.com/anuraghazra/anuraghazra)
+- [Victor Williams](https://github.com/Vaporjawn/Vaporjawn)
 
 #### Descriptive 🗒
 - [Filip Troníček](https://github.com/filiptronicek/filiptronicek)
