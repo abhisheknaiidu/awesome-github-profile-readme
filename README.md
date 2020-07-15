@@ -45,22 +45,27 @@
 - [Michael Hoffmann (Mokkapps)](https://github.com/mokkapps/mokkapps)
 
 #### Game Mode 🚀
+
 - [Tim Burgan](https://github.com/timburgan/timburgan)
 - [Ben Sampica](https://github.com/benjaminsampica/benjaminsampica)
 
 #### Code Mode 👨🏽‍💻
+
 - [Thaiane Braga](https://github.com/Thaiane/Thaiane)
 - [Ash Baker](https://github.com/ashbakernz/ashbakernz)
 
 #### Dynamic Realtime 💫
+
 - [Abhishek Naidu](https://github.com/abhisheknaiidu/abhisheknaiidu)
 - [Anurag Hazra](https://github.com/anuraghazra/anuraghazra)
 - [Hemant Joshi](https://github.com/8bithemant/8bithemant)
 
 #### Descriptive 🗒
+
 - [Filip Troníček](https://github.com/filiptronicek/filiptronicek)
 
 #### Simple but Innovative Ones 🤗
+
 - [Nate Moore](https://github.com/natemoo-re/natemoo-re)
 - [Jhey Tompkins](https://github.com/jh3y/jh3y)
 - [Waylon Walker](https://github.com/WaylonWalker/WaylonWalker)
@@ -70,6 +75,7 @@
 - [Haany Ali](https://github.com/MarikIshtar007/MarikIshtar007)
 
 #### Typing.. Mode 🎰
+
 - [Mathieu Ledru](https://github.com/matyo91/matyo91)
 - [CyrisXD](https://github.com/CyrisXD/CyrisXD)
 - [Mpho Mphego](https://github.com/mmphego/mmphego)
@@ -77,34 +83,41 @@
 - [Mason Slover](https://github.com/MasonSlover/MasonSlover)
 
 #### Anime 👾
+
 - [Ing](https://github.com/innng/innng)
 
 #### Minimalistic
+
 - [Gift Egwuenu](https://github.com/lauragift21/lauragift21)
 - [Kelechi Precious Nwachukwu](https://github.com/PluckyPrecious/PluckyPrecious)
 
 #### GIFS 👻
+
 - [Ari](https://github.com/ari-hacks/ari-hacks)
 - [Siv Ram Shastri](https://github.com/Prince-Shivaram/Prince-Shivaram)
 - [Shanu Mishra](https://github.com/Shanu1515/Shanu1515)
 - [Shubham Kumar](https://github.com/imskr/imskr)
 
 #### Just Images 🎭
+
 - [偏右](https://github.com/afc163/afc163)
 - [thewhiteh4t](https://github.com/thewhiteh4t/thewhiteh4t)
 
 #### Fancy Fonts 🖋
+
 - [xiaoluoboding](https://github.com/xiaoluoboding/xiaoluoboding)
 
 #### Icons 🎯
+
 - [Hussainweb](https://github.com/hussainweb/hussainweb)
 - [Peter Han](https://github.com/hussainweb/peterthehan)
 
 ## Tools
+
 - [Visitor Badge](https://visitor-badge.glitch.me/#docs) - Count visitors for your README.md, Issues, PRs in GitHub
 - [Shields Project](https://shields.io/) - Use Shields to create profile badges, compatible with Simple Icons
 - [Github Readme Stats](https://github.com/anuraghazra/github-readme-stats) - Get dynamically generated GitHub stats on your readmes
-- [Simple Icons](https://github.com/simple-icons/simple-icons#cdn-usage) -  SVG icons for popular brands for your README.md files
+- [Simple Icons](https://github.com/simple-icons/simple-icons#cdn-usage) - SVG icons for popular brands for your README.md files
 
 ## Articles
 - ["How To Create A GitHub Profile README"](https://www.aboutmonica.com/blog/how-to-create-a-github-profile-readme) - *Monica Powell*
