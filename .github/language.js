@@ -1,1 +1,1 @@
-console.log("Github Profile Readme");
+console.log("GitHub Profile Readme");
