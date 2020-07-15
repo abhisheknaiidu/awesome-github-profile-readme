@@ -8,7 +8,7 @@
 [![GitHub issues](https://img.shields.io/github/issues/abhisheknaiidu/awesome-github-profile-readme?style=plastic)](https://github.com/abhisheknaiidu/awesome-github-profile-readme/issues)
 [![GitHub License](https://img.shields.io/github/license/abhisheknaiidu/awesome-github-profile-readme)](https://github.com/abhisheknaiidu/awesome-github-profile-readme/blob/master/LICENSE)
 
-## Categories
+## Categories:
 
 #### Github Actions 🤖
 - [Brian Douglas](https://github.com/bdougie/bdougie)
