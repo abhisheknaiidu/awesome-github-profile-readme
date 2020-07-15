@@ -37,7 +37,6 @@
 - [Vansh Kapoor](https://github.com/vanshkapoor/vanshkapoor)
 - [Harsh Kumar Khatri](https://github.com/harshkumarkhatri/harshkumarkhatri)
 - [Stephen Ajulu](https://github.com/stephenajulu/stephenajulu)
-- [Akash Rai](https://github.com/akasrai/akasrai)
 
 #### Typing.. Mode 🎰
 - [Mathieu Ledru](https://github.com/matyo91/matyo91)
@@ -62,6 +61,7 @@
 #### Just Images 🎭
 - [偏右](https://github.com/afc163/afc163)
 - [thewhiteh4t](https://github.com/thewhiteh4t/thewhiteh4t)
+- [Akash Rai](https://github.com/akasrai/akasrai)
 
 #### Fancy Fonts 🖋
 - [xiaoluoboding](https://github.com/xiaoluoboding/xiaoluoboding)
