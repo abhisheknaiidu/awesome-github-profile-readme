@@ -74,6 +74,7 @@
 #### Minimalistic
 - [Gift Egwuenu](https://github.com/lauragift21/lauragift21)
 - [Kelechi Precious Nwachukwu](https://github.com/PluckyPrecious/PluckyPrecious)
+- [Pratik Kumar](https://github.com/pr2tik1/pr2tik1)
 
 #### GIFS 👻
 - [Ari](https://github.com/ari-hacks/ari-hacks)
