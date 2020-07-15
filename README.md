@@ -88,6 +88,7 @@
 - [Siv Ram Shastri](https://github.com/Prince-Shivaram/Prince-Shivaram)
 - [Shanu Mishra](https://github.com/Shanu1515/Shanu1515)
 - [Shubham Kumar](https://github.com/imskr/imskr)
+- [Duncan](https://github.com/dephraiim/dephraiim)
 
 #### Just Images 🎭
 - [偏右](https://github.com/afc163/afc163)
@@ -98,6 +99,7 @@
 
 #### Icons 🎯
 - [Hussainweb](https://github.com/hussainweb/hussainweb)
+- [Duncan](https://github.com/dephraiim/dephraiim)
 
 
 ## Tools
