@@ -4,9 +4,30 @@
 
 [![GitHub issues](https://img.shields.io/github/stars/abhisheknaiidu/awesome-github-profile-readme)](https://github.com/abhisheknaiidu/awesome-github-profile-readme/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/abhisheknaiidu/awesome-github-profile-readme)](https://github.com/abhisheknaiidu/awesome-github-profile-readme/network/members)
-[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/abhisheknaiidu/awesome-github-profile-readme?style=plastic)](https://github.com/abhisheknaiidu/awesome-github-profile-readme/pulls)
-[![GitHub issues](https://img.shields.io/github/issues/abhisheknaiidu/awesome-github-profile-readme?style=plastic)](https://github.com/abhisheknaiidu/awesome-github-profile-readme/issues)
+[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/abhisheknaiidu/awesome-github-profile-readme)](https://github.com/abhisheknaiidu/awesome-github-profile-readme/pulls)
+[![GitHub issues](https://img.shields.io/github/issues/abhisheknaiidu/awesome-github-profile-readme)](https://github.com/abhisheknaiidu/awesome-github-profile-readme/issues)
 [![GitHub License](https://img.shields.io/github/license/abhisheknaiidu/awesome-github-profile-readme)](https://github.com/abhisheknaiidu/awesome-github-profile-readme/blob/master/LICENSE)
+
+### Contents
+  - [Categories](#categories)
+      - [Github Actions 🤖](#github-actions-)
+      - [Game Mode 🚀](#game-mode-)
+      - [Code Mode 👨🏽‍💻](#code-mode-)
+      - [Dynamic Realtime 💫](#dynamic-realtime-)
+      - [Descriptive 🗒](#descriptive-)
+      - [Simple but Innovative Ones 🤗](#simple-but-innovative-ones-)
+      - [Typing.. Mode 🎰](#typing-mode-)
+      - [Anime 👾](#anime-)
+      - [Minimalistic](#minimalistic)
+      - [GIFS 👻](#gifs-)
+      - [Just Images 🎭](#just-images-)
+      - [Fancy Fonts 🖋](#fancy-fonts-)
+      - [Icons 🎯](#icons-)
+  - [Tools](#tools)
+  - [Articles](#articles)
+  - [Contribute](#contribute)
+  - [License](#license)
+
 
 ## Categories
 
@@ -27,6 +48,7 @@
 #### Dynamic Realtime 💫
 - [Abhishek Naidu](https://github.com/abhisheknaiidu/abhisheknaiidu)
 - [Anurag Hazra](https://github.com/anuraghazra/anuraghazra)
+- [Hemant Joshi](https://github.com/8bithemant/8bithemant)
 
 #### Descriptive 🗒
 - [Filip Troníček](https://github.com/filiptronicek/filiptronicek)
