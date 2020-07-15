@@ -1,20 +1,48 @@
+<h1 align="center">Awesome Github Profile README</h1>
+<div align="center">
+<img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
+<!-- <img src="http://hits.dwyl.com/abhisheknaiidu/awesome-github-profile-readme.svg" alt="Hits Badge"/> -->
+<img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99" alt="Star Badge"/>
 
-# Awesome Github Profile README  ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.awesome-github-profile-readme) ![Star Repo](https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99)
-> A curated list of awesome Github Profile READMEs
+<i>A curated list of awesome Github Profile READMEs</i>
 
-[![GitHub issues](https://img.shields.io/github/stars/abhisheknaiidu/awesome-github-profile-readme)](https://github.com/abhisheknaiidu/awesome-github-profile-readme/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/abhisheknaiidu/awesome-github-profile-readme)](https://github.com/abhisheknaiidu/awesome-github-profile-readme/network/members)
-[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/abhisheknaiidu/awesome-github-profile-readme?style=plastic)](https://github.com/abhisheknaiidu/awesome-github-profile-readme/pulls)
-[![GitHub issues](https://img.shields.io/github/issues/abhisheknaiidu/awesome-github-profile-readme?style=plastic)](https://github.com/abhisheknaiidu/awesome-github-profile-readme/issues)
-[![GitHub License](https://img.shields.io/github/license/abhisheknaiidu/awesome-github-profile-readme)](https://github.com/abhisheknaiidu/awesome-github-profile-readme/blob/master/LICENSE)
+<a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/stargazers"><img src="https://img.shields.io/github/stars/abhisheknaiidu/awesome-github-profile-readme" alt="Stars Badge"/></a>
+<a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/network/members"><img src="https://img.shields.io/github/forks/abhisheknaiidu/awesome-github-profile-readme" alt="Forks Badge"/></a>
+<a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/pulls"><img src="https://img.shields.io/github/issues-pr/abhisheknaiidu/awesome-github-profile-readme" alt="Pull Requests Badge"/></a>
+<a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/issues"><img src="https://img.shields.io/github/issues/abhisheknaiidu/awesome-github-profile-readme" alt="Issues Badge"/></a>
+<a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/blob/master/LICENSE"><img src="https://img.shields.io/github/license/abhisheknaiidu/awesome-github-profile-readme" alt="License Badge"/></a>
+</div>
+
+### Contents:
+  - [Categories](#categories)
+      - [Github Actions 🤖](#github-actions-)
+      - [Game Mode 🚀](#game-mode-)
+      - [Code Mode 👨🏽‍💻](#code-mode-)
+      - [Dynamic Realtime 💫](#dynamic-realtime-)
+      - [Descriptive 🗒](#descriptive-)
+      - [Simple but Innovative Ones 🤗](#simple-but-innovative-ones-)
+      - [Typing.. Mode 🎰](#typing-mode-)
+      - [Anime 👾](#anime-)
+      - [Minimalistic](#minimalistic)
+      - [GIFS 👻](#gifs-)
+      - [Just Images 🎭](#just-images-)
+      - [Fancy Fonts 🖋](#fancy-fonts-)
+      - [Icons 🎯](#icons-)
+  - [Tools](#tools)
+  - [Articles](#articles)
+  - [Contribute](#contribute)
+  - [License](#license)
+
 
 ## Categories
 
 #### Github Actions 🤖
+- [Thomas Guibert](https://github.com/thmsgbrt/thmsgbrt)
 - [Brian Douglas](https://github.com/bdougie/bdougie)
 - [Shawn Wang](https://github.com/sw-yx/sw-yx)
 - [Simon Willison](https://github.com/simonw/simonw)
 - [Mike Coutermarsh](https://github.com/mscoutermarsh/mscoutermarsh)
+- [Michael Hoffmann (Mokkapps)](https://github.com/mokkapps/mokkapps)
 
 #### Game Mode 🚀
 - [Tim Burgan](https://github.com/timburgan/timburgan)
@@ -28,6 +56,8 @@
 - [Abhishek Naidu](https://github.com/abhisheknaiidu/abhisheknaiidu)
 - [Anurag Hazra](https://github.com/anuraghazra/anuraghazra)
 - [Omer Quadri](https://github.com/Quadrified/Quadrified)
+- [Hemant Joshi](https://github.com/8bithemant/8bithemant)
+
 
 #### Descriptive 🗒
 - [Filip Troníček](https://github.com/filiptronicek/filiptronicek)
@@ -39,6 +69,7 @@
 - [Vansh Kapoor](https://github.com/vanshkapoor/vanshkapoor)
 - [Harsh Kumar Khatri](https://github.com/harshkumarkhatri/harshkumarkhatri)
 - [Stephen Ajulu](https://github.com/stephenajulu/stephenajulu)
+- [Haany Ali](https://github.com/MarikIshtar007/MarikIshtar007)
 
 #### Typing.. Mode 🎰
 - [Mathieu Ledru](https://github.com/matyo91/matyo91)
@@ -84,6 +115,7 @@
 - ["Dynamically Generated Github Stats For Your Profile ReadMe"](https://dev.to/anuraghazra/dynamically-generated-github-stats-for-your-profile-readme-o4g) - *Anurag Hazra*
 - ["How to create an awesome GIF for your GitHub Profile README"](https://dev.to/satvikchachra/how-to-add-an-awesome-readme-to-your-github-profile-361n) - *Satvik Chachra*
 - ["Create a special repository in your GitHub Profile 🔨, supported and unsupported features"](https://torrocus.com/blog/special-github-repository/) - *Alex Malaszkiewicz*
+- ["How I Built A Self-Updating README On My Github Profile"](https://www.mokkapps.de/blog/how-i-built-a-self-updating-readme-on-my-git-hub-profile/) - *Michael Hoffmann (Mokkapps)*
 
 ## Contribute
 
