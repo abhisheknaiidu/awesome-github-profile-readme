@@ -110,7 +110,7 @@
 #### Icons 🎯
 
 - [Hussainweb](https://github.com/hussainweb/hussainweb)
-- [Peter Han](https://github.com/hussainweb/peterthehan)
+- [Peter Han](https://github.com/peterthehan/peterthehan)
 
 ## Tools
 
