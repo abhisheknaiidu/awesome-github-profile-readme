@@ -60,6 +60,7 @@
 
 #### Descriptive 🗒
 - [Filip Troníček](https://github.com/filiptronicek/filiptronicek)
+- [Dennis Hartrampf](https://github.com/DennisHartrampf/DennisHartrampf)
 
 #### Simple but Innovative Ones 🤗
 - [Nate Moore](https://github.com/natemoo-re/natemoo-re)
