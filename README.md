@@ -23,7 +23,7 @@
       - [Simple but Innovative Ones 🤗](#simple-but-innovative-ones-)
       - [Typing.. Mode 🎰](#typing-mode-)
       - [Anime 👾](#anime-)
-      - [Minimalistic](#minimalistic)
+      - [Minimalistic ✨](#minimalistic)
       - [GIFS 👻](#gifs-)
       - [Just Images 🎭](#just-images-)
       - [Fancy Fonts 🖋](#fancy-fonts-)
@@ -81,7 +81,7 @@
 #### Anime 👾
 - [Ing](https://github.com/innng/innng)
 
-#### Minimalistic
+#### Minimalistic ✨
 - [Gift Egwuenu](https://github.com/lauragift21/lauragift21)
 - [Kelechi Precious Nwachukwu](https://github.com/PluckyPrecious/PluckyPrecious)
 - [Pratik Kumar](https://github.com/pr2tik1/pr2tik1)
