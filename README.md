@@ -81,6 +81,9 @@
 #### Anime 👾
 - [Ing](https://github.com/innng/innng)
 
+#### Aesthetics
+- [Rahul Goswami](https://www.github.com/yuvrajiro)
+
 #### Minimalistic ✨
 - [Gift Egwuenu](https://github.com/lauragift21/lauragift21)
 - [Kelechi Precious Nwachukwu](https://github.com/PluckyPrecious/PluckyPrecious)
