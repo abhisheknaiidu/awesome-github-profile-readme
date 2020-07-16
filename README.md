@@ -99,7 +99,6 @@
 
 #### Icons 🎯
 - [Hussainweb](https://github.com/hussainweb/hussainweb)
-- [Duncan](https://github.com/dephraiim/dephraiim)
 
 
 ## Tools
