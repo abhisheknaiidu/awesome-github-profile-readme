@@ -99,6 +99,7 @@
 - [Ghazi Khan](https://github.com/gkhan205)
 - [Pratik Kumar](https://github.com/pr2tik1/pr2tik1)
 - [Dennis Hartrampf](https://github.com/DennisHartrampf/DennisHartrampf)
+- [MrStanDu33](https://github.com/MrStanDu33/MrStanDu33)
 
 #### GIFS 👻
 - [Pouya Saadeghi](https://github.com/saadeghi/saadeghi)
