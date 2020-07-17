@@ -47,6 +47,7 @@
 - [Michael Hoffmann (Mokkapps)](https://github.com/mokkapps/mokkapps)
 - [Athul Cyriac Ajay](https://github.com/athul/athul)
 - [Gautam Krishna R](https://github.com/gautamkrishnar/gautamkrishnar)
+- [Roald Nefs](https://github.com/roaldnefs/roaldnefs)
 
 #### Game Mode 🚀
 - [Tim Burgan](https://github.com/timburgan/timburgan)
@@ -85,11 +86,13 @@
 
 #### Anime 👾
 - [Ing](https://github.com/innng/innng)
+- [AbhhiSaphire](https://github.com/AbhiSaphire/AbhiSaphire)
 
 #### Minimalistic ✨
 - [Gift Egwuenu](https://github.com/lauragift21/lauragift21)
 - [Kelechi Precious Nwachukwu](https://github.com/PluckyPrecious/PluckyPrecious)
 - [Pratik Kumar](https://github.com/pr2tik1/pr2tik1)
+- [Dennis Hartrampf](https://github.com/DennisHartrampf/DennisHartrampf)
 
 #### GIFS 👻
 - [Ari](https://github.com/ari-hacks/ari-hacks)
@@ -107,7 +110,7 @@
 
 #### Icons 🎯
 - [Hussainweb](https://github.com/hussainweb/hussainweb)
-
+- [Peter Han](https://github.com/peterthehan/peterthehan)
 
 ## Tools
 - [Visitor Badge](https://visitor-badge.glitch.me/#docs) - Count visitors for your README.md, Issues, PRs in GitHub
@@ -115,6 +118,7 @@
 - [Github Readme Stats](https://github.com/anuraghazra/github-readme-stats) - Get dynamically generated GitHub stats on your readmes
 - [Simple Icons](https://github.com/simple-icons/simple-icons#cdn-usage) -  SVG icons for popular brands for your README.md files
 - [Dev Metrics in Readme](https://github.com/athul/waka-readme) - [WakaTime](https://wakatime.com/) Weekly Metrics on your Profile Readme
+- [Profile Activity Generator](https://github.com/omidnikrah/profile-activity-generator) - Generate custom profile activity for your profile README
 - [Current UTC time](https://github.com/jojoee/jojoee) - Example code of server that can serve dynamic content on GitHub profile 
 
 ## Articles
