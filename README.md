@@ -113,6 +113,7 @@
 #### Just Images 🎭
 - [偏右](https://github.com/afc163/afc163)
 - [thewhiteh4t](https://github.com/thewhiteh4t/thewhiteh4t)
+- [Kaito Sugimoto](https://github.com/7ma7X/7ma7X)
 
 #### Fancy Fonts 🖋
 - [xiaoluoboding](https://github.com/xiaoluoboding/xiaoluoboding)
