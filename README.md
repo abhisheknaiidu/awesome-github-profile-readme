@@ -94,14 +94,13 @@
 - [Ing](https://github.com/innng/innng)
 - [AbhhiSaphire](https://github.com/AbhiSaphire/AbhiSaphire)
 
-#### Minimalistic
+#### Minimalistic ✨
 - [Caneco](https://github.com/caneco/)
 - [Gift Egwuenu](https://github.com/lauragift21/lauragift21)
 - [Kelechi Precious Nwachukwu](https://github.com/PluckyPrecious/PluckyPrecious)
 - [Ghazi Khan](https://github.com/gkhan205)
 - [Pratik Kumar](https://github.com/pr2tik1/pr2tik1)
 - [Dennis Hartrampf](https://github.com/DennisHartrampf/DennisHartrampf)
-
 
 #### GIFS 👻
 - [Ari](https://github.com/ari-hacks/ari-hacks)
