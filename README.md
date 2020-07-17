@@ -109,6 +109,7 @@
 - [Shubham Kumar](https://github.com/imskr/imskr)
 - [Duncan](https://github.com/dephraiim/dephraiim)
 - [Demartini](https://github.com/demartini/demartini)
+- [Sindre Sorhus](https://github.com/sindresorhus)
 
 #### Just Images 🎭
 - [Zack Krida](https://github.com/zackkrida/zackkrida)
