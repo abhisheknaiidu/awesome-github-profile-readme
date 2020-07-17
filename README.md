@@ -89,7 +89,10 @@
 - [AbhhiSaphire](https://github.com/AbhiSaphire/AbhiSaphire)
 
 #### Minimalistic ✨
+<<<<<<< HEAD
+=======
 - [Caneco](https://github.com/caneco/)
+>>>>>>> upstream/master
 - [Gift Egwuenu](https://github.com/lauragift21/lauragift21)
 - [Kelechi Precious Nwachukwu](https://github.com/PluckyPrecious/PluckyPrecious)
 - [Pratik Kumar](https://github.com/pr2tik1/pr2tik1)
