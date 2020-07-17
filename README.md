@@ -80,6 +80,7 @@
 - [Haany Ali](https://github.com/MarikIshtar007/MarikIshtar007)
 - [Anurag Singh](https://github.com/ashleymavericks/ashleymavericks)
 - [Rishit Dagli](https://github.com/Rishit-dagli/Rishit-dagli)
+- [Vinit Shahdeo](https://github.com/vinitshahdeo/vinitshahdeo/)
 
 #### Typing.. Mode 🎰
 - [Mathieu Ledru](https://github.com/matyo91/matyo91)
