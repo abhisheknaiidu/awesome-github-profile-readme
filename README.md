@@ -69,7 +69,7 @@
 
 #### Descriptive 🗒
 - [Filip Troníček](https://github.com/filiptronicek/filiptronicek)
-- [Garima Singh](https://github.com/garimasingh128)
+- [Garima Singh](https://github.com/garimasingh128/garimasingh128)
 
 #### Simple but Innovative Ones 🤗
 - [Nate Moore](https://github.com/natemoo-re/natemoo-re)
