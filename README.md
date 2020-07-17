@@ -66,6 +66,7 @@
 
 #### Descriptive 🗒
 - [Filip Troníček](https://github.com/filiptronicek/filiptronicek)
+- [Lucas Vazquez](https://github.com/lucasvazq/lucasvazq)
 
 #### Simple but Innovative Ones 🤗
 - [Nate Moore](https://github.com/natemoo-re/natemoo-re)
