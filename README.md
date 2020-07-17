@@ -11,7 +11,7 @@
 ## Categories
 
 #### Badges
-- [Anirudh Emmadi](https://github.com/aemmadi)
+- [Anirudh Emmadi](https://github.com/aemmadi/aemmadi)
 
 #### Github Actions 🤖
 - [Brian Douglas](https://github.com/bdougie/bdougie)
