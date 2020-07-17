@@ -41,6 +41,9 @@
 
 ## Categories
 
+#### Badges
+- [Anirudh Emmadi](https://github.com/aemmadi/aemmadi)
+
 #### Github Actions 🤖
 - [Thomas Guibert](https://github.com/thmsgbrt/thmsgbrt)
 - [Brian Douglas](https://github.com/bdougie/bdougie)
