@@ -20,25 +20,25 @@
 
 ### Contents:
 
-- [Categories](#categories)
-    - [Badges](#badges)
-    - [Github Actions 🤖](#github-actions-)
-    - [Game Mode 🚀](#game-mode-)
-    - [Code Mode 👨🏽‍💻](#code-mode-)
-    - [Dynamic Realtime 💫](#dynamic-realtime-)
-    - [Descriptive 🗒](#descriptive-)
-    - [Simple but Innovative Ones 🤗](#simple-but-innovative-ones-)
-    - [Typing.. Mode 🎰](#typing-mode-)
-    - [Anime 👾](#anime-)
-    - [Minimalistic ✨](#minimalistic-)
-    - [GIFS 👻](#gifs-)
-    - [Just Images 🎭](#just-images-)
-    - [Fancy Fonts 🖋](#fancy-fonts-)
-    - [Icons 🎯](#icons-)
-- [Tools](#tools)
-- [Articles](#articles)
-- [Contribute](#contribute)
-- [License](#license)
+  - [Categories](#categories)
+      - [Github Actions 🤖](#github-actions-)
+      - [Game Mode 🚀](#game-mode-)
+      - [Code Mode 👨🏽‍💻](#code-mode-)
+      - [Dynamic Realtime 💫](#dynamic-realtime-)
+      - [Descriptive 🗒](#descriptive-)
+      - [Simple but Innovative Ones 🤗](#simple-but-innovative-ones-)
+      - [Typing.. Mode 🎰](#typing-mode-)
+      - [Anime 👾](#anime-)
+      - [Minimalistic ✨](#minimalistic)
+      - [GIFS 👻](#gifs-)
+      - [Just Images 🎭](#just-images-)
+      - [Badges 🎫](#badges-)
+      - [Fancy Fonts 🖋](#fancy-fonts-)
+      - [Icons 🎯](#icons-)
+  - [Tools](#tools)
+  - [Articles](#articles)
+  - [Contribute](#contribute)
+  - [License](#license)
 
 ## Categories
 
@@ -127,7 +127,7 @@
 - [thewhiteh4t](https://github.com/thewhiteh4t/thewhiteh4t)
 - [Kaito Sugimoto](https://github.com/7ma7X/7ma7X)
 
-#### Badges
+#### Badges 🎫
 - [Anirudh Emmadi](https://github.com/aemmadi/aemmadi)
 
 #### Fancy Fonts 🖋
