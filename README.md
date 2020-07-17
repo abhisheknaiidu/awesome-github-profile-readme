@@ -31,6 +31,7 @@
       - [Minimalistic ✨](#minimalistic)
       - [GIFS 👻](#gifs-)
       - [Just Images 🎭](#just-images-)
+      - [Badges 🎫](#badges-)
       - [Fancy Fonts 🖋](#fancy-fonts-)
       - [Icons 🎯](#icons-)
   - [Tools](#tools)
@@ -111,7 +112,7 @@
 - [thewhiteh4t](https://github.com/thewhiteh4t/thewhiteh4t)
 - [Kaito Sugimoto](https://github.com/7ma7X/7ma7X)
 
-#### Badges
+#### Badges 🎫
 - [Anirudh Emmadi](https://github.com/aemmadi/aemmadi)
 
 #### Fancy Fonts 🖋
