@@ -108,6 +108,7 @@
 - [Shanu Mishra](https://github.com/Shanu1515/Shanu1515)
 - [Shubham Kumar](https://github.com/imskr/imskr)
 - [Duncan](https://github.com/dephraiim/dephraiim)
+- [Demartini](https://github.com/demartini/demartini)
 
 #### Just Images 🎭
 - [Zack Krida](https://github.com/zackkrida/zackkrida)
