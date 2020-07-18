@@ -87,6 +87,7 @@
 - [Vinit Shahdeo](https://github.com/vinitshahdeo/vinitshahdeo/)
 - [Fatih Kadir Akın](https://github.com/f/f/)
 - [Lucas Vazquez](https://github.com/lucasvazq/lucasvazq)
+- [小弟调调™](https://github.com/jaywcjlove/jaywcjlove)
 
 #### Typing.. Mode 🎰
 - [Mathieu Ledru](https://github.com/matyo91/matyo91)
