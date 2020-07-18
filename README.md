@@ -28,7 +28,7 @@
       - [Simple but Innovative Ones 🤗](#simple-but-innovative-ones-)
       - [Typing.. Mode 🎰](#typing-mode-)
       - [Anime 👾](#anime-)
-      - [Minimalistic ✨](#minimalistic)
+      - [Minimalistic ✨](#minimalistic-)
       - [GIFS 👻](#gifs-)
       - [Just Images 🎭](#just-images-)
       - [Badges 🎫](#badges-)
