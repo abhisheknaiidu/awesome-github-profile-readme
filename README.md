@@ -113,6 +113,7 @@
 - [Duncan](https://github.com/dephraiim/dephraiim)
 - [Demartini](https://github.com/demartini/demartini)
 - [Sindre Sorhus](https://github.com/sindresorhus/sindresorhus)
+- [Kevin Cui](https://github.com/KevCui/KevCui)
 
 #### Just Images 🎭
 - [Zack Krida](https://github.com/zackkrida/zackkrida)
