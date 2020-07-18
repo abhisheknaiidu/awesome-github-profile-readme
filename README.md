@@ -99,7 +99,6 @@
 
 #### Anime 👾
 - [Ing](https://github.com/innng/innng)
-- [AbhhiSaphire](https://github.com/AbhiSaphire/AbhiSaphire)
 
 #### Minimalistic ✨
 - [Caneco](https://github.com/caneco/)
