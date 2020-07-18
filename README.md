@@ -113,7 +113,7 @@
 - [Duncan](https://github.com/dephraiim/dephraiim)
 - [Demartini](https://github.com/demartini/demartini)
 - [Sindre Sorhus](https://github.com/sindresorhus/sindresorhus)
-- [Pranjal Bhardwaj](https://github.com/Bhard27)
+- [Pranjal Bhardwaj](https://github.com/Bhard27/Bhard27)
 
 #### Just Images 🎭
 - [Zack Krida](https://github.com/zackkrida/zackkrida)
