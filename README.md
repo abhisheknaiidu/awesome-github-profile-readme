@@ -52,6 +52,7 @@
 - [Athul Cyriac Ajay](https://github.com/athul/athul)
 - [Gautam Krishna R](https://github.com/gautamkrishnar/gautamkrishnar)
 - [Roald Nefs](https://github.com/roaldnefs/roaldnefs)
+- [Dhruv Jain](https://github.com/maddhruv/maddhruv)
 
 #### Game Mode 🚀
 - [Tim Burgan](https://github.com/timburgan/timburgan)
@@ -71,6 +72,7 @@
 #### Descriptive 🗒
 - [Filip Troníček](https://github.com/filiptronicek/filiptronicek)
 - [Garima Singh](https://github.com/garimasingh128/garimasingh128)
+- [lizheming](https://github.com/lizheming/lizheming)
 
 #### Simple but Innovative Ones 🤗
 - [Nate Moore](https://github.com/natemoo-re/natemoo-re)
@@ -83,6 +85,8 @@
 - [Anurag Singh](https://github.com/ashleymavericks/ashleymavericks)
 - [Rishit Dagli](https://github.com/Rishit-dagli/Rishit-dagli)
 - [Vinit Shahdeo](https://github.com/vinitshahdeo/vinitshahdeo/)
+- [Fatih Kadir Akın](https://github.com/f/f/)
+- [Lucas Vazquez](https://github.com/lucasvazq/lucasvazq)
 
 #### Typing.. Mode 🎰
 - [Mathieu Ledru](https://github.com/matyo91/matyo91)
@@ -113,6 +117,8 @@
 - [Duncan](https://github.com/dephraiim/dephraiim)
 - [Demartini](https://github.com/demartini/demartini)
 - [Sindre Sorhus](https://github.com/sindresorhus/sindresorhus)
+- [Pranjal Bhardwaj](https://github.com/Bhard27/Bhard27)
+- [Okan Koçyiğit](https://github.com/okankocyigit/okankocyigit)
 - [Kevin Cui](https://github.com/KevCui/KevCui)
 
 #### Just Images 🎭
@@ -120,6 +126,7 @@
 - [偏右](https://github.com/afc163/afc163)
 - [thewhiteh4t](https://github.com/thewhiteh4t/thewhiteh4t)
 - [Kaito Sugimoto](https://github.com/7ma7X/7ma7X)
+- [Oussama Bouchikhi](https://github.com/oussamabouchikhi/oussamabouchikhi)
 
 #### Badges 🎫
 - [Anirudh Emmadi](https://github.com/aemmadi/aemmadi)
@@ -130,6 +137,8 @@
 #### Icons 🎯
 - [Hussainweb](https://github.com/hussainweb/hussainweb)
 - [Peter Han](https://github.com/peterthehan/peterthehan)
+- [Thomas George Thomas](https://github.com/Thomas-George-T/Thomas-George-T)
+- [Derek Nguyen](https://github.com/dereknguyen269/dereknguyen269)
 
 ## Tools
 - [Visitor Badge](https://visitor-badge.glitch.me/#docs) - Count visitors for your README.md, Issues, PRs in GitHub
@@ -144,6 +153,7 @@
 - [Github Activity in README](https://github.com/jamesgeorge007/github-activity-readme) - Updates `README.md` with the recent GitHub activity of a user
 - [Github Profile README Generator](https://github.com/rahuldkjain/github-profile-readme-generator) - This tool provides an easy way to create github profile readme with latest addons like `visitors count`, `github stats` etc.
 - [Dynamic Profile Page On Github](https://github.com/umutphp/github-action-dynamic-profile-page) - Get dynamically generated list of your commits (of the repositories that the action is configured) on GitHub profile readme.
+- [npm package downloads](https://github.com/maddhruv/github-readme-npm-downloads) - Show all of your npm packages and their total downloads
 
 ## Articles
 - ["How To Create A GitHub Profile README"](https://www.aboutmonica.com/blog/how-to-create-a-github-profile-readme) - *Monica Powell*
