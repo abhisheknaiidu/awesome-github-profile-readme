@@ -85,7 +85,6 @@
 - [Rishit Dagli](https://github.com/Rishit-dagli/Rishit-dagli)
 - [Vinit Shahdeo](https://github.com/vinitshahdeo/vinitshahdeo/)
 - [Fatih Kadir Akın](https://github.com/f/f/)
-- [Derek Nguyen](https://github.com/dereknguyen269/dereknguyen269)
 
 #### Typing.. Mode 🎰
 - [Mathieu Ledru](https://github.com/matyo91/matyo91)
@@ -133,6 +132,7 @@
 #### Icons 🎯
 - [Hussainweb](https://github.com/hussainweb/hussainweb)
 - [Peter Han](https://github.com/peterthehan/peterthehan)
+- [Derek Nguyen](https://github.com/dereknguyen269/dereknguyen269)
 
 ## Tools
 - [Visitor Badge](https://visitor-badge.glitch.me/#docs) - Count visitors for your README.md, Issues, PRs in GitHub
