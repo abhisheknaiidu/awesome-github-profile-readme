@@ -82,7 +82,6 @@
 - [Anurag Singh](https://github.com/ashleymavericks/ashleymavericks)
 - [Rishit Dagli](https://github.com/Rishit-dagli/Rishit-dagli)
 - [Vinit Shahdeo](https://github.com/vinitshahdeo/vinitshahdeo/)
-- [Oussama Bouchikhi](https://github.com/oussamabouchikhi/oussamabouchikhi)
 
 #### Typing.. Mode 🎰
 - [Mathieu Ledru](https://github.com/matyo91/matyo91)
@@ -119,6 +118,7 @@
 - [偏右](https://github.com/afc163/afc163)
 - [thewhiteh4t](https://github.com/thewhiteh4t/thewhiteh4t)
 - [Kaito Sugimoto](https://github.com/7ma7X/7ma7X)
+- [Oussama Bouchikhi](https://github.com/oussamabouchikhi/oussamabouchikhi)
 
 #### Badges 🎫
 - [Anirudh Emmadi](https://github.com/aemmadi/aemmadi)
