@@ -85,6 +85,7 @@
 - [Rishit Dagli](https://github.com/Rishit-dagli/Rishit-dagli)
 - [Vinit Shahdeo](https://github.com/vinitshahdeo/vinitshahdeo/)
 - [Fatih Kadir Akın](https://github.com/f/f/)
+- [Lucas Vazquez](https://github.com/lucasvazq/lucasvazq)
 
 #### Typing.. Mode 🎰
 - [Mathieu Ledru](https://github.com/matyo91/matyo91)
