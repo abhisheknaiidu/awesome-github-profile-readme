@@ -109,6 +109,7 @@
 - [Dennis Hartrampf](https://github.com/DennisHartrampf/DennisHartrampf)
 - [MrStanDu33](https://github.com/MrStanDu33/MrStanDu33)
 - [Jayraj Roshan](https://github.com/jayrajroshan/jayrajroshan)
+- [amxchang](https://github.com/amxchang/amxchang)
 
 #### GIFS 👻
 - [Pouya Saadeghi](https://github.com/saadeghi/saadeghi)
