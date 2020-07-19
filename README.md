@@ -156,7 +156,7 @@
 - [Github Profile README Generator](https://github.com/rahuldkjain/github-profile-readme-generator) - This tool provides an easy way to create github profile readme with latest addons like `visitors count`, `github stats` etc.
 - [Dynamic Profile Page On Github](https://github.com/umutphp/github-action-dynamic-profile-page) - Get dynamically generated list of your commits (of the repositories that the action is configured) on GitHub profile readme.
 - [npm package downloads](https://github.com/maddhruv/github-readme-npm-downloads) - Show all of your npm packages and their total downloads
-- [All Dev Stats in Readme](https://github.com/anmol098/waka-readme-stats) - [WakaTime](https://wakatime.com/) All Weekly Metrics on your Profile Readme with extra feature flags
+- [All Dev Stats in Readme](https://github.com/anmol098/waka-readme-stats) - [WakaTime](https://wakatime.com/) All Weekly Metrics on your Profile Readme with extra feature flags to toggle code Editors used, os worked on, show timezone, top working projects
 
 ## Articles
 - ["How To Create A GitHub Profile README"](https://www.aboutmonica.com/blog/how-to-create-a-github-profile-readme) - *Monica Powell*
