@@ -124,6 +124,7 @@
 - [Sindre Sorhus](https://github.com/sindresorhus/sindresorhus)
 - [Pranjal Bhardwaj](https://github.com/Bhard27/Bhard27)
 - [Okan Koçyiğit](https://github.com/okankocyigit/okankocyigit)
+- [Raghav Khullar](https://github.com/RaghavK16/RaghavK16)
 
 #### Just Images 🎭
 - [Zack Krida](https://github.com/zackkrida/zackkrida)
