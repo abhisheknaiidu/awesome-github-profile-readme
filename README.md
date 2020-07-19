@@ -99,7 +99,6 @@
 
 #### Anime 👾
 - [Ing](https://github.com/innng/innng)
-- [AbhhiSaphire](https://github.com/AbhiSaphire/AbhiSaphire)
 
 #### Minimalistic ✨
 - [Caneco](https://github.com/caneco/)
@@ -109,6 +108,7 @@
 - [Pratik Kumar](https://github.com/pr2tik1/pr2tik1)
 - [Dennis Hartrampf](https://github.com/DennisHartrampf/DennisHartrampf)
 - [MrStanDu33](https://github.com/MrStanDu33/MrStanDu33)
+- [Jayraj Roshan](https://github.com/jayrajroshan/jayrajroshan)
 - [Orhun](https://github.com/orhun/orhun)
 
 #### GIFS 👻
