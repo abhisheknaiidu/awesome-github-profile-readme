@@ -1,0 +1,17 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "",
+        "limitSymbolsToIncludedHeaders": true
+      },
+      "includePath": [
+        "/opt/ros/melodic/include/**",
+        "/home/erwin/catkin_ws/src/ros-xenomai-bridge/ros_nrt/reactive_navigation/include/**",
+        "/home/erwin/catkin_ws/src/ros-xenomai-bridge/ros_nrt/xddp_utilities/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS"
+    }
+  ]
+}
