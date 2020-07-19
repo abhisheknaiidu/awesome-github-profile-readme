@@ -131,6 +131,7 @@
 
 #### Badges 🎫
 - [Anirudh Emmadi](https://github.com/aemmadi/aemmadi)
+- [Ileriayo Adebiyi](https://github.com/ileriayo/ileriayo)
 
 #### Fancy Fonts 🖋
 - [xiaoluoboding](https://github.com/xiaoluoboding/xiaoluoboding)
