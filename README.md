@@ -76,7 +76,7 @@
 - [Nguyễn Hoàng Dương](https://github.com/you-create/you-create)
 
 #### Simple but Innovative Ones 🤗
-- [Anirudh Kolwadkar](https://github.com/Anirudhk07)
+
 - [Nate Moore](https://github.com/natemoo-re/natemoo-re)
 - [Jhey Tompkins](https://github.com/jh3y/jh3y)
 - [Waylon Walker](https://github.com/WaylonWalker/WaylonWalker)
