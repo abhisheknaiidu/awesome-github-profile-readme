@@ -53,6 +53,7 @@
 - [Gautam Krishna R](https://github.com/gautamkrishnar/gautamkrishnar)
 - [Roald Nefs](https://github.com/roaldnefs/roaldnefs)
 - [Dhruv Jain](https://github.com/maddhruv/maddhruv)
+- [Erwin Lejeune](https://github.com/guilyx/guilyx)
 
 #### Game Mode 🚀
 - [Tim Burgan](https://github.com/timburgan/timburgan)
