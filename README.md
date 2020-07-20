@@ -135,6 +135,7 @@
 - [Oussama Bouchikhi](https://github.com/oussamabouchikhi/oussamabouchikhi)
 
 #### Badges 🎫
+- [Adam Alston](https://github.com/adamalston/adamalston)
 - [Anirudh Emmadi](https://github.com/aemmadi/aemmadi)
 - [Brendon Smith](https://github.com/br3ndonland/br3ndonland)
 
