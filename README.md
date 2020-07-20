@@ -93,6 +93,7 @@
 - [Lucas Vazquez](https://github.com/lucasvazq/lucasvazq)
 - [小弟调调™](https://github.com/jaywcjlove/jaywcjlove)
 - [Johnny Villegas](https://github.com/C9-LinkRs/C9-LinkRs)
+- [Andrew Novac](https://github.com/novatorem/novatorem)
 
 #### Typing.. Mode 🎰
 - [Mathieu Ledru](https://github.com/matyo91/matyo91)
