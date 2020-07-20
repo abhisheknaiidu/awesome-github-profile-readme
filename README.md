@@ -164,6 +164,7 @@
 
 ## Articles
 - ["How To Create A GitHub Profile README"](https://www.aboutmonica.com/blog/how-to-create-a-github-profile-readme) - *Monica Powell*
+- ["How to make your Github profile shine using Profile READMEs"](https://medium.com/swlh/how-to-make-your-github-profile-shine-using-profile-readmes-2405a742393c) - *Jessica Lim*
 - ["What's on your GitHub Profile"](https://dev.to/waylonwalker/what-s-on-your-github-profile-40p3) - *Waylon Walker*
 - ["3 Ways to Spice up your Github Profile README 🔥"](https://dev.to/jayehernandez/3-ways-to-spice-up-your-github-profile-readme-1276) - *Jaye Hernandez*
 - ["Dynamically Generated Github Stats For Your Profile ReadMe"](https://dev.to/anuraghazra/dynamically-generated-github-stats-for-your-profile-readme-o4g) - *Anurag Hazra*
