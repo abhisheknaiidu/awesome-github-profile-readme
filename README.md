@@ -89,6 +89,7 @@
 - [Fatih Kadir Akın](https://github.com/f/f/)
 - [Lucas Vazquez](https://github.com/lucasvazq/lucasvazq)
 - [小弟调调™](https://github.com/jaywcjlove/jaywcjlove)
+- [Johnny Villegas](https://github.com/C9-LinkRs/C9-LinkRs)
 - [Anirudh Kolwadkar](https://github.com/Anirudhk07/Anirudhk07)
 
 #### Typing.. Mode 🎰
