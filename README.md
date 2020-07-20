@@ -53,6 +53,9 @@
 - [Gautam Krishna R](https://github.com/gautamkrishnar/gautamkrishnar)
 - [Roald Nefs](https://github.com/roaldnefs/roaldnefs)
 - [Dhruv Jain](https://github.com/maddhruv/maddhruv)
+- [Erwin Lejeune](https://github.com/guilyx/guilyx)
+- [Jessica Lim](https://github.com/JessicaLim8/JessicaLim8)
+- [liununu](https://github.com/liununu/liununu)
 
 #### Game Mode 🚀
 - [Tim Burgan](https://github.com/timburgan/timburgan)
@@ -63,11 +66,14 @@
 #### Code Mode 👨🏽‍💻
 - [Thaiane Braga](https://github.com/Thaiane/Thaiane)
 - [Ash Baker](https://github.com/ashbakernz/ashbakernz)
+- [Anmol Singh](https://github.com/anmol098/anmol098)
+- [Kiho](https://github.com/monkindey/monkindey)
 
 #### Dynamic Realtime 💫
 - [Abhishek Naidu](https://github.com/abhisheknaiidu/abhisheknaiidu)
 - [Anurag Hazra](https://github.com/anuraghazra/anuraghazra)
 - [Hemant Joshi](https://github.com/8bithemant/8bithemant)
+- [Kittinan](https://github.com/kittinan/kittinan)
 
 #### Descriptive 🗒
 - [Filip Troníček](https://github.com/filiptronicek/filiptronicek)
@@ -89,6 +95,7 @@
 - [Fatih Kadir Akın](https://github.com/f/f/)
 - [Lucas Vazquez](https://github.com/lucasvazq/lucasvazq)
 - [小弟调调™](https://github.com/jaywcjlove/jaywcjlove)
+- [Johnny Villegas](https://github.com/C9-LinkRs/C9-LinkRs)
 
 #### Typing.. Mode 🎰
 - [Mathieu Ledru](https://github.com/matyo91/matyo91)
@@ -110,6 +117,7 @@
 - [MrStanDu33](https://github.com/MrStanDu33/MrStanDu33)
 - [Jayraj Roshan](https://github.com/jayrajroshan/jayrajroshan)
 - [amxchang](https://github.com/amxchang/amxchang)
+- [Maximous Black](https://github.com/maximousblk/maximousblk)
 - [Orhun](https://github.com/orhun/orhun)
 
 #### GIFS 👻
@@ -123,6 +131,7 @@
 - [Sindre Sorhus](https://github.com/sindresorhus/sindresorhus)
 - [Pranjal Bhardwaj](https://github.com/Bhard27/Bhard27)
 - [Okan Koçyiğit](https://github.com/okankocyigit/okankocyigit)
+- [xrkffgg](https://github.com/xrkffgg/xrkffgg)
 
 #### Just Images 🎭
 - [Zack Krida](https://github.com/zackkrida/zackkrida)
@@ -133,6 +142,8 @@
 
 #### Badges 🎫
 - [Anirudh Emmadi](https://github.com/aemmadi/aemmadi)
+- [Brendon Smith](https://github.com/br3ndonland/br3ndonland)
+- [Alwin Wang](https://github.com/alwinw/alwinw)
 
 #### Fancy Fonts 🖋
 - [xiaoluoboding](https://github.com/xiaoluoboding/xiaoluoboding)
@@ -157,6 +168,7 @@
 - [Github Profile README Generator](https://github.com/rahuldkjain/github-profile-readme-generator) - This tool provides an easy way to create github profile readme with latest addons like `visitors count`, `github stats` etc.
 - [Dynamic Profile Page On Github](https://github.com/umutphp/github-action-dynamic-profile-page) - Get dynamically generated list of your commits (of the repositories that the action is configured) on GitHub profile readme.
 - [npm package downloads](https://github.com/maddhruv/github-readme-npm-downloads) - Show all of your npm packages and their total downloads
+- [All Dev Stats in Readme](https://github.com/anmol098/waka-readme-stats) - [WakaTime](https://wakatime.com/) All Weekly Metrics on your Profile Readme with extra feature flags to toggle code Editors used, os worked on, show timezone, top working projects
 
 ## Articles
 - ["How To Create A GitHub Profile README"](https://www.aboutmonica.com/blog/how-to-create-a-github-profile-readme) - *Monica Powell*
