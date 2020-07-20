@@ -25,6 +25,7 @@
       - [Code Mode 👨🏽‍💻](#code-mode-)
       - [Dynamic Realtime 💫](#dynamic-realtime-)
       - [Descriptive 🗒](#descriptive-)
+      - [Interactive ⚡](#interactive-)
       - [Simple but Innovative Ones 🤗](#simple-but-innovative-ones-)
       - [Typing.. Mode 🎰](#typing-mode-)
       - [Anime 👾](#anime-)
@@ -54,7 +55,6 @@
 - [Roald Nefs](https://github.com/roaldnefs/roaldnefs)
 - [Dhruv Jain](https://github.com/maddhruv/maddhruv)
 - [Erwin Lejeune](https://github.com/guilyx/guilyx)
-- [Jessica Lim](https://github.com/JessicaLim8/JessicaLim8)
 
 #### Game Mode 🚀
 - [Tim Burgan](https://github.com/timburgan/timburgan)
@@ -77,6 +77,9 @@
 - [Garima Singh](https://github.com/garimasingh128/garimasingh128)
 - [lizheming](https://github.com/lizheming/lizheming)
 - [Nguyễn Hoàng Dương](https://github.com/you-create/you-create)
+
+#### Interactive ⚡
+- [Jessica Lim](https://github.com/JessicaLim8/JessicaLim8)
 
 #### Simple but Innovative Ones 🤗
 - [Nate Moore](https://github.com/natemoo-re/natemoo-re)
