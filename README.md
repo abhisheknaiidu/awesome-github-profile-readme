@@ -76,7 +76,6 @@
 - [Nguyễn Hoàng Dương](https://github.com/you-create/you-create)
 
 #### Simple but Innovative Ones 🤗
-- [Anirudh Kolwadkar](https://github.com/Anirudhk07/Anirudhk07)
 - [Nate Moore](https://github.com/natemoo-re/natemoo-re)
 - [Jhey Tompkins](https://github.com/jh3y/jh3y)
 - [Waylon Walker](https://github.com/WaylonWalker/WaylonWalker)
@@ -90,6 +89,7 @@
 - [Fatih Kadir Akın](https://github.com/f/f/)
 - [Lucas Vazquez](https://github.com/lucasvazq/lucasvazq)
 - [小弟调调™](https://github.com/jaywcjlove/jaywcjlove)
+- [Anirudh Kolwadkar](https://github.com/Anirudhk07/Anirudhk07)
 
 #### Typing.. Mode 🎰
 - [Mathieu Ledru](https://github.com/matyo91/matyo91)
