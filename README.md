@@ -53,6 +53,8 @@
 - [Gautam Krishna R](https://github.com/gautamkrishnar/gautamkrishnar)
 - [Roald Nefs](https://github.com/roaldnefs/roaldnefs)
 - [Dhruv Jain](https://github.com/maddhruv/maddhruv)
+- [Erwin Lejeune](https://github.com/guilyx/guilyx)
+- [Jessica Lim](https://github.com/JessicaLim8/JessicaLim8)
 
 #### Game Mode 🚀
 - [Tim Burgan](https://github.com/timburgan/timburgan)
@@ -63,6 +65,7 @@
 #### Code Mode 👨🏽‍💻
 - [Thaiane Braga](https://github.com/Thaiane/Thaiane)
 - [Ash Baker](https://github.com/ashbakernz/ashbakernz)
+- [Anmol Singh](https://github.com/anmol098/anmol098)
 
 #### Dynamic Realtime 💫
 - [Abhishek Naidu](https://github.com/abhisheknaiidu/abhisheknaiidu)
@@ -89,6 +92,7 @@
 - [Fatih Kadir Akın](https://github.com/f/f/)
 - [Lucas Vazquez](https://github.com/lucasvazq/lucasvazq)
 - [小弟调调™](https://github.com/jaywcjlove/jaywcjlove)
+- [Johnny Villegas](https://github.com/C9-LinkRs/C9-LinkRs)
 
 #### Typing.. Mode 🎰
 - [Mathieu Ledru](https://github.com/matyo91/matyo91)
@@ -109,6 +113,7 @@
 - [Dennis Hartrampf](https://github.com/DennisHartrampf/DennisHartrampf)
 - [MrStanDu33](https://github.com/MrStanDu33/MrStanDu33)
 - [Jayraj Roshan](https://github.com/jayrajroshan/jayrajroshan)
+- [amxchang](https://github.com/amxchang/amxchang)
 
 #### GIFS 👻
 - [Pouya Saadeghi](https://github.com/saadeghi/saadeghi)
@@ -132,6 +137,7 @@
 #### Badges 🎫
 - [Anirudh Emmadi](https://github.com/aemmadi/aemmadi)
 - [Ileriayo Adebiyi](https://github.com/ileriayo/ileriayo)
+- [Brendon Smith](https://github.com/br3ndonland/br3ndonland)
 
 #### Fancy Fonts 🖋
 - [xiaoluoboding](https://github.com/xiaoluoboding/xiaoluoboding)
@@ -157,6 +163,7 @@
 - [Dynamic Profile Page On Github](https://github.com/umutphp/github-action-dynamic-profile-page) - Get dynamically generated list of your commits (of the repositories that the action is configured) on GitHub profile readme.
 - [npm package downloads](https://github.com/maddhruv/github-readme-npm-downloads) - Show all of your npm packages and their total downloads
 - [Markdown Badges](https://github.com/Ileriayo/markdown-badges) - Add badges to your profile.
+- [All Dev Stats in Readme](https://github.com/anmol098/waka-readme-stats) - [WakaTime](https://wakatime.com/) All Weekly Metrics on your Profile Readme with extra feature flags to toggle code Editors used, os worked on, show timezone, top working projects
 
 ## Articles
 - ["How To Create A GitHub Profile README"](https://www.aboutmonica.com/blog/how-to-create-a-github-profile-readme) - *Monica Powell*
@@ -169,6 +176,7 @@
 - ["How I Built A Self-Updating README On My Github Profile"](https://www.mokkapps.de/blog/how-i-built-a-self-updating-readme-on-my-git-hub-profile/) - *Michael Hoffmann (Mokkapps)*
 - ["Building a self-updating profile README for GitHub"](https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/) - *Simon Willison*
 - ["Getting started with Markdown Badges"](https://dev.to/ileriayo/mardown-badges-2og0) - *Ileriayo Adebiyi*
+- ["How to create an interactive README for your GitHub profile"](https://kavishhukmani.me/github-profile-interactive-readme-tutorial/) - *Kavish Hukmani*
 
 ## Contribute
 
