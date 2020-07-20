@@ -140,6 +140,7 @@
 #### Badges 🎫
 - [Anirudh Emmadi](https://github.com/aemmadi/aemmadi)
 - [Brendon Smith](https://github.com/br3ndonland/br3ndonland)
+- [Alwin Wang](https://github.com/alwinw/alwinw)
 
 #### Fancy Fonts 🖋
 - [xiaoluoboding](https://github.com/xiaoluoboding/xiaoluoboding)
