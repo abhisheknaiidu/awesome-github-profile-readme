@@ -55,7 +55,7 @@
 - [Dhruv Jain](https://github.com/maddhruv/maddhruv)
 - [Erwin Lejeune](https://github.com/guilyx/guilyx)
 - [Jessica Lim](https://github.com/JessicaLim8/JessicaLim8)
-- [侑夕-Tw93](https://github.com/tw93/tw93)
+- [侑夕-Tw93](https://github.com/tw93)
 
 #### Game Mode 🚀
 - [Tim Burgan](https://github.com/timburgan/timburgan)
