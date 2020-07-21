@@ -56,6 +56,7 @@
 - [Dhruv Jain](https://github.com/maddhruv/maddhruv)
 - [Erwin Lejeune](https://github.com/guilyx/guilyx)
 - [Jessica Lim](https://github.com/JessicaLim8/JessicaLim8)
+- [侑夕-Tw93](https://github.com/tw93/tw93)
 - [liununu](https://github.com/liununu/liununu)
 
 #### Game Mode 🚀
@@ -69,6 +70,7 @@
 - [Ash Baker](https://github.com/ashbakernz/ashbakernz)
 - [Anmol Singh](https://github.com/anmol098/anmol098)
 - [Kiho](https://github.com/monkindey/monkindey)
+- [Marton](https://github.com/MartonDev/MartonDev)
 
 #### Dynamic Realtime 💫
 - [Abhishek Naidu](https://github.com/abhisheknaiidu/abhisheknaiidu)
@@ -157,6 +159,7 @@
 ## Tools
 - [Visitor Badge](https://visitor-badge.glitch.me/#docs) - Count visitors for your README.md, Issues, PRs in GitHub
 - [1990s style Visitor Counter](https://twitter.com/ryanlanciaux/status/1283755637126705152) - Add a 1990s style visitor counter with one line of markdown.
+- [Vists Count](https://pufler.dev/git-badges/) - Count visitors for README.md that can be used with shields.io
 - [Shields Project](https://shields.io/) - Use Shields to create profile badges, compatible with Simple Icons
 - [Github Readme Stats](https://github.com/anuraghazra/github-readme-stats) - Get dynamically generated GitHub stats on your readmes
 - [Simple Icons](https://github.com/simple-icons/simple-icons#cdn-usage) -  SVG icons for popular brands for your README.md files
@@ -169,7 +172,9 @@
 - [Dynamic Profile Page On Github](https://github.com/umutphp/github-action-dynamic-profile-page) - Get dynamically generated list of your commits (of the repositories that the action is configured) on GitHub profile readme.
 - [npm package downloads](https://github.com/maddhruv/github-readme-npm-downloads) - Show all of your npm packages and their total downloads
 - [All Dev Stats in Readme](https://github.com/anmol098/waka-readme-stats) - [WakaTime](https://wakatime.com/) All Weekly Metrics on your Profile Readme with extra feature flags to toggle code Editors used, os worked on, show timezone, top working projects
+- [Feedparser](https://pythonhosted.org/feedparser/) - Convenient processing of RSS files
 - [Github Profile README Generator](https://github.com/kefranabg/readme-md-generator) - This tool provides an easy way to create github profile readme with latest addons like `visitors count`, `github stats` etc.
+
 
 ## Articles
 - ["How To Create A GitHub Profile README"](https://www.aboutmonica.com/blog/how-to-create-a-github-profile-readme) - *Monica Powell*
@@ -182,11 +187,13 @@
 - ["How I Built A Self-Updating README On My Github Profile"](https://www.mokkapps.de/blog/how-i-built-a-self-updating-readme-on-my-git-hub-profile/) - *Michael Hoffmann (Mokkapps)*
 - ["Building a self-updating profile README for GitHub"](https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/) - *Simon Willison*
 - ["How to create an interactive README for your GitHub profile"](https://kavishhukmani.me/github-profile-interactive-readme-tutorial/) - *Kavish Hukmani*
+- ["什么？Github 居然可以这么玩？"](https://zhuanlan.zhihu.com/p/161705999) - *Tw93*
 - [A sample README for all your GitHub projects. · GitHub](https://gist.github.com/fvcproductions/1bfc2d4aecb01a834b46) - *fvcproductions*
 
 ## Videos
 -[How To Create A GitHub Profile README](https://www.youtube.com/watch?v=Y1z7_GfEPiE) - *Program With Erik*
 -[How To Create a Github Profile ReadMe](https://www.youtube.com/watch?v=DOiGs2NiDbU) - *James Q Quick*
+
 
 ## Contribute
 
