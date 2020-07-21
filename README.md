@@ -24,6 +24,7 @@
       - [Game Mode 🚀](#game-mode-)
       - [Code Mode 👨🏽‍💻](#code-mode-)
       - [Dynamic Realtime 💫](#dynamic-realtime-)
+      - [A little bit of everything 😃](#a-little-bit-of-everything-)
       - [Descriptive 🗒](#descriptive-)
       - [Simple but Innovative Ones 🤗](#simple-but-innovative-ones-)
       - [Typing.. Mode 🎰](#typing-mode-)
@@ -76,6 +77,9 @@
 - [Anurag Hazra](https://github.com/anuraghazra/anuraghazra)
 - [Hemant Joshi](https://github.com/8bithemant/8bithemant)
 - [Kittinan](https://github.com/kittinan/kittinan)
+
+#### A Little Bit of Everything 😃
+- [Raymond Li](https://github.com/Raymo111/Raymo111)
 
 #### Descriptive 🗒
 - [Filip Troníček](https://github.com/filiptronicek/filiptronicek)
