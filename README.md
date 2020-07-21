@@ -55,7 +55,7 @@
 - [Dhruv Jain](https://github.com/maddhruv/maddhruv)
 - [Erwin Lejeune](https://github.com/guilyx/guilyx)
 - [Jessica Lim](https://github.com/JessicaLim8/JessicaLim8)
-- [侑夕-Tw93](https://github.com/tw93)
+- [侑夕-Tw93](https://github.com/tw93/tw93)
 
 #### Game Mode 🚀
 - [Tim Burgan](https://github.com/timburgan/timburgan)
@@ -176,7 +176,7 @@
 - ["How I Built A Self-Updating README On My Github Profile"](https://www.mokkapps.de/blog/how-i-built-a-self-updating-readme-on-my-git-hub-profile/) - *Michael Hoffmann (Mokkapps)*
 - ["Building a self-updating profile README for GitHub"](https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/) - *Simon Willison*
 - ["How to create an interactive README for your GitHub profile"](https://kavishhukmani.me/github-profile-interactive-readme-tutorial/) - *Kavish Hukmani*
-- [什么？Github 居然可以这么玩？](https://zhuanlan.zhihu.com/p/161705999)
+- ["什么？Github 居然可以这么玩？"](https://zhuanlan.zhihu.com/p/161705999) - *Tw93*
 
 ## Contribute
 
