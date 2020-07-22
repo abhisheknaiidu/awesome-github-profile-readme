@@ -24,7 +24,7 @@
       - [Game Mode 🚀](#game-mode-)
       - [Code Mode 👨🏽‍💻](#code-mode-)
       - [Dynamic Realtime 💫](#dynamic-realtime-)
-      - [A little bit of everything 😃](#a-little-bit-of-everything-)
+      - [A Little Bit of Everything 😃](#a-little-bit-of-everything-)
       - [Descriptive 🗒](#descriptive-)
       - [Simple but Innovative Ones 🤗](#simple-but-innovative-ones-)
       - [Typing.. Mode 🎰](#typing-mode-)
