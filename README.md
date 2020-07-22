@@ -115,6 +115,7 @@
 
 #### Anime 👾
 - [Ing](https://github.com/innng/innng)
+- [Ashutosh](https://github.com/Xx-Ashutosh-xX)
 
 #### Minimalistic ✨
 - [Caneco](https://github.com/caneco/)
