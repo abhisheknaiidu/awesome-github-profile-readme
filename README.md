@@ -107,7 +107,6 @@
 - [Johnny Villegas](https://github.com/C9-LinkRs/C9-LinkRs)
 - [Andrew Novac](https://github.com/novatorem/novatorem)
 
-
 #### Typing.. Mode 🎰
 - [Mathieu Ledru](https://github.com/matyo91/matyo91)
 - [CyrisXD](https://github.com/CyrisXD/CyrisXD)
