@@ -20,7 +20,6 @@
 
 ### Contents:
   - [Categories](#categories)
-      - [A little bit of everything 😃](#a-little-bit-of-everything-)
       - [Github Actions 🤖](#github-actions-)
       - [Game Mode 🚀](#game-mode-)
       - [Code Mode 👨🏽‍💻](#code-mode-)
@@ -43,9 +42,6 @@
 
 
 ## Categories
-
-#### A Little Bit of Everything 😃
-- [Raymond Li](https://github.com/Raymo111/Raymo111)
 
 #### Github Actions 🤖
 - [Thomas Guibert](https://github.com/thmsgbrt/thmsgbrt)
