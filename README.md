@@ -60,6 +60,7 @@
 - [Jessica Lim](https://github.com/JessicaLim8/JessicaLim8)
 - [侑夕-Tw93](https://github.com/tw93/tw93)
 - [liununu](https://github.com/liununu/liununu)
+- [Filippo Rossi (qu4k)](https://github.com/qu4k/qu4k)
 - [Moe Poi ~](https://github.com/moepoi/moepoi)
 
 #### Game Mode 🚀
