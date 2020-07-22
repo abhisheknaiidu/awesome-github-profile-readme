@@ -193,6 +193,7 @@
 - [Feedparser](https://pythonhosted.org/feedparser/) - Convenient processing of RSS files
 - [Spotify now playing card generator](https://github.com/kittinan/spotify-github-profile) - Generate your Spotify now playing card for your GitHub profile
 - [Markdown Badges](https://github.com/Ileriayo/markdown-badges) - Add badges to your profile.
+- [Style your GitHub readme with CSS](https://twitter.com/sindresorhus/status/1285609420098088961) - Style your Readme using CSS and SVG `foreignObject`
 
 ## Articles
 - ["How To Create A GitHub Profile README"](https://www.aboutmonica.com/blog/how-to-create-a-github-profile-readme) - *Monica Powell*
