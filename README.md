@@ -73,7 +73,6 @@
 - [Filip Troníček](https://github.com/filiptronicek/filiptronicek)
 - [Garima Singh](https://github.com/garimasingh128/garimasingh128)
 - [lizheming](https://github.com/lizheming/lizheming)
-- [alx365](https://github.com/alx365/alx365)
 - [Nguyễn Hoàng Dương](https://github.com/you-create/you-create)
 
 #### Simple but Innovative Ones 🤗
@@ -90,6 +89,7 @@
 - [Fatih Kadir Akın](https://github.com/f/f/)
 - [Lucas Vazquez](https://github.com/lucasvazq/lucasvazq)
 - [小弟调调™](https://github.com/jaywcjlove/jaywcjlove)
+- [alx365](https://github.com/alx365/alx365)
 
 #### Typing.. Mode 🎰
 - [Mathieu Ledru](https://github.com/matyo91/matyo91)
