@@ -83,6 +83,7 @@
 - [Garima Singh](https://github.com/garimasingh128/garimasingh128)
 - [lizheming](https://github.com/lizheming/lizheming)
 - [Nguyễn Hoàng Dương](https://github.com/you-create/you-create)
+- [Saksham Taneja](https://github.com/sakshamtaneja21/sakshamtaneja21)
 
 #### Simple but Innovative Ones 🤗
 - [Nate Moore](https://github.com/natemoo-re/natemoo-re)
