@@ -34,6 +34,7 @@
       - [Badges 🎫](#badges-)
       - [Fancy Fonts 🖋](#fancy-fonts-)
       - [Icons 🎯](#icons-)
+      - [Retro 😎](#retro-)
   - [Tools](#tools)
   - [Articles](#articles)
   - [Contribute](#contribute)
@@ -154,6 +155,10 @@
 - [Peter Han](https://github.com/peterthehan/peterthehan)
 - [Thomas George Thomas](https://github.com/Thomas-George-T/Thomas-George-T)
 - [Derek Nguyen](https://github.com/dereknguyen269/dereknguyen269)
+
+#### Retro 😎
+- [Livio Brunner](https://github.com/BrunnerLivio/BrunnerLivio)
+- [Christian Petersen](https://github.com/fnky/fnky)
 
 ## Tools
 - [Visitor Badge](https://visitor-badge.glitch.me/#docs) - Count visitors for your README.md, Issues, PRs in GitHub
