@@ -106,6 +106,7 @@
 - [小弟调调™](https://github.com/jaywcjlove/jaywcjlove)
 - [alx365](https://github.com/alx365/alx365)
 - [Johnny Villegas](https://github.com/C9-LinkRs/C9-LinkRs)
+- [一缕殇流化隐半边冰霜](https://github.com/halfrost/halfrost)
 - [Andrew Novac](https://github.com/novatorem/novatorem)
 
 #### Typing.. Mode 🎰
