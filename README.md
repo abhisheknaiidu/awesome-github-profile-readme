@@ -91,6 +91,7 @@
 - [lizheming](https://github.com/lizheming/lizheming)
 - [Nguyễn Hoàng Dương](https://github.com/you-create/you-create)
 - [Saksham Taneja](https://github.com/sakshamtaneja21/sakshamtaneja21)
+- [Adam Alston](https://github.com/adamalston/adamalston)
 
 #### Simple but Innovative Ones 🤗
 - [Nate Moore](https://github.com/natemoo-re/natemoo-re)
