@@ -94,6 +94,7 @@
 
 #### Simple but Innovative Ones 🤗
 - [Nate Moore](https://github.com/natemoo-re/natemoo-re)
+- [Prathmesh Sadake](https://github.com/PrathmeshSadake/PrathmeshSadake)
 - [Jhey Tompkins](https://github.com/jh3y/jh3y)
 - [Waylon Walker](https://github.com/WaylonWalker/WaylonWalker)
 - [Vansh Kapoor](https://github.com/vanshkapoor/vanshkapoor)
