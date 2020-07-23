@@ -62,6 +62,7 @@
 - [liununu](https://github.com/liununu/liununu)
 - [Filippo Rossi (qu4k)](https://github.com/qu4k/qu4k)
 - [Moe Poi ~](https://github.com/moepoi/moepoi)
+- [Danny Koppenhagen](https://github.com/d-koppenhagen/d-koppenhagen)
 
 #### Game Mode 🚀
 - [Tim Burgan](https://github.com/timburgan/timburgan)
