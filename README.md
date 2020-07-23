@@ -211,8 +211,8 @@
 - ["Getting started with Markdown Badges"](https://dev.to/ileriayo/mardown-badges-2og0) - *Ileriayo Adebiyi*
 
 ## Video Tutorials
--["Create Impressive GitHub Portfolio"](https://www.youtube.com/watch?v=dkE4mVhwMB4)
--["How To Create a Github Profile ReadMe"](https://www.youtube.com/watch?v=DOiGs2NiDbU)
+- ["Create Impressive GitHub Portfolio"](https://www.youtube.com/watch?v=dkE4mVhwMB4)</br>
+- ["How To Create a Github Profile ReadMe"](https://www.youtube.com/watch?v=DOiGs2NiDbU)
 
 ## Contribute
 
