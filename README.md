@@ -63,6 +63,7 @@
 - [Filippo Rossi (qu4k)](https://github.com/qu4k/qu4k)
 - [Moe Poi ~](https://github.com/moepoi/moepoi)
 - [Stanley Lim (Spiderpig86)](https://github.com/Spiderpig86/Spiderpig86)
+- [Keshav Singh](https://github.com/keshavsingh4522)
 
 #### Game Mode 🚀
 - [Tim Burgan](https://github.com/timburgan/timburgan)
