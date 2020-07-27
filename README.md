@@ -85,6 +85,7 @@
 - [Anurag Hazra](https://github.com/anuraghazra/anuraghazra)
 - [Hemant Joshi](https://github.com/8bithemant/8bithemant)
 - [Kittinan](https://github.com/kittinan/kittinan)
+- [Andrew Novac](https://github.com/novatorem/novatorem)
 - [Johnny Villegas](https://github.com/C9-LinkRs/C9-LinkRs)
 
 #### A Little Bit of Everything 😃
@@ -116,7 +117,6 @@
 - [alx365](https://github.com/alx365/alx365)
 - [Johnny Villegas](https://github.com/C9-LinkRs/C9-LinkRs)
 - [一缕殇流化隐半边冰霜](https://github.com/halfrost/halfrost)
-- [Andrew Novac](https://github.com/novatorem/novatorem)
 - [Srihari Kapu](https://github.com/sriharikapu/sriharikapu)
 
 #### Typing.. Mode 🎰
