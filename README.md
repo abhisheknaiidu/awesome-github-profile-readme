@@ -64,6 +64,7 @@
 - [Moe Poi ~](https://github.com/moepoi/moepoi)
 - [Stanley Lim (Spiderpig86)](https://github.com/Spiderpig86/Spiderpig86)
 - [Yufan You](https://github.com/ouuan/ouuan)
+- [Vidya Bhandary](https://github.com/vidyabhandary/vidyabhandary)
 
 #### Game Mode 🚀
 - [Tim Burgan](https://github.com/timburgan/timburgan)
