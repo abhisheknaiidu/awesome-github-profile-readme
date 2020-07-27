@@ -83,7 +83,7 @@
 - [Anurag Hazra](https://github.com/anuraghazra/anuraghazra)
 - [Hemant Joshi](https://github.com/8bithemant/8bithemant)
 - [Kittinan](https://github.com/kittinan/kittinan)
-- [andyruwruw](https://github.com/andyruwruw)
+- [andyruwruw](https://github.com/andyruwruw/andyruwruw)
 
 #### A Little Bit of Everything 😃
 - [Raymond Li](https://github.com/Raymo111/Raymo111)
