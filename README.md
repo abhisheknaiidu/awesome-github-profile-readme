@@ -154,6 +154,7 @@
 - [Okan Koçyiğit](https://github.com/okankocyigit/okankocyigit)
 - [Raghav Khullar](https://github.com/RaghavK16/RaghavK16)
 - [xrkffgg](https://github.com/xrkffgg/xrkffgg)
+- [Kevin Cui](https://github.com/KevCui/KevCui)
 
 #### Just Images 🎭
 - [Zack Krida](https://github.com/zackkrida/zackkrida)
