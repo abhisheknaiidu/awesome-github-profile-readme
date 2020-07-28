@@ -129,6 +129,7 @@
 
 #### Anime 👾
 - [Ing](https://github.com/innng/innng)
+- [edisonlee55](https://github.com/edisonlee55/edisonlee55)
 
 #### Minimalistic ✨
 - [Caneco](https://github.com/caneco/)
