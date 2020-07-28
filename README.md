@@ -66,6 +66,7 @@
 - [Yufan You](https://github.com/ouuan/ouuan)
 - [Vidya Bhandary](https://github.com/vidyabhandary/vidyabhandary)
 - [Rao Hai](https://github.com/RaoHai/RaoHai)
+- [teoxoy](https://github.com/teoxoy/teoxoy)
 
 #### Game Mode 🚀
 - [Tim Burgan](https://github.com/timburgan/timburgan)
