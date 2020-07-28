@@ -62,7 +62,10 @@
 - [liununu](https://github.com/liununu/liununu)
 - [Filippo Rossi (qu4k)](https://github.com/qu4k/qu4k)
 - [Moe Poi ~](https://github.com/moepoi/moepoi)
-- [Rafnix Guzmán](https://github.com/rafnixg/rafnixg)
+- [Stanley Lim (Spiderpig86)](https://github.com/Spiderpig86/Spiderpig86)
+- [Yufan You](https://github.com/ouuan/ouuan)
+- [Vidya Bhandary](https://github.com/vidyabhandary/vidyabhandary)
+- [Rao Hai](https://github.com/RaoHai/RaoHai)
 
 #### Game Mode 🚀
 - [Tim Burgan](https://github.com/timburgan/timburgan)
@@ -75,16 +78,21 @@
 - [Ash Baker](https://github.com/ashbakernz/ashbakernz)
 - [Anmol Singh](https://github.com/anmol098/anmol098)
 - [Kiho](https://github.com/monkindey/monkindey)
-- [Marton](https://github.com/MartonDev/MartonDev)
+- [Marton](https://github.com/martonlederer/martonlederer)
 
 #### Dynamic Realtime 💫
 - [Abhishek Naidu](https://github.com/abhisheknaiidu/abhisheknaiidu)
 - [Anurag Hazra](https://github.com/anuraghazra/anuraghazra)
 - [Hemant Joshi](https://github.com/8bithemant/8bithemant)
 - [Kittinan](https://github.com/kittinan/kittinan)
+- [Andrew Novac](https://github.com/novatorem/novatorem)
+- [Johnny Villegas](https://github.com/C9-LinkRs/C9-LinkRs)
 
 #### A Little Bit of Everything 😃
 - [Raymond Li](https://github.com/Raymo111/Raymo111)
+- [Martin Heinz](https://github.com/MartinHeinz/MartinHeinz)
+- [Adam Alston](https://github.com/adamalston/adamalston)
+- [Rafnix Guzmán](https://github.com/rafnixg/rafnixg)
 
 #### Descriptive 🗒
 - [Filip Troníček](https://github.com/filiptronicek/filiptronicek)
@@ -92,6 +100,7 @@
 - [lizheming](https://github.com/lizheming/lizheming)
 - [Nguyễn Hoàng Dương](https://github.com/you-create/you-create)
 - [Saksham Taneja](https://github.com/sakshamtaneja21/sakshamtaneja21)
+- [Keshav Singh](https://github.com/keshavsingh4522/keshavsingh4522)
 
 #### Simple but Innovative Ones 🤗
 - [Nate Moore](https://github.com/natemoo-re/natemoo-re)
@@ -110,7 +119,7 @@
 - [alx365](https://github.com/alx365/alx365)
 - [Johnny Villegas](https://github.com/C9-LinkRs/C9-LinkRs)
 - [一缕殇流化隐半边冰霜](https://github.com/halfrost/halfrost)
-- [Andrew Novac](https://github.com/novatorem/novatorem)
+- [Srihari Kapu](https://github.com/sriharikapu/sriharikapu)
 
 #### Typing.. Mode 🎰
 - [Mathieu Ledru](https://github.com/matyo91/matyo91)
@@ -149,6 +158,7 @@
 - [Okan Koçyiğit](https://github.com/okankocyigit/okankocyigit)
 - [Raghav Khullar](https://github.com/RaghavK16/RaghavK16)
 - [xrkffgg](https://github.com/xrkffgg/xrkffgg)
+- [Kevin Cui](https://github.com/KevCui/KevCui)
 
 #### Just Images 🎭
 - [Zack Krida](https://github.com/zackkrida/zackkrida)
@@ -156,17 +166,20 @@
 - [thewhiteh4t](https://github.com/thewhiteh4t/thewhiteh4t)
 - [Kaito Sugimoto](https://github.com/7ma7X/7ma7X)
 - [Oussama Bouchikhi](https://github.com/oussamabouchikhi/oussamabouchikhi)
+- [Daily Random Photo](https://github.com/dailyrandomphoto/dailyrandomphoto)
 
 #### Badges 🎫
 - [Anirudh Emmadi](https://github.com/aemmadi/aemmadi)
 - [Brendon Smith](https://github.com/br3ndonland/br3ndonland)
 - [Alwin Wang](https://github.com/alwinw/alwinw)
 - [Ileriayo Adebiyi](https://github.com/ileriayo/ileriayo)
+- [Samujjwaal Dey](https://github.com/samujjwaal/samujjwaal)
 
 #### Fancy Fonts 🖋
 - [xiaoluoboding](https://github.com/xiaoluoboding/xiaoluoboding)
 
 #### Icons 🎯
+- [Yuan Tang](https://github.com/terrytangyuan/terrytangyuan)
 - [Hussainweb](https://github.com/hussainweb/hussainweb)
 - [Peter Han](https://github.com/peterthehan/peterthehan)
 - [Thomas George Thomas](https://github.com/Thomas-George-T/Thomas-George-T)
@@ -193,8 +206,11 @@
 - [npm package downloads](https://github.com/maddhruv/github-readme-npm-downloads) - Show all of your npm packages and their total downloads
 - [All Dev Stats in Readme](https://github.com/anmol098/waka-readme-stats) - Are you an early 🐤 or a night 🦉? When are you most productive during the day? What languages you code in? And other stuff... Let's check out in your readme!
 - [Feedparser](https://pythonhosted.org/feedparser/) - Convenient processing of RSS files
+- [Profile README Widgets](https://github.com/marketplace/actions/profile-readme) - Add simple widgets to your profile readme.
 - [Spotify now playing card generator](https://github.com/kittinan/spotify-github-profile) - Generate your Spotify now playing card for your GitHub profile
 - [Markdown Badges](https://github.com/Ileriayo/markdown-badges) - Add badges to your profile.
+- [Latest Blog Posts and StackOverflow activity in readme](https://github.com/gautamkrishnar/blog-post-workflow) - Show your latest blog posts from any sources or StackOverflow activity on your GitHub profile/project readme automatically using the RSS feed using this Github Action
+- [GitHub Readme LinkedIn](https://github.com/soroushchehresa/github-readme-linkedin) - Get dynamically generated images from your LinkedIn profile on your GitHub readmes
 
 ## Articles
 - ["How To Create A GitHub Profile README"](https://www.aboutmonica.com/blog/how-to-create-a-github-profile-readme) - *Monica Powell*
@@ -209,6 +225,9 @@
 - ["How to create an interactive README for your GitHub profile"](https://kavishhukmani.me/github-profile-interactive-readme-tutorial/) - *Kavish Hukmani*
 - ["什么？Github 居然可以这么玩？"](https://zhuanlan.zhihu.com/p/161705999) - *Tw93*
 - ["Getting started with Markdown Badges"](https://dev.to/ileriayo/mardown-badges-2og0) - *Ileriayo Adebiyi*
+- ["Show your latest dev.to posts automatically on your GitHub profile readme
+"](https://dev.to/gautamkrishnar/show-your-latest-dev-to-posts-automatically-in-your-github-profile-readme-3nk8)  - *Gautam krishna R*
+- ["How I Built A Self-Updating README by Webhooks and Netlify Functions"](https://github.com/RaoHai/RaoHai/blob/master/How-I-Built-A-Self-Updating-README-by-Webhooks-and-Netlify-Functions.md/) - *Rao Hai*
 
 ## Contribute
 
