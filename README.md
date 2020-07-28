@@ -94,6 +94,7 @@
 - [Adam Alston](https://github.com/adamalston/adamalston)
 
 #### Descriptive 🗒
+- [Aman Ansari](https://github.com/aman-atg/aman-atg)
 - [Filip Troníček](https://github.com/filiptronicek/filiptronicek)
 - [Garima Singh](https://github.com/garimasingh128/garimasingh128)
 - [lizheming](https://github.com/lizheming/lizheming)
