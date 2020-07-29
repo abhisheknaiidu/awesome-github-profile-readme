@@ -168,6 +168,7 @@
 - [Daily Random Photo](https://github.com/dailyrandomphoto/dailyrandomphoto)
 
 #### Badges 🎫
+- [Katheesh](https://github.com/Katheesh/Katheesh)
 - [Anirudh Emmadi](https://github.com/aemmadi/aemmadi)
 - [Brendon Smith](https://github.com/br3ndonland/br3ndonland)
 - [Alwin Wang](https://github.com/alwinw/alwinw)
