@@ -64,6 +64,7 @@
 - [Moe Poi ~](https://github.com/moepoi/moepoi)
 - [Elon Tang (blackcater)](https://github.com/blackcater/blackcater)
 - [Stanley Lim (Spiderpig86)](https://github.com/Spiderpig86/Spiderpig86)
+- [Akshit Garg (gargakshit)](https://github.com/gargakshit/gargakshit)
 - [Yufan You](https://github.com/ouuan/ouuan)
 - [Vidya Bhandary](https://github.com/vidyabhandary/vidyabhandary)
 - [Rao Hai](https://github.com/RaoHai/RaoHai)
