@@ -62,7 +62,9 @@
 - [liununu](https://github.com/liununu/liununu)
 - [Filippo Rossi (qu4k)](https://github.com/qu4k/qu4k)
 - [Moe Poi ~](https://github.com/moepoi/moepoi)
+- [Elon Tang (blackcater)](https://github.com/blackcater/blackcater)
 - [Stanley Lim (Spiderpig86)](https://github.com/Spiderpig86/Spiderpig86)
+- [Akshit Garg (gargakshit)](https://github.com/gargakshit/gargakshit)
 - [Yufan You](https://github.com/ouuan/ouuan)
 - [Vidya Bhandary](https://github.com/vidyabhandary/vidyabhandary)
 - [Rao Hai](https://github.com/RaoHai/RaoHai)
@@ -87,6 +89,7 @@
 - [Kittinan](https://github.com/kittinan/kittinan)
 - [Andrew Novac](https://github.com/novatorem/novatorem)
 - [Johnny Villegas](https://github.com/C9-LinkRs/C9-LinkRs)
+- [andyruwruw](https://github.com/andyruwruw/andyruwruw)
 
 #### A Little Bit of Everything 😃
 - [Raymond Li](https://github.com/Raymo111/Raymo111)
@@ -140,8 +143,10 @@
 - [MrStanDu33](https://github.com/MrStanDu33/MrStanDu33)
 - [Jayraj Roshan](https://github.com/jayrajroshan/jayrajroshan)
 - [amxchang](https://github.com/amxchang/amxchang)
+- [ridermansb](https://github.com/Ridermansb/Ridermansb)
 - [Maximous Black](https://github.com/maximousblk/maximousblk)
 - [Alex Martin](https://github.com/AlexMartinFR/AlexMartinFR)
+- [ChungZH](https://github.com/ChungZH/ChungZH/)
 - [Orhun](https://github.com/orhun/orhun)
 
 #### GIFS 👻
@@ -210,6 +215,7 @@
 - [Markdown Badges](https://github.com/Ileriayo/markdown-badges) - Add badges to your profile.
 - [Latest Blog Posts and StackOverflow activity in readme](https://github.com/gautamkrishnar/blog-post-workflow) - Show your latest blog posts from any sources or StackOverflow activity on your GitHub profile/project readme automatically using the RSS feed using this Github Action
 - [GitHub Readme LinkedIn](https://github.com/soroushchehresa/github-readme-linkedin) - Get dynamically generated images from your LinkedIn profile on your GitHub readmes
+- [GitHub Readme Medium](https://github.com/omidnikrah/github-readme-medium) - Show your latest Medium article on your readmes!
 - [GitHub Readme StackOverflow](https://github.com/omidnikrah/github-readme-stackoverflow) - Dynamically generated your StackOverflow profile status on your GitHub readmes!
 
 ## Articles
