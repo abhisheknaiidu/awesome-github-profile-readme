@@ -62,6 +62,7 @@
 - [liununu](https://github.com/liununu/liununu)
 - [Filippo Rossi (qu4k)](https://github.com/qu4k/qu4k)
 - [Moe Poi ~](https://github.com/moepoi/moepoi)
+- [Elon Tang (blackcater)](https://github.com/blackcater/blackcater)
 - [Stanley Lim (Spiderpig86)](https://github.com/Spiderpig86/Spiderpig86)
 - [Yufan You](https://github.com/ouuan/ouuan)
 - [Vidya Bhandary](https://github.com/vidyabhandary/vidyabhandary)
