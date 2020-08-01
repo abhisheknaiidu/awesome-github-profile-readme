@@ -113,6 +113,7 @@
 - [Keshav Singh](https://github.com/keshavsingh4522/keshavsingh4522)
 
 #### Simple but Innovative Ones 🤗
+- [Xinye Tang](https://github.com/xinyeah/xinyeah)
 - [Nate Moore](https://github.com/natemoo-re/natemoo-re)
 - [Jhey Tompkins](https://github.com/jh3y/jh3y)
 - [Waylon Walker](https://github.com/WaylonWalker/WaylonWalker)
