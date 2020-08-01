@@ -55,6 +55,7 @@
 - [Athul Cyriac Ajay](https://github.com/athul/athul)
 - [Gautam Krishna R](https://github.com/gautamkrishnar/gautamkrishnar)
 - [Roald Nefs](https://github.com/roaldnefs/roaldnefs)
+- [Leo](https://github.com/mopig/mopig)
 - [Dhruv Jain](https://github.com/maddhruv/maddhruv)
 - [Erwin Lejeune](https://github.com/guilyx/guilyx)
 - [Jessica Lim](https://github.com/JessicaLim8/JessicaLim8)
