@@ -100,6 +100,7 @@
 - [Martin Heinz](https://github.com/MartinHeinz/MartinHeinz)
 - [Adam Alston](https://github.com/adamalston/adamalston)
 - [Hedy Li](https://github.com/hedythedev/hedythedev)
+- [CxyFreedom](https://github.com/cxyfreedom/cxyfreedom)
 
 #### Descriptive 🗒
 - [Filip Troníček](https://github.com/filiptronicek/filiptronicek)
