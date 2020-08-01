@@ -70,6 +70,7 @@
 - [Vidya Bhandary](https://github.com/vidyabhandary/vidyabhandary)
 - [Rao Hai](https://github.com/RaoHai/RaoHai)
 - [Jatin Rao](https://github.com/jatin2003/jatin2003)
+- [teoxoy](https://github.com/teoxoy/teoxoy)
 
 #### Game Mode 🚀
 - [Tim Burgan](https://github.com/timburgan/timburgan)
@@ -99,6 +100,7 @@
 - [Raymond Li](https://github.com/Raymo111/Raymo111)
 - [Martin Heinz](https://github.com/MartinHeinz/MartinHeinz)
 - [Adam Alston](https://github.com/adamalston/adamalston)
+- [Aditya Pal](https://github.com/sciencepal/sciencepal)
 - [Hedy Li](https://github.com/hedythedev/hedythedev)
 
 #### Descriptive 🗒
@@ -138,6 +140,7 @@
 
 #### Anime 👾
 - [Ing](https://github.com/innng/innng)
+- [edisonlee55](https://github.com/edisonlee55/edisonlee55)
 - [Ashutosh](https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX)
 
 #### Minimalistic ✨
@@ -228,6 +231,7 @@
 - [GitHub Readme Medium](https://github.com/omidnikrah/github-readme-medium) - Show your latest Medium article on your readmes!
 - [GitHub Readme StackOverflow](https://github.com/omidnikrah/github-readme-stackoverflow) - Dynamically generated your StackOverflow profile status on your GitHub readmes!
 - [Github Profile README Generator](https://github.com/arturssmirnovs/github-profile-readme-generator) - This project allows you to create nice and simple github profile readme files.
+- [Profile Readme Stats](https://github.com/marketplace/actions/profile-readme-stats) - [Github Action] Showcase your github stats on your profile README.md
 
 ## Articles
 - ["How To Create A GitHub Profile README"](https://www.aboutmonica.com/blog/how-to-create-a-github-profile-readme) - *Monica Powell*
