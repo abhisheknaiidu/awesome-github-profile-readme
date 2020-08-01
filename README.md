@@ -100,7 +100,6 @@
 - [Nguyễn Hoàng Dương](https://github.com/you-create/you-create)
 - [Saksham Taneja](https://github.com/sakshamtaneja21/sakshamtaneja21)
 - [Keshav Singh](https://github.com/keshavsingh4522/keshavsingh4522)
-- [Arturs Smirnovs](https://github.com/arturssmirnovs/arturssmirnovs)
 
 #### Simple but Innovative Ones 🤗
 - [Nate Moore](https://github.com/natemoo-re/natemoo-re)
@@ -120,6 +119,7 @@
 - [Johnny Villegas](https://github.com/C9-LinkRs/C9-LinkRs)
 - [一缕殇流化隐半边冰霜](https://github.com/halfrost/halfrost)
 - [Srihari Kapu](https://github.com/sriharikapu/sriharikapu)
+- [Arturs Smirnovs](https://github.com/arturssmirnovs/arturssmirnovs)
 
 #### Typing.. Mode 🎰
 - [Mathieu Ledru](https://github.com/matyo91/matyo91)
