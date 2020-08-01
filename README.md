@@ -110,6 +110,7 @@
 - [Keshav Singh](https://github.com/keshavsingh4522/keshavsingh4522)
 
 #### Simple but Innovative Ones 🤗
+- [vaaski](https://github.com/vaaski/vaaski)
 - [Nate Moore](https://github.com/natemoo-re/natemoo-re)
 - [Jhey Tompkins](https://github.com/jh3y/jh3y)
 - [Waylon Walker](https://github.com/WaylonWalker/WaylonWalker)
