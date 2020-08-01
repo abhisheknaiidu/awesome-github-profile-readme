@@ -134,6 +134,7 @@
 - [Mpho Mphego](https://github.com/mmphego/mmphego)
 - [Abhinav Sharma](https://github.com/ABSphreak/ABSphreak)
 - [Mason Slover](https://github.com/MasonSlover/MasonSlover)
+- [SuperSupeng](https://github.com/SuperSupeng/SuperSupeng)
 
 #### Anime 👾
 - [Ing](https://github.com/innng/innng)
