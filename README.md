@@ -84,6 +84,7 @@
 - [Anmol Singh](https://github.com/anmol098/anmol098)
 - [Kiho](https://github.com/monkindey/monkindey)
 - [Marton](https://github.com/martonlederer/martonlederer)
+- [Redowan Delowar](https://github.com/rednafi/rednafi)
 
 #### Dynamic Realtime 💫
 - [Abhishek Naidu](https://github.com/abhisheknaiidu/abhisheknaiidu)
