@@ -110,7 +110,6 @@
 - [Keshav Singh](https://github.com/keshavsingh4522/keshavsingh4522)
 
 #### Simple but Innovative Ones 🤗
-- [vaaski](https://github.com/vaaski/vaaski)
 - [Nate Moore](https://github.com/natemoo-re/natemoo-re)
 - [Jhey Tompkins](https://github.com/jh3y/jh3y)
 - [Waylon Walker](https://github.com/WaylonWalker/WaylonWalker)
@@ -128,6 +127,7 @@
 - [Johnny Villegas](https://github.com/C9-LinkRs/C9-LinkRs)
 - [一缕殇流化隐半边冰霜](https://github.com/halfrost/halfrost)
 - [Srihari Kapu](https://github.com/sriharikapu/sriharikapu)
+- [vaaski](https://github.com/vaaski/vaaski)
 
 #### Typing.. Mode 🎰
 - [Mathieu Ledru](https://github.com/matyo91/matyo91)
