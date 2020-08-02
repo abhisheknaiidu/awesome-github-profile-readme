@@ -191,7 +191,7 @@
 - [Anirudh Emmadi](https://github.com/aemmadi/aemmadi)
 - [Brendon Smith](https://github.com/br3ndonland/br3ndonland)
 - [Alwin Wang](https://github.com/alwinw/alwinw)
-- [Moshfiq Rony](https://github.com/moshfiqrony)
+- [Moshfiq Rony](https://github.com/moshfiqrony/moshfiqrony)
 - [Ileriayo Adebiyi](https://github.com/ileriayo/ileriayo)
 - [Samujjwaal Dey](https://github.com/samujjwaal/samujjwaal)
 
