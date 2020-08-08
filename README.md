@@ -147,6 +147,7 @@
 - [Ashutosh](https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX)
 
 #### Minimalistic ✨
+- [Swastik Mishra](https://github.com/Swastik2000/Swastik2000)
 - [Caneco](https://github.com/caneco/)
 - [Gift Egwuenu](https://github.com/lauragift21/lauragift21)
 - [Kelechi Precious Nwachukwu](https://github.com/PluckyPrecious/PluckyPrecious)
