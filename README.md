@@ -199,6 +199,7 @@
 - [xiaoluoboding](https://github.com/xiaoluoboding/xiaoluoboding)
 
 #### Icons 🎯
+- [Arjun SK](http://github.com/arjunsk)
 - [Yuan Tang](https://github.com/terrytangyuan/terrytangyuan)
 - [Hussainweb](https://github.com/hussainweb/hussainweb)
 - [Peter Han](https://github.com/peterthehan/peterthehan)
