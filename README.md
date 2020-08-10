@@ -113,6 +113,7 @@
 - [Keshav Singh](https://github.com/keshavsingh4522/keshavsingh4522)
 
 #### Simple but Innovative Ones 🤗
+- [Jeferson Ferreira](https://github.com/jeferson0993/jeferson0993)
 - [Nate Moore](https://github.com/natemoo-re/natemoo-re)
 - [Jhey Tompkins](https://github.com/jh3y/jh3y)
 - [Waylon Walker](https://github.com/WaylonWalker/WaylonWalker)
@@ -199,6 +200,7 @@
 - [xiaoluoboding](https://github.com/xiaoluoboding/xiaoluoboding)
 
 #### Icons 🎯
+- [Jeferson Ferreira](https://github.com/jeferson0993/jeferson0993)
 - [Yuan Tang](https://github.com/terrytangyuan/terrytangyuan)
 - [Hussainweb](https://github.com/hussainweb/hussainweb)
 - [Peter Han](https://github.com/peterthehan/peterthehan)
