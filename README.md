@@ -103,6 +103,7 @@
 - [Aditya Pal](https://github.com/sciencepal/sciencepal)
 - [Hedy Li](https://github.com/hedythedev/hedythedev)
 - [Xunzhuo](https://github.com/xunzhuo/xunzhuo)
+- [Max Herold](https://github.com/maxheyn/maxheyn)
 
 #### Descriptive 🗒
 - [Filip Troníček](https://github.com/filiptronicek/filiptronicek)
