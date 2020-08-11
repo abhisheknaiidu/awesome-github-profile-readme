@@ -94,7 +94,7 @@
 - [Kittinan](https://github.com/kittinan/kittinan)
 - [Andrew Novac](https://github.com/novatorem/novatorem)
 - [Johnny Villegas](https://github.com/C9-LinkRs/C9-LinkRs)
-- [andyruwruw](https://github.com/andyruwruw/andyruwruw)
+- [Andrew Young](https://github.com/andyruwruw/andyruwruw)
 - [Rashmi Jadhav](https://github.com/rusty-sj/rusty-sj)
 
 #### A Little Bit of Everything 😃
