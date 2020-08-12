@@ -98,6 +98,7 @@
 - [Andrew Novac](https://github.com/novatorem/novatorem)
 - [Johnny Villegas](https://github.com/C9-LinkRs/C9-LinkRs)
 - [andyruwruw](https://github.com/andyruwruw/andyruwruw)
+- [Osman Durdağ](https://github.com/zumrudu-anka/zumrudu-anka)
 
 #### A Little Bit of Everything 😃
 - [Raymond Li](https://github.com/Raymo111/Raymo111)
