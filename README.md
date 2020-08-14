@@ -84,6 +84,7 @@
 - [Ross Williams](https://github.com/rossjrw/rossjrw)
 
 #### Code Mode 👨🏽‍💻
+- [Shubham Giri](https://github.com/iamshubhamg/iamshubhamg)
 - [Thaiane Braga](https://github.com/Thaiane/Thaiane)
 - [Ash Baker](https://github.com/ashbakernz/ashbakernz)
 - [Anmol Singh](https://github.com/anmol098/anmol098)
