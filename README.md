@@ -75,6 +75,7 @@
 - [teoxoy](https://github.com/teoxoy/teoxoy)
 - [Aral Roca](https://github.com/aralroca/aralroca)
 - [codeSTACKr](https://github.com/codestackr/codestackr)
+- [Ming Tsai](https://github.com/ming-tsai/ming-tsai)
 
 #### Game Mode 🚀
 - [Tim Burgan](https://github.com/timburgan/timburgan)
