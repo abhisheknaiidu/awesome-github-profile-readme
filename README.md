@@ -136,7 +136,7 @@
 - [一缕殇流化隐半边冰霜](https://github.com/halfrost/halfrost)
 - [Srihari Kapu](https://github.com/sriharikapu/sriharikapu)
 - [Arturs Smirnovs](https://github.com/arturssmirnovs/arturssmirnovs)
-- [Yash Sahijwani](https://github.com/Terabyte17/Terabyte17)
+- [ Yash Sahijwani](https://github.com/Terabyte17/Terabyte17)
 
 #### Typing.. Mode 🎰
 - [Mathieu Ledru](https://github.com/matyo91/matyo91)
