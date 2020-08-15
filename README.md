@@ -182,6 +182,7 @@
 - [xrkffgg](https://github.com/xrkffgg/xrkffgg)
 - [Kevin Cui](https://github.com/KevCui/KevCui)
 - [Muskan Rani](https://github.com/muskanrani/muskanrani)
+- [Rishav Anand](https://github.com/rishavanand/rishavanand)
 
 #### Just Images 🎭
 - [Zack Krida](https://github.com/zackkrida/zackkrida)
