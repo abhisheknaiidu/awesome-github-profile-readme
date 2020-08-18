@@ -105,7 +105,6 @@
 - [Xunzhuo](https://github.com/xunzhuo/xunzhuo)
 - [Miller Camilo Vega](https://github.com/minoveaz/minoveaz)
 
-
 #### Descriptive 🗒
 - [Filip Troníček](https://github.com/filiptronicek/filiptronicek)
 - [Garima Singh](https://github.com/garimasingh128/garimasingh128)
