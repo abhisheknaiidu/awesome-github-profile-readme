@@ -92,6 +92,7 @@
 - [Redowan Delowar](https://github.com/rednafi/rednafi)
 
 #### Dynamic Realtime 💫
+- [Kirill Feschenko](https://github.com/xcaq/xcaq)
 - [Abhishek Naidu](https://github.com/abhisheknaiidu/abhisheknaiidu)
 - [Anurag Hazra](https://github.com/anuraghazra/anuraghazra)
 - [Hemant Joshi](https://github.com/8bithemant/8bithemant)
