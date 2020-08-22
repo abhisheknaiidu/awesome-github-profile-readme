@@ -74,6 +74,7 @@
 - [Jatin Rao](https://github.com/jatin2003/jatin2003)
 - [teoxoy](https://github.com/teoxoy/teoxoy)
 - [Aral Roca](https://github.com/aralroca/aralroca)
+- [codeSTACKr](https://github.com/codestackr/codestackr)
 
 #### Game Mode 🚀
 - [Tim Burgan](https://github.com/timburgan/timburgan)
@@ -81,6 +82,7 @@
 - [Kavish Hukmani](https://github.com/DoubleGremlin181/DoubleGremlin181)
 - [Jonathan Gin](https://github.com/JonathanGin52/JonathanGin52)
 - [Ross Williams](https://github.com/rossjrw/rossjrw)
+- [kylepls](https://github.com/kylepls/kylepls)
 
 #### Code Mode 👨🏽‍💻
 - [Thaiane Braga](https://github.com/Thaiane/Thaiane)
@@ -91,6 +93,7 @@
 - [Redowan Delowar](https://github.com/rednafi/rednafi)
 
 #### Dynamic Realtime 💫
+- [Kirill Feschenko](https://github.com/xcaq/xcaq)
 - [Abhishek Naidu](https://github.com/abhisheknaiidu/abhisheknaiidu)
 - [Anurag Hazra](https://github.com/anuraghazra/anuraghazra)
 - [Hemant Joshi](https://github.com/8bithemant/8bithemant)
@@ -107,6 +110,9 @@
 - [Aditya Pal](https://github.com/sciencepal/sciencepal)
 - [Hedy Li](https://github.com/hedythedev/hedythedev)
 - [Xunzhuo](https://github.com/xunzhuo/xunzhuo)
+- [CxyFreedom](https://github.com/cxyfreedom/cxyfreedom)
+- [Miller Camilo Vega](https://github.com/minoveaz/minoveaz)
+- [Abhishek Maira](https://github.com/AbhishekMaira10/AbhishekMaira10)
 - [Hans5958](https://github.com/Hans5958/Hans5958)
 
 #### Descriptive 🗒
@@ -135,6 +141,7 @@
 - [Johnny Villegas](https://github.com/C9-LinkRs/C9-LinkRs)
 - [一缕殇流化隐半边冰霜](https://github.com/halfrost/halfrost)
 - [Srihari Kapu](https://github.com/sriharikapu/sriharikapu)
+- [vaaski](https://github.com/vaaski/vaaski)
 - [Arturs Smirnovs](https://github.com/arturssmirnovs/arturssmirnovs)
 
 #### Typing.. Mode 🎰
@@ -267,6 +274,7 @@
 - ["How To Create a Github Profile ReadMe"](https://www.youtube.com/watch?v=DOiGs2NiDbU) - *James Q Quick*
 - ["How to create a GitHub profile README"](https://www.youtube.com/watch?v=vND_UY7xk24) - *Code With Confidence*
 - ["How To Create A GitHub Profile README"](https://www.youtube.com/watch?v=Y1z7_GfEPiE) - *Program With Erik*
+- ["Next Level GitHub Profile README"](https://youtu.be/ECuqb5Tv9qI) - *codeSTACKr*
 
 ## Contribute
 
