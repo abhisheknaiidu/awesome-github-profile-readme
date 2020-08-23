@@ -101,6 +101,7 @@
 - [Andrew Novac](https://github.com/novatorem/novatorem)
 - [Johnny Villegas](https://github.com/C9-LinkRs/C9-LinkRs)
 - [andyruwruw](https://github.com/andyruwruw/andyruwruw)
+- [Jacob Colvin](https://github.com/MacroPower/MacroPower)
 
 #### A Little Bit of Everything 😃
 - [Raymond Li](https://github.com/Raymo111/Raymo111)
