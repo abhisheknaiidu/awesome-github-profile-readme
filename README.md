@@ -142,6 +142,7 @@
 - [Srihari Kapu](https://github.com/sriharikapu/sriharikapu)
 - [vaaski](https://github.com/vaaski/vaaski)
 - [Arturs Smirnovs](https://github.com/arturssmirnovs/arturssmirnovs)
+- [anfederico](https://github.com/anfederico/anfederico)
 
 #### Typing.. Mode 🎰
 - [Mathieu Ledru](https://github.com/matyo91/matyo91)
