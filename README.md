@@ -113,6 +113,7 @@
 - [CxyFreedom](https://github.com/cxyfreedom/cxyfreedom)
 - [Miller Camilo Vega](https://github.com/minoveaz/minoveaz)
 - [Abhishek Maira](https://github.com/AbhishekMaira10/AbhishekMaira10)
+- [cheesits456](https://github.com/cheesits456/cheesits456)
 
 #### Descriptive 🗒
 - [Filip Troníček](https://github.com/filiptronicek/filiptronicek)
