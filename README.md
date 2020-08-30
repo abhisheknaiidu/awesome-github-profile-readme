@@ -247,6 +247,7 @@
 - [Github Profile README Generator](https://github.com/arturssmirnovs/github-profile-readme-generator) - This project allows you to create nice and simple github profile readme files.
 - [Profile Readme Stats](https://github.com/marketplace/actions/profile-readme-stats) - [Github Action] Showcase your github stats on your profile README.md
 - [README Jokes](https://github.com/ABSphreak/readme-jokes) - Random dev jokes in your GitHub README.
+- [README Template](https://github.com/probablykasper/readme-template-action) - Generates a `README.md` from a `TEMPLATE.md` with variables and loops (with variables inside) from the GitHub API. Show your newest, most starred or recently pushed repositories, or use your own sorting, or list which ones to show. You can even use custom API queries inside the `TEMPLATE.md`.
 
 ## Articles
 - ["How To Create A GitHub Profile README"](https://www.aboutmonica.com/blog/how-to-create-a-github-profile-readme) - *Monica Powell*
