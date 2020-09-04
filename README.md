@@ -155,6 +155,7 @@
 - [Ing](https://github.com/innng/innng)
 - [edisonlee55](https://github.com/edisonlee55/edisonlee55)
 - [Ashutosh](https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX)
+- [Danyaya](https://github.com/x4cusx4cus)
 
 #### Minimalistic ✨
 - [Caneco](https://github.com/caneco/)
