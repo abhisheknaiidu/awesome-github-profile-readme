@@ -103,6 +103,7 @@
 - [andyruwruw](https://github.com/andyruwruw/andyruwruw)
 
 #### A Little Bit of Everything 😃
+- [Ashwin Gounder](https://github.com/ashwiii/ashwiii)
 - [Raymond Li](https://github.com/Raymo111/Raymo111)
 - [Martin Heinz](https://github.com/MartinHeinz/MartinHeinz)
 - [Adam Alston](https://github.com/adamalston/adamalston)
