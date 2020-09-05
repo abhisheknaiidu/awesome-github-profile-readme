@@ -172,6 +172,7 @@
 - [ChungZH](https://github.com/ChungZH/ChungZH/)
 - [Orhun](https://github.com/orhun/orhun)
 - [Aveek Saha](https://github.com/Aveek-Saha/Aveek-Saha)
+- [Basile Beldame](https://github.com/bbeldame/bbeldame)
 
 #### GIFS 👻
 - [Pouya Saadeghi](https://github.com/saadeghi/saadeghi)
