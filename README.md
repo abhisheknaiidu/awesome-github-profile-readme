@@ -210,6 +210,7 @@
 - [Moshfiq Rony](https://github.com/moshfiqrony/moshfiqrony)
 - [Ileriayo Adebiyi](https://github.com/ileriayo/ileriayo)
 - [Samujjwaal Dey](https://github.com/samujjwaal/samujjwaal)
+- [Nikita Rusetskii](https://github.com/xtenzQ/xtenzQ)
 
 #### Fancy Fonts 🖋
 - [xiaoluoboding](https://github.com/xiaoluoboding/xiaoluoboding)
