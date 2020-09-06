@@ -103,6 +103,7 @@
 - [Andrew Young](https://github.com/andyruwruw/andyruwruw)
 - [Rashmi Jadhav](https://github.com/rusty-sj/rusty-sj)
 - [andyruwruw](https://github.com/andyruwruw/andyruwruw)
+- [Osman Durdağ](https://github.com/zumrudu-anka/zumrudu-anka)
 - [iampavangandhi](https://github.com/iampavangandhi/iampavangandhi)
 - [Dani Akash](https://github.com/daniakash/daniakash)
 
