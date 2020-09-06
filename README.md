@@ -146,6 +146,7 @@
 - [Srihari Kapu](https://github.com/sriharikapu/sriharikapu)
 - [vaaski](https://github.com/vaaski/vaaski)
 - [Arturs Smirnovs](https://github.com/arturssmirnovs/arturssmirnovs)
+- [Hemanth Kollipara](https://github.com/Defcon27/Defcon27)
 
 #### Typing.. Mode 🎰
 - [Mathieu Ledru](https://github.com/matyo91/matyo91)
