@@ -150,6 +150,7 @@
 - [Srihari Kapu](https://github.com/sriharikapu/sriharikapu)
 - [vaaski](https://github.com/vaaski/vaaski)
 - [Arturs Smirnovs](https://github.com/arturssmirnovs/arturssmirnovs)
+- [Yash Sahijwani](https://github.com/Terabyte17/Terabyte17)
 - [Hemanth Kollipara](https://github.com/Defcon27/Defcon27)
 - [Onimur](https://github.com/onimur/onimur)
 
