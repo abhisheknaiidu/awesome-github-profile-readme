@@ -151,6 +151,7 @@
 - [vaaski](https://github.com/vaaski/vaaski)
 - [Arturs Smirnovs](https://github.com/arturssmirnovs/arturssmirnovs)
 - [Hemanth Kollipara](https://github.com/Defcon27/Defcon27)
+- [Onimur](https://github.com/onimur/onimur)
 
 #### Typing.. Mode 🎰
 - [Mathieu Ledru](https://github.com/matyo91/matyo91)
