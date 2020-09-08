@@ -47,6 +47,7 @@
 ## Categories
 
 #### Github Actions 🤖
+- [Suraj Shende](https://github.com/surajshende247)
 - [Thomas Guibert](https://github.com/thmsgbrt/thmsgbrt)
 - [Brian Douglas](https://github.com/bdougie/bdougie)
 - [Shawn Wang](https://github.com/sw-yx/sw-yx)
