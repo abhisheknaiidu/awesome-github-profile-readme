@@ -100,7 +100,12 @@
 - [Kittinan](https://github.com/kittinan/kittinan)
 - [Andrew Novac](https://github.com/novatorem/novatorem)
 - [Johnny Villegas](https://github.com/C9-LinkRs/C9-LinkRs)
+- [Andrew Young](https://github.com/andyruwruw/andyruwruw)
+- [Rashmi Jadhav](https://github.com/rusty-sj/rusty-sj)
 - [andyruwruw](https://github.com/andyruwruw/andyruwruw)
+- [Osman Durdağ](https://github.com/zumrudu-anka/zumrudu-anka)
+- [iampavangandhi](https://github.com/iampavangandhi/iampavangandhi)
+- [Dani Akash](https://github.com/daniakash/daniakash)
 
 #### A Little Bit of Everything 😃
 - [Raymond Li](https://github.com/Raymo111/Raymo111)
@@ -110,6 +115,8 @@
 - [Aditya Pal](https://github.com/sciencepal/sciencepal)
 - [Hedy Li](https://github.com/hedythedev/hedythedev)
 - [Xunzhuo](https://github.com/xunzhuo/xunzhuo)
+- [Khaleel Gibran](https://github.com/khalby786/khalby786)
+- [Apoorv Tyagi](https://github.com/apoorvtyagi/apoorvtyagi)
 - [CxyFreedom](https://github.com/cxyfreedom/cxyfreedom)
 - [Miller Camilo Vega](https://github.com/minoveaz/minoveaz)
 - [Abhishek Maira](https://github.com/AbhishekMaira10/AbhishekMaira10)
@@ -121,7 +128,8 @@
 - [Nguyễn Hoàng Dương](https://github.com/you-create/you-create)
 - [Saksham Taneja](https://github.com/sakshamtaneja21/sakshamtaneja21)
 - [Keshav Singh](https://github.com/keshavsingh4522/keshavsingh4522)
-- [Ankit Kumar](https://github.com/AnkitDroidGit)
+- [Ankit Kumar](https://github.com/AnkitDroidGit/AnkitDroidGit)
+- [Vidur Satija](https://github.com/vidursatija/vidursatija)
 
 #### Simple but Innovative Ones 🤗
 - [Nate Moore](https://github.com/natemoo-re/natemoo-re)
@@ -143,6 +151,9 @@
 - [Srihari Kapu](https://github.com/sriharikapu/sriharikapu)
 - [vaaski](https://github.com/vaaski/vaaski)
 - [Arturs Smirnovs](https://github.com/arturssmirnovs/arturssmirnovs)
+- [Yash Sahijwani](https://github.com/Terabyte17/Terabyte17)
+- [Hemanth Kollipara](https://github.com/Defcon27/Defcon27)
+- [Onimur](https://github.com/onimur/onimur)
 
 #### Typing.. Mode 🎰
 - [Mathieu Ledru](https://github.com/matyo91/matyo91)
@@ -173,6 +184,8 @@
 - [ChungZH](https://github.com/ChungZH/ChungZH/)
 - [Orhun](https://github.com/orhun/orhun)
 - [Aveek Saha](https://github.com/Aveek-Saha/Aveek-Saha)
+- [Federico Dondi](https://github.com/federico-dondi)
+- [Zheeeng](https://github.com/Zheeeng/Zheeeng)
 
 #### GIFS 👻
 - [Pouya Saadeghi](https://github.com/saadeghi/saadeghi)
@@ -189,6 +202,9 @@
 - [xrkffgg](https://github.com/xrkffgg/xrkffgg)
 - [Kevin Cui](https://github.com/KevCui/KevCui)
 - [Muskan Rani](https://github.com/muskanrani/muskanrani)
+- [Rishav Anand](https://github.com/rishavanand/rishavanand)
+- [KelviNosse](https://github.com/KelviNosse/KelviNosse)
+- [nilfalse](https://github.com/nilfalse/nilfalse)
 
 #### Just Images 🎭
 - [Zack Krida](https://github.com/zackkrida/zackkrida)
@@ -206,6 +222,8 @@
 - [Moshfiq Rony](https://github.com/moshfiqrony/moshfiqrony)
 - [Ileriayo Adebiyi](https://github.com/ileriayo/ileriayo)
 - [Samujjwaal Dey](https://github.com/samujjwaal/samujjwaal)
+- [Oka](https://github.com/Coordinate-Cat/Coordinate-Cat)
+- [Nikita Rusetskii](https://github.com/xtenzQ/xtenzQ)
 
 #### Fancy Fonts 🖋
 - [xiaoluoboding](https://github.com/xiaoluoboding/xiaoluoboding)
@@ -248,9 +266,15 @@
 - [Github Profile README Generator](https://github.com/arturssmirnovs/github-profile-readme-generator) - This project allows you to create nice and simple github profile readme files.
 - [Profile Readme Stats](https://github.com/marketplace/actions/profile-readme-stats) - [Github Action] Showcase your github stats on your profile README.md
 - [README Jokes](https://github.com/ABSphreak/readme-jokes) - Random dev jokes in your GitHub README.
+- [GitHub Readme Quotes](https://github.com/PiyushSuthar/github-readme-quotes) - Dev quotes on your GitHub Profile Readme.
+- [GitHub Profilinator](https://github.com/rishavanand/github-profilinator) - This tool contains small GUI components that you can hook together to generate markdown for your perfect readme.
+- [PageSpeed score](https://github.com/ankurparihar/readme-pagespeed-insights) - Generate website's PageSpeed score in animated svg form which can be used in GitHub README
+- [Gitwar Profile Score](https://github.com/iampavangandhi/Gitwar) - Add your Github Profile Score in README.
+- [Header Images for Github Profile READMEs](https://github.com/khalby786/REHeader) - Generate header images for your GitHub profile READMEs with custom content
 
 ## Articles
 - ["How To Create A GitHub Profile README"](https://www.aboutmonica.com/blog/how-to-create-a-github-profile-readme) - *Monica Powell*
+- ["How to Stand Out on Github with Profile READMEs"](https://medium.com/better-programming/how-to-stand-out-on-github-with-profile-readmes-dfd2102a3490?source=friends_link&sk=61df9c4b63b329ad95528b8d7c00061f) - *Jessica Lim*
 - ["What's on your GitHub Profile"](https://dev.to/waylonwalker/what-s-on-your-github-profile-40p3) - *Waylon Walker*
 - ["3 Ways to Spice up your Github Profile README 🔥"](https://dev.to/jayehernandez/3-ways-to-spice-up-your-github-profile-readme-1276) - *Jaye Hernandez*
 - ["Dynamically Generated Github Stats For Your Profile ReadMe"](https://dev.to/anuraghazra/dynamically-generated-github-stats-for-your-profile-readme-o4g) - *Anurag Hazra*
