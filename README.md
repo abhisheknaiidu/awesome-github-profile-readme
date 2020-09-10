@@ -77,7 +77,7 @@
 - [teoxoy](https://github.com/teoxoy/teoxoy)
 - [Aral Roca](https://github.com/aralroca/aralroca)
 - [codeSTACKr](https://github.com/codestackr/codestackr)
-- [vn7n24fzkq (vn7)](https://github.com/vn7n24fzkq/vn7n24fzkq)
+- [vn7n24fzkq](https://github.com/vn7n24fzkq/vn7n24fzkq)
 
 #### Game Mode 🚀
 - [Tim Burgan](https://github.com/timburgan/timburgan)
