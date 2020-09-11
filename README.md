@@ -77,6 +77,7 @@
 - [teoxoy](https://github.com/teoxoy/teoxoy)
 - [Aral Roca](https://github.com/aralroca/aralroca)
 - [codeSTACKr](https://github.com/codestackr/codestackr)
+- [Fantasy9527](https://github.com/Fantasy9527)
 
 #### Game Mode 🚀
 - [Tim Burgan](https://github.com/timburgan/timburgan)
