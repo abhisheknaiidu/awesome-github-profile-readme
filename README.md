@@ -110,6 +110,7 @@
 - [Dani Akash](https://github.com/daniakash/daniakash)
 
 #### A Little Bit of Everything 😃
+- [Leander Stephen D'Souza](https://github.com/leander-dsouza)
 - [Raymond Li](https://github.com/Raymo111/Raymo111)
 - [Martin Heinz](https://github.com/MartinHeinz/MartinHeinz)
 - [Adam Alston](https://github.com/adamalston/adamalston)
