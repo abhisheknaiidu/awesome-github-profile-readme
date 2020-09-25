@@ -155,6 +155,7 @@
 - [Yash Sahijwani](https://github.com/Terabyte17/Terabyte17)
 - [Hemanth Kollipara](https://github.com/Defcon27/Defcon27)
 - [Onimur](https://github.com/onimur/onimur)
+- [Sahil-rawat](https://github.com/sahil-rawat/sahil-rawat)
 
 #### Typing.. Mode 🎰
 - [Mathieu Ledru](https://github.com/matyo91/matyo91)
