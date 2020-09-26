@@ -1,4 +1,4 @@
-<h1 align="center">Awesome Github Profile README</h1>
+<h1 align="center">Awesome GitHub Profile README</h1>
 <div align="center">
 <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
 <a href="https://zzetao.github.io/awesome-github-profile/"><img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=website&color=%230076D6&style=flat&logo=google-chrome&logoColor=%230076D6" alt="website"/></a>
@@ -14,6 +14,8 @@
 <a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/issues"><img src="https://img.shields.io/github/issues/abhisheknaiidu/awesome-github-profile-readme" alt="Issues Badge"/></a>
 <a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/abhisheknaiidu/awesome-github-profile-readme?color=2b9348"></a>
 <a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/blob/master/LICENSE"><img src="https://img.shields.io/github/license/abhisheknaiidu/awesome-github-profile-readme?color=2b9348" alt="License Badge"/></a>
+
+<img alt="Awesome GitHub Profile Readme" src="assets/agpr.gif"> </img>
 
 <i>Loved the project? Please consider [donating](https://paypal.me/abhisheknaiidu) to help it improve!</i>
 
@@ -47,6 +49,7 @@
 ## Categories
 
 #### Github Actions 🤖
+- [Abhishek Naidu](https://github.com/abhisheknaiidu/abhisheknaiidu)
 - [Thomas Guibert](https://github.com/thmsgbrt/thmsgbrt)
 - [Brian Douglas](https://github.com/bdougie/bdougie)
 - [Shawn Wang](https://github.com/sw-yx/sw-yx)
@@ -94,7 +97,6 @@
 
 #### Dynamic Realtime 💫
 - [Kirill Feschenko](https://github.com/xcaq/xcaq)
-- [Abhishek Naidu](https://github.com/abhisheknaiidu/abhisheknaiidu)
 - [Anurag Hazra](https://github.com/anuraghazra/anuraghazra)
 - [Hemant Joshi](https://github.com/8bithemant/8bithemant)
 - [Kittinan](https://github.com/kittinan/kittinan)
@@ -150,8 +152,10 @@
 - [Srihari Kapu](https://github.com/sriharikapu/sriharikapu)
 - [vaaski](https://github.com/vaaski/vaaski)
 - [Arturs Smirnovs](https://github.com/arturssmirnovs/arturssmirnovs)
+- [Yash Sahijwani](https://github.com/Terabyte17/Terabyte17)
 - [Hemanth Kollipara](https://github.com/Defcon27/Defcon27)
 - [Tushar Mittal](https://github.com/techytushar/techytushar)
+- [Onimur](https://github.com/onimur/onimur)
 
 #### Typing.. Mode 🎰
 - [Mathieu Ledru](https://github.com/matyo91/matyo91)
@@ -200,6 +204,7 @@
 - [xrkffgg](https://github.com/xrkffgg/xrkffgg)
 - [Kevin Cui](https://github.com/KevCui/KevCui)
 - [Muskan Rani](https://github.com/muskanrani/muskanrani)
+- [Rishav Anand](https://github.com/rishavanand/rishavanand)
 - [KelviNosse](https://github.com/KelviNosse/KelviNosse)
 - [nilfalse](https://github.com/nilfalse/nilfalse)
 
@@ -219,6 +224,7 @@
 - [Moshfiq Rony](https://github.com/moshfiqrony/moshfiqrony)
 - [Ileriayo Adebiyi](https://github.com/ileriayo/ileriayo)
 - [Samujjwaal Dey](https://github.com/samujjwaal/samujjwaal)
+- [Oka](https://github.com/Coordinate-Cat/Coordinate-Cat)
 - [Nikita Rusetskii](https://github.com/xtenzQ/xtenzQ)
 
 #### Fancy Fonts 🖋
@@ -263,6 +269,8 @@
 - [Profile Readme Stats](https://github.com/marketplace/actions/profile-readme-stats) - [Github Action] Showcase your github stats on your profile README.md
 - [README Jokes](https://github.com/ABSphreak/readme-jokes) - Random dev jokes in your GitHub README.
 - [Random Dev Memes](https://github.com/techytushar/random-memer) - Random dev memes to display on your GitHub README.
+- [GitHub Readme Quotes](https://github.com/PiyushSuthar/github-readme-quotes) - Dev quotes on your GitHub Profile Readme.
+- [GitHub Profilinator](https://github.com/rishavanand/github-profilinator) - This tool contains small GUI components that you can hook together to generate markdown for your perfect readme.
 - [PageSpeed score](https://github.com/ankurparihar/readme-pagespeed-insights) - Generate website's PageSpeed score in animated svg form which can be used in GitHub README
 - [Gitwar Profile Score](https://github.com/iampavangandhi/Gitwar) - Add your Github Profile Score in README.
 - [Header Images for Github Profile READMEs](https://github.com/khalby786/REHeader) - Generate header images for your GitHub profile READMEs with custom content
@@ -300,7 +308,10 @@
 Contributions are always welcome!
 Please read the [contribution guidelines](contributing.md) first.
 
-## License
+## Special Thanks 🙇
+- [Zetao Zhuang](https://github.com/zzetao) for making the amazing site for this repo!
+
+## License 
 
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
