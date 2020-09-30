@@ -189,7 +189,7 @@
 - [Aveek Saha](https://github.com/Aveek-Saha/Aveek-Saha)
 - [Federico Dondi](https://github.com/federico-dondi)
 - [Zheeeng](https://github.com/Zheeeng/Zheeeng)
-- [Kaiyu Hsu](https://github.com/tehkaiyu)
+- [Kaiyu Hsu](https://github.com/tehkaiyu/tehkaiyu)
 
 #### GIFS 👻
 - [Pouya Saadeghi](https://github.com/saadeghi/saadeghi)
