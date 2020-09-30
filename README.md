@@ -79,6 +79,7 @@
 - [Aral Roca](https://github.com/aralroca/aralroca)
 - [codeSTACKr](https://github.com/codestackr/codestackr)
 - [lifeparticle](https://github.com/lifeparticle/lifeparticle)
+- [sorcererxw](https://github.com/sorcererxw/sorcererxw)
 
 #### Game Mode 🚀
 - [Tim Burgan](https://github.com/timburgan/timburgan)
