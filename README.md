@@ -157,6 +157,7 @@
 - [Hemanth Kollipara](https://github.com/Defcon27/Defcon27)
 - [Tushar Mittal](https://github.com/techytushar/techytushar)
 - [Onimur](https://github.com/onimur/onimur)
+- [Anushka Wakankar](https://github.com/anushkawakankar/anushkawakankar)
 
 #### Typing.. Mode 🎰
 - [Mathieu Ledru](https://github.com/matyo91/matyo91)
@@ -189,6 +190,7 @@
 - [Aveek Saha](https://github.com/Aveek-Saha/Aveek-Saha)
 - [Federico Dondi](https://github.com/federico-dondi)
 - [Zheeeng](https://github.com/Zheeeng/Zheeeng)
+- [Anushka Wakankar](https://github.com/anushkawakankar/anushkawakankar)
 
 #### GIFS 👻
 - [Pouya Saadeghi](https://github.com/saadeghi/saadeghi)
