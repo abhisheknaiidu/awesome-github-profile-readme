@@ -123,6 +123,7 @@
 - [CxyFreedom](https://github.com/cxyfreedom/cxyfreedom)
 - [Miller Camilo Vega](https://github.com/minoveaz/minoveaz)
 - [Abhishek Maira](https://github.com/AbhishekMaira10/AbhishekMaira10)
+- [Dipanjan Panja](https://github.com/dipanjanpanja6/dipanjanpanja6)
 
 #### Descriptive 🗒
 - [Filip Troníček](https://github.com/filiptronicek/filiptronicek)
