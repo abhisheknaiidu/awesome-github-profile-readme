@@ -47,6 +47,7 @@
 ## Categories
 
 #### Github Actions 🤖
+- [Alestor](https://github.com/alestor123)
 - [Thomas Guibert](https://github.com/thmsgbrt/thmsgbrt)
 - [Brian Douglas](https://github.com/bdougie/bdougie)
 - [Shawn Wang](https://github.com/sw-yx/sw-yx)
