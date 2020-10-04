@@ -230,6 +230,7 @@
 
 #### Fancy Fonts 🖋
 - [xiaoluoboding](https://github.com/xiaoluoboding/xiaoluoboding)
+- [Ram Prakash](https://github.com/thedoodler/thedoodler)
 
 #### Icons 🎯
 - [Yuan Tang](https://github.com/terrytangyuan/terrytangyuan)
@@ -312,7 +313,7 @@ Please read the [contribution guidelines](contributing.md) first.
 ## Special Thanks 🙇
 - [Zetao Zhuang](https://github.com/zzetao) for making the amazing site for this repo!
 
-## License 
+## License
 
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
