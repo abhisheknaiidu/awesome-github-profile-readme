@@ -157,6 +157,7 @@
 - [Hemanth Kollipara](https://github.com/Defcon27/Defcon27)
 - [Tushar Mittal](https://github.com/techytushar/techytushar)
 - [Onimur](https://github.com/onimur/onimur)
+- [Danny Verpoort](https://github.com/dannyverp/dannyverp)
 
 #### Typing.. Mode 🎰
 - [Mathieu Ledru](https://github.com/matyo91/matyo91)
