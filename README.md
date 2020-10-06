@@ -79,7 +79,6 @@
 - [Aral Roca](https://github.com/aralroca/aralroca)
 - [codeSTACKr](https://github.com/codestackr/codestackr)
 - [lifeparticle](https://github.com/lifeparticle/lifeparticle)
-- [Taucher2003](https://github.com/Taucher2003/Taucher2003)
 - [nicosammito](https://github.com/nicosammito/nicosammito)
 
 #### Game Mode 🚀
