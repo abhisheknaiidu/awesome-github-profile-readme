@@ -172,6 +172,7 @@
 - [Ashutosh](https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX)
 
 #### Minimalistic ✨
+- [Alberto Mosconi](https://github.com/albertomosconi/)
 - [Caneco](https://github.com/caneco/)
 - [Gift Egwuenu](https://github.com/lauragift21/lauragift21)
 - [Kelechi Precious Nwachukwu](https://github.com/PluckyPrecious/PluckyPrecious)
