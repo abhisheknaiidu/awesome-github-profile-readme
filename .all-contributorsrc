@@ -1,0 +1,24 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "x4cusx4cus",
+      "name": "Danya ya",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/55207167?v=4",
+      "profile": "https://github.com/x4cusx4cus",
+      "contributions": [
+        "doc"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "awesome-github-profile-readme",
+  "projectOwner": "abhisheknaiidu",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
