@@ -1,0 +1,24 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "LowSpecCorgi",
+      "name": "Basilicous",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/59167551?v=4",
+      "profile": "https://github.com/LowSpecCorgi",
+      "contributions": [
+        "doc"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "awesome-github-profile-readme",
+  "projectOwner": "abhisheknaiidu",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
