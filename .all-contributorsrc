@@ -1,0 +1,24 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "alestor123",
+      "name": "Alestor Aldous",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/51041424?v=4",
+      "profile": "https://alestor123.github.io/CONTACT-CARD/",
+      "contributions": [
+        "doc"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "awesome-github-profile-readme",
+  "projectOwner": "abhisheknaiidu",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
