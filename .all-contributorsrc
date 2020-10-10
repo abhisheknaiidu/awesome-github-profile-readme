@@ -1,0 +1,24 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "PiyushSuthar",
+      "name": "Piyush Suthar",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/32237558?v=4",
+      "profile": "https://piyushsuthar.codes",
+      "contributions": [
+        "doc"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "awesome-github-profile-readme",
+  "projectOwner": "abhisheknaiidu",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
