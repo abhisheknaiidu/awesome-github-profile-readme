@@ -1,0 +1,24 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "samewara",
+      "name": "Sandeep Mewara",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/14760522?v=4",
+      "profile": "https://learnbyinsight.com/",
+      "contributions": [
+        "doc"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "awesome-github-profile-readme",
+  "projectOwner": "abhisheknaiidu",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
