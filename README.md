@@ -111,6 +111,7 @@
 - [Dani Akash](https://github.com/daniakash/daniakash)
 
 #### A Little Bit of Everything 😃
+- [Piyush Pandey](https://github.com/zephyrus21/zephyrus21)
 - [Raymond Li](https://github.com/Raymo111/Raymo111)
 - [Martin Heinz](https://github.com/MartinHeinz/MartinHeinz)
 - [Adam Alston](https://github.com/adamalston/adamalston)
