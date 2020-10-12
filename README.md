@@ -275,6 +275,7 @@
 - [PageSpeed score](https://github.com/ankurparihar/readme-pagespeed-insights) - Generate website's PageSpeed score in animated svg form which can be used in GitHub README
 - [Gitwar Profile Score](https://github.com/iampavangandhi/Gitwar) - Add your Github Profile Score in README.
 - [Header Images for Github Profile READMEs](https://github.com/khalby786/REHeader) - Generate header images for your GitHub profile READMEs with custom content
+- [🏴‍☠️ piratepx](https://www.piratepx.com/) - Just a little analytics insight for your GitHub Profile. 100% free and open source.
 
 ## Articles
 - ["How To Create A GitHub Profile README"](https://www.aboutmonica.com/blog/how-to-create-a-github-profile-readme) - *Monica Powell*
