@@ -122,7 +122,8 @@
 - [Apoorv Tyagi](https://github.com/apoorvtyagi/apoorvtyagi)
 - [CxyFreedom](https://github.com/cxyfreedom/cxyfreedom)
 - [Miller Camilo Vega](https://github.com/minoveaz/minoveaz)
-- [Abhishek Maira](https://github.com/AbhishekMaira10/AbhishekMaira10)
+- [Abhishek Maira](https://github.com/AbhishekMaira10/AbhishekMaira10)5
+- [Syeda Reeha Quasar](https://github.com/syedareehaquasar)
 
 #### Descriptive 🗒
 - [Filip Troníček](https://github.com/filiptronicek/filiptronicek)
