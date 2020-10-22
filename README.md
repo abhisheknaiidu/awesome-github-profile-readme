@@ -112,7 +112,7 @@
 
 #### A Little Bit of Everything 😃
 - [Raymond Li](https://github.com/Raymo111/Raymo111)
-- [manoj_uppala](https://github.com/manojuppala/manojuppala)
+- [manojuppala](https://github.com/manojuppala/manojuppala)
 - [Martin Heinz](https://github.com/MartinHeinz/MartinHeinz)
 - [Adam Alston](https://github.com/adamalston/adamalston)
 - [Rafnix Guzmán](https://github.com/rafnixg/rafnixg)
