@@ -109,6 +109,7 @@
 - [Osman Durdağ](https://github.com/zumrudu-anka/zumrudu-anka)
 - [iampavangandhi](https://github.com/iampavangandhi/iampavangandhi)
 - [Dani Akash](https://github.com/daniakash/daniakash)
+- [Rakka Pratama](https://github.com/N1ght420/N1ght420)
 
 #### A Little Bit of Everything 😃
 - [Raymond Li](https://github.com/Raymo111/Raymo111)
@@ -275,6 +276,9 @@
 - [PageSpeed score](https://github.com/ankurparihar/readme-pagespeed-insights) - Generate website's PageSpeed score in animated svg form which can be used in GitHub README
 - [Gitwar Profile Score](https://github.com/iampavangandhi/Gitwar) - Add your Github Profile Score in README.
 - [Header Images for Github Profile READMEs](https://github.com/khalby786/REHeader) - Generate header images for your GitHub profile READMEs with custom content
+- [Capsule Render](https://github.com/kyechan99/capsule-render) - :rainbow: Decorate Dynamic GitHub Profile !!
+- [Github README YouTube Stats](https://github.com/DenverCoder1/github-readme-youtube-stats) - Youtube stats badges for your Github profile README
+- [Github Readme Streak Stats](https://github.com/DenverCoder1/github-readme-streak-stats) - :fire: Stay motivated and show off your contribution streak! :star2: Display your total contributions, current streak, and longest streak on your GitHub profile README
 
 ## Articles
 - ["How To Create A GitHub Profile README"](https://www.aboutmonica.com/blog/how-to-create-a-github-profile-readme) - *Monica Powell*
