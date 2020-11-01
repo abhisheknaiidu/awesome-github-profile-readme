@@ -227,6 +227,7 @@
 - [Samujjwaal Dey](https://github.com/samujjwaal/samujjwaal)
 - [Oka](https://github.com/Coordinate-Cat/Coordinate-Cat)
 - [Nikita Rusetskii](https://github.com/xtenzQ/xtenzQ)
+- [Raghav Khanna](https://github.com/raghavkhanna30/raghavkhanna30)
 
 #### Fancy Fonts 🖋
 - [xiaoluoboding](https://github.com/xiaoluoboding/xiaoluoboding)
