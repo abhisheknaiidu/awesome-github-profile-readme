@@ -87,7 +87,7 @@
 - [Jonathan Gin](https://github.com/JonathanGin52/JonathanGin52)
 - [Ross Williams](https://github.com/rossjrw/rossjrw)
 - [kylepls](https://github.com/kylepls/kylepls)
-- [Aaron Liu](https://github.com/HFO4)
+- [Aaron Liu](https://github.com/HFO4/HFO4)
 
 #### Code Mode 👨🏽‍💻
 - [Thaiane Braga](https://github.com/Thaiane/Thaiane)
