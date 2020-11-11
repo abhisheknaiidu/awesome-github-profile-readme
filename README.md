@@ -125,7 +125,6 @@
 - [Abhishek Maira](https://github.com/AbhishekMaira10/AbhishekMaira10)
 - [Jackyu-1999](https://github.com/Jackyu-1999/Jackyu-1999)
 
-
 #### Descriptive 🗒
 - [Filip Troníček](https://github.com/filiptronicek/filiptronicek)
 - [Garima Singh](https://github.com/garimasingh128/garimasingh128)
