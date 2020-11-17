@@ -109,6 +109,7 @@
 - [Osman Durdağ](https://github.com/zumrudu-anka/zumrudu-anka)
 - [iampavangandhi](https://github.com/iampavangandhi/iampavangandhi)
 - [Dani Akash](https://github.com/daniakash/daniakash)
+- [Sumanth Talluri](https://github.com/Sumanth-Talluri/Sumanth-Talluri)
 
 #### A Little Bit of Everything 😃
 - [Raymond Li](https://github.com/Raymo111/Raymo111)
