@@ -189,6 +189,7 @@
 - [Aveek Saha](https://github.com/Aveek-Saha/Aveek-Saha)
 - [Federico Dondi](https://github.com/federico-dondi)
 - [Zheeeng](https://github.com/Zheeeng/Zheeeng)
+-[Sumyak-Jain](https://github.com/Sumyak-Jain)
 
 #### GIFS 👻
 - [Pouya Saadeghi](https://github.com/saadeghi/saadeghi)
