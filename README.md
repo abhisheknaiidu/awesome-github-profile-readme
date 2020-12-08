@@ -50,6 +50,7 @@
 
 #### Github Actions 🤖
 - [Abhishek Naidu](https://github.com/abhisheknaiidu/abhisheknaiidu)
+- [Manoj Boddu](https://github.com/manumanoj0010)
 - [Thomas Guibert](https://github.com/thmsgbrt/thmsgbrt)
 - [Brian Douglas](https://github.com/bdougie/bdougie)
 - [Shawn Wang](https://github.com/sw-yx/sw-yx)
