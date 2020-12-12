@@ -8,16 +8,12 @@ newIssueWelcomeComment: |
   Thanks for opening the issue! 
   Do join our discord server [DevSpace](https://discord.gg/PwU8sza) , a place for Awesome Developer's  
   
-  ![issue](https://media.giphy.com/media/W561jj5bXQvqGRMXoR/giphy.gif)
-
 # Configuration for new-pr-welcome - https://github.com/behaviorbot/new-pr-welcome
 
 # Comment to be posted to on PRs from first time contributors in your repository
 newPRWelcomeComment: |
  Thanks for opening this pull request!  
  Do join our discord server [DevSpace](https://discord.gg/PwU8sza) , a place for Awesome Developer's  
-
- ![welcome](https://media.giphy.com/media/XD9o33QG9BoMis7iM4/giphy.gif)
 
 # Configuration for first-pr-merge - https://github.com/behaviorbot/first-pr-merge
 
@@ -27,4 +23,3 @@ firstPRMergeComment: |
  Congrats on merging your first pull request!
  Do join our discord server [DevSpace](https://discord.gg/PwU8sza) , a place for Awesome Developer's  
  
- ![congrats](https://media.giphy.com/media/g9582DNuQppxC/giphy.gif)
