@@ -4,11 +4,11 @@
 
 # Comment to be posted to on first time issues
 newIssueWelcomeComment: |
-  
-  ![issue](https://media.giphy.com/media/W561jj5bXQvqGRMXoR/giphy.gif)
-  
+    
   Thanks for opening the issue! 
   Do join our discord server [DevSpace](https://discord.gg/PwU8sza) , a place for Awesome Developer's  
+  
+  ![issue](https://media.giphy.com/media/W561jj5bXQvqGRMXoR/giphy.gif)
 
 # Configuration for new-pr-welcome - https://github.com/behaviorbot/new-pr-welcome
 
@@ -24,7 +24,7 @@ newPRWelcomeComment: |
 # Comment to be posted to on pull requests merged by a first time user
 firstPRMergeComment: |
 
- ![congrats](https://media.giphy.com/media/g9582DNuQppxC/giphy.gif)
-
  Congrats on merging your first pull request!
  Do join our discord server [DevSpace](https://discord.gg/PwU8sza) , a place for Awesome Developer's  
+ 
+ ![congrats](https://media.giphy.com/media/g9582DNuQppxC/giphy.gif)
