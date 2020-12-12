@@ -129,7 +129,6 @@
 - [Clayton Hamilton](https://github.com/claytonjhamilton/claytonjhamilton)
 - [Sy Rashid](https://github.com/syrashid/syrashid)
 
-
 #### Descriptive 🗒
 - [Filip Troníček](https://github.com/filiptronicek/filiptronicek)
 - [Garima Singh](https://github.com/garimasingh128/garimasingh128)
