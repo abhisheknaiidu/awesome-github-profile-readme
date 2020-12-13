@@ -49,7 +49,6 @@
 ## Categories
 
 #### Github Actions 🤖
-- [Abhishek Naidu](https://github.com/abhisheknaiidu/abhisheknaiidu)
 - [Thomas Guibert](https://github.com/thmsgbrt/thmsgbrt)
 - [Brian Douglas](https://github.com/bdougie/bdougie)
 - [Shawn Wang](https://github.com/sw-yx/sw-yx)
@@ -78,8 +77,6 @@
 - [teoxoy](https://github.com/teoxoy/teoxoy)
 - [Aral Roca](https://github.com/aralroca/aralroca)
 - [codeSTACKr](https://github.com/codestackr/codestackr)
-- [itgoyo](https://github.com/itgoyo/itgoyo)
-- [lifeparticle](https://github.com/lifeparticle/lifeparticle)
 
 #### Game Mode 🚀
 - [Tim Burgan](https://github.com/timburgan/timburgan)
@@ -96,7 +93,6 @@
 - [Kiho](https://github.com/monkindey/monkindey)
 - [Marton](https://github.com/martonlederer/martonlederer)
 - [Redowan Delowar](https://github.com/rednafi/rednafi)
-- [Zhenye Na](https://github.com/Zhenye-Na/Zhenye-Na)
 
 #### Dynamic Realtime 💫
 - [Kirill Feschenko](https://github.com/xcaq/xcaq)
@@ -110,7 +106,6 @@
 - [Andrew Young](https://github.com/andyruwruw/andyruwruw)
 - [Rashmi Jadhav](https://github.com/rusty-sj/rusty-sj)
 - [andyruwruw](https://github.com/andyruwruw/andyruwruw)
-- [Jacob Colvin](https://github.com/MacroPower/MacroPower)
 - [Osman Durdağ](https://github.com/zumrudu-anka/zumrudu-anka)
 - [iampavangandhi](https://github.com/iampavangandhi/iampavangandhi)
 - [Dani Akash](https://github.com/daniakash/daniakash)
@@ -128,10 +123,6 @@
 - [CxyFreedom](https://github.com/cxyfreedom/cxyfreedom)
 - [Miller Camilo Vega](https://github.com/minoveaz/minoveaz)
 - [Abhishek Maira](https://github.com/AbhishekMaira10/AbhishekMaira10)
-- [Clayton Hamilton](https://github.com/claytonjhamilton/claytonjhamilton)
-- [Sy Rashid](https://github.com/syrashid/syrashid)
-- [Quin Knight](https://github.com/cheesits456/cheesits456)
-- [Jackyu-1999](https://github.com/Jackyu-1999/Jackyu-1999)
 
 #### Descriptive 🗒
 - [Filip Troníček](https://github.com/filiptronicek/filiptronicek)
@@ -139,7 +130,6 @@
 - [lizheming](https://github.com/lizheming/lizheming)
 - [Nguyễn Hoàng Dương](https://github.com/you-create/you-create)
 - [Saksham Taneja](https://github.com/sakshamtaneja21/sakshamtaneja21)
-- [TheAbbie](https://github.com/theabbie/theabbie)
 - [Keshav Singh](https://github.com/keshavsingh4522/keshavsingh4522)
 - [Vidur Satija](https://github.com/vidursatija/vidursatija)
 
@@ -165,7 +155,6 @@
 - [Arturs Smirnovs](https://github.com/arturssmirnovs/arturssmirnovs)
 - [Yash Sahijwani](https://github.com/Terabyte17/Terabyte17)
 - [Hemanth Kollipara](https://github.com/Defcon27/Defcon27)
-- [Tushar Mittal](https://github.com/techytushar/techytushar)
 - [Onimur](https://github.com/onimur/onimur)
 
 #### Typing.. Mode 🎰
@@ -180,7 +169,6 @@
 - [Ing](https://github.com/innng/innng)
 - [edisonlee55](https://github.com/edisonlee55/edisonlee55)
 - [Ashutosh](https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX)
-- [Yukii](https://github.com/PrincessAkira/PrincessAkira)
 
 #### Minimalistic ✨
 - [Caneco](https://github.com/caneco/)
@@ -200,7 +188,6 @@
 - [Aveek Saha](https://github.com/Aveek-Saha/Aveek-Saha)
 - [Federico Dondi](https://github.com/federico-dondi)
 - [Zheeeng](https://github.com/Zheeeng/Zheeeng)
-- [TallGuyJenks](https://github.com/tallguyjenks/tallguyjenks)
 
 #### GIFS 👻
 - [Pouya Saadeghi](https://github.com/saadeghi/saadeghi)
@@ -237,10 +224,8 @@
 - [Moshfiq Rony](https://github.com/moshfiqrony/moshfiqrony)
 - [Ileriayo Adebiyi](https://github.com/ileriayo/ileriayo)
 - [Samujjwaal Dey](https://github.com/samujjwaal/samujjwaal)
-- [Char-Al](https://github.com/char-al/char-al)
 - [Oka](https://github.com/Coordinate-Cat/Coordinate-Cat)
 - [Nikita Rusetskii](https://github.com/xtenzQ/xtenzQ)
-- [Raphael Ebner](https://github.com/rafi0101/rafi0101)
 
 #### Fancy Fonts 🖋
 - [xiaoluoboding](https://github.com/xiaoluoboding/xiaoluoboding)
@@ -281,12 +266,9 @@
 - [GitHub Readme LinkedIn](https://github.com/soroushchehresa/github-readme-linkedin) - Get dynamically generated images from your LinkedIn profile on your GitHub readmes
 - [GitHub Readme Medium](https://github.com/omidnikrah/github-readme-medium) - Show your latest Medium article on your readmes!
 - [GitHub Readme StackOverflow](https://github.com/omidnikrah/github-readme-stackoverflow) - Dynamically generated your StackOverflow profile status on your GitHub readmes!
-- [StackOverflow Stats Badge](https://github.com/claytonjhamilton/stackoverflow-badge) - Display your stats with this Unique StackOverflow Badge!
 - [Github Profile README Generator](https://github.com/arturssmirnovs/github-profile-readme-generator) - This project allows you to create nice and simple github profile readme files.
 - [Profile Readme Stats](https://github.com/marketplace/actions/profile-readme-stats) - [Github Action] Showcase your github stats on your profile README.md
 - [README Jokes](https://github.com/ABSphreak/readme-jokes) - Random dev jokes in your GitHub README.
-- [Github Readme Twitter](https://github.com/gazf/github-readme-twitter) - Show your latest tweet on your readmes.
-- [Random Dev Memes](https://github.com/techytushar/random-memer) - Random dev memes to display on your GitHub README.
 - [GitHub Readme Quotes](https://github.com/PiyushSuthar/github-readme-quotes) - Dev quotes on your GitHub Profile Readme.
 - [GitHub Profilinator](https://github.com/rishavanand/github-profilinator) - This tool contains small GUI components that you can hook together to generate markdown for your perfect readme.
 - [PageSpeed score](https://github.com/ankurparihar/readme-pagespeed-insights) - Generate website's PageSpeed score in animated svg form which can be used in GitHub README
