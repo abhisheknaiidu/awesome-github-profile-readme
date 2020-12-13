@@ -3,8 +3,7 @@
 # Configuration for new-issue-welcome - https://github.com/behaviorbot/new-issue-welcome
 
 # Comment to be posted to on first time issues
-newIssueWelcomeComment: |
-    
+newIssueWelcomeComment: >
   Thanks for opening the issue! 
   Do join our discord server [DevSpace](https://discord.gg/PwU8sza) , a place for Awesome Developer's  
   
@@ -13,7 +12,7 @@ newIssueWelcomeComment: |
 # Configuration for new-pr-welcome - https://github.com/behaviorbot/new-pr-welcome
 
 # Comment to be posted to on PRs from first time contributors in your repository
-newPRWelcomeComment: |
+newPRWelcomeComment: >
  Thanks for opening this pull request!  
  Do join our discord server [DevSpace](https://discord.gg/PwU8sza) , a place for Awesome Developer's  
  
@@ -23,7 +22,7 @@ newPRWelcomeComment: |
 
 # Comment to be posted to on pull requests merged by a first time user
 
-firstPRMergeComment: |
+firstPRMergeComment: >
  Congrats on merging your first pull request!
  Do join our discord server [DevSpace](https://discord.gg/PwU8sza) , a place for Awesome Developer's  
  
