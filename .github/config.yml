@@ -4,7 +4,7 @@
 
 # Comment to be posted to on first time issues
 newIssueWelcomeComment: >
-  Thanks for opening the issue! 
+  Thanks for opening the issue!   
   Do join our discord server [DevSpace](https://discord.gg/PwU8sza) , a place for Awesome Developer's  
   
   ![issue](https://media.giphy.com/media/W561jj5bXQvqGRMXoR/giphy.gif)
@@ -13,7 +13,7 @@ newIssueWelcomeComment: >
 
 # Comment to be posted to on PRs from first time contributors in your repository
 newPRWelcomeComment: >
- Thanks for opening this pull request!  
+ Thanks for opening this pull request!    
  Do join our discord server [DevSpace](https://discord.gg/PwU8sza) , a place for Awesome Developer's  
  
  ![welcome](https://media.giphy.com/media/XD9o33QG9BoMis7iM4/giphy.gif)
@@ -23,7 +23,7 @@ newPRWelcomeComment: >
 # Comment to be posted to on pull requests merged by a first time user
 
 firstPRMergeComment: >
- Congrats on merging your first pull request!
+ Congrats on merging your first pull request!   
  Do join our discord server [DevSpace](https://discord.gg/PwU8sza) , a place for Awesome Developer's  
  
  ![congrats](https://media.giphy.com/media/g9582DNuQppxC/giphy.gif)
