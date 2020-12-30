@@ -219,6 +219,7 @@
 - [Rishav Anand](https://github.com/rishavanand/rishavanand)
 - [KelviNosse](https://github.com/KelviNosse/KelviNosse)
 - [nilfalse](https://github.com/nilfalse/nilfalse)
+- [Shahriar Shafin](https://github.com/ShahriarShafin/ShahriarShafin)
 
 #### Just Images 🎭
 - [Zack Krida](https://github.com/zackkrida/zackkrida)
