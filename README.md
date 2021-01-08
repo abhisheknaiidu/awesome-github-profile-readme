@@ -232,6 +232,7 @@
 
 #### Badges 🎫
 - [Anirudh Emmadi](https://github.com/aemmadi/aemmadi)
+- [BL4CKH47H4CK3R](https://github.com/BL4CKH47H4CK3R/BL4CKH47H4CK3R)
 - [Brendon Smith](https://github.com/br3ndonland/br3ndonland)
 - [Alwin Wang](https://github.com/alwinw/alwinw)
 - [Moshfiq Rony](https://github.com/moshfiqrony/moshfiqrony)
