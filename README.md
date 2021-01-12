@@ -237,6 +237,7 @@
 - [Peter Han](https://github.com/peterthehan/peterthehan)
 - [Thomas George Thomas](https://github.com/Thomas-George-T/Thomas-George-T)
 - [Derek Nguyen](https://github.com/dereknguyen269/dereknguyen269)
+- [Debouté Martin](https://github.com/mdeboute)
 
 #### Retro 😎
 - [Livio Brunner](https://github.com/BrunnerLivio/BrunnerLivio)
