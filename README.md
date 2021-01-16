@@ -113,6 +113,7 @@
 - [Osman Durdağ](https://github.com/zumrudu-anka/zumrudu-anka)
 - [iampavangandhi](https://github.com/iampavangandhi/iampavangandhi)
 - [Dani Akash](https://github.com/daniakash/daniakash)
+- [Platane](https://github.com/Platane/Platane)
 
 #### A Little Bit of Everything 😃
 - [Raymond Li](https://github.com/Raymo111/Raymo111)
