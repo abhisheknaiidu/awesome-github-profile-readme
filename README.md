@@ -89,6 +89,7 @@
 - [Jonathan Gin](https://github.com/JonathanGin52/JonathanGin52)
 - [Ross Williams](https://github.com/rossjrw/rossjrw)
 - [kylepls](https://github.com/kylepls/kylepls)
+- [Evaristo Cuesta](https://github.com/evaristocuesta/evaristocuesta)
 
 #### Code Mode 👨🏽‍💻
 - [Thaiane Braga](https://github.com/Thaiane/Thaiane)
