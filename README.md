@@ -201,6 +201,7 @@
 - [Federico Dondi](https://github.com/federico-dondi)
 - [Zheeeng](https://github.com/Zheeeng/Zheeeng)
 - [TallGuyJenks](https://github.com/tallguyjenks/tallguyjenks)
+- [Stefanie Grunwald](https://github.com/moertel/moertel)
 
 #### GIFS 👻
 - [Pouya Saadeghi](https://github.com/saadeghi/saadeghi)
