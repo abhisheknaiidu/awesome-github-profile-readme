@@ -116,7 +116,6 @@
 - [Rahul Jha](https://github.com/rahul-jha98/rahul-jha98)
 
 #### A Little Bit of Everything 😃
-- [Phanison](https://github.com/phanison898/phanison898)
 - [Raymond Li](https://github.com/Raymo111/Raymo111)
 - [Martin Heinz](https://github.com/MartinHeinz/MartinHeinz)
 - [Adam Alston](https://github.com/adamalston/adamalston)
@@ -135,6 +134,7 @@
 - [Jackyu-1999](https://github.com/Jackyu-1999/Jackyu-1999)
 
 #### Descriptive 🗒
+- [Phanison](https://github.com/phanison898/phanison898)
 - [Filip Troníček](https://github.com/filiptronicek/filiptronicek)
 - [Garima Singh](https://github.com/garimasingh128/garimasingh128)
 - [lizheming](https://github.com/lizheming/lizheming)
