@@ -50,6 +50,7 @@
 ## Categories
 
 #### Github Actions 🤖
+- [Parth Desai](https://github.com/pycoder2000/pycoder2000)
 - [Abhishek Naidu](https://github.com/abhisheknaiidu/abhisheknaiidu)
 - [Thomas Guibert](https://github.com/thmsgbrt/thmsgbrt)
 - [Brian Douglas](https://github.com/bdougie/bdougie)
