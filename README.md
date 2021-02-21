@@ -50,6 +50,7 @@
 ## Categories
 
 #### Github Actions 🤖
+- [Younglord](https://github.com/theyounglord/theyounglord)
 - [Abhishek Naidu](https://github.com/abhisheknaiidu/abhisheknaiidu)
 - [Thomas Guibert](https://github.com/thmsgbrt/thmsgbrt)
 - [Brian Douglas](https://github.com/bdougie/bdougie)
