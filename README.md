@@ -144,6 +144,7 @@
 - [Vidur Satija](https://github.com/vidursatija/vidursatija)
 
 #### Simple but Innovative Ones 🤗
+- [Sainath Singineedi](https://github.com/sainad2222/sainad2222)
 - [Nate Moore](https://github.com/natemoo-re/natemoo-re)
 - [Jhey Tompkins](https://github.com/jh3y/jh3y)
 - [Waylon Walker](https://github.com/WaylonWalker/WaylonWalker)
