@@ -40,6 +40,7 @@
       - [Fancy Fonts 🖋](#fancy-fonts-)
       - [Icons 🎯](#icons-)
       - [Retro 😎](#retro-)
+      - [Professional 👨‍💻](#professional-)
   - [Tools](#tools)
   - [Articles](#articles)
   - [Video Tutorials](#tutorials)
@@ -258,6 +259,9 @@
 #### Retro 😎
 - [Livio Brunner](https://github.com/BrunnerLivio/BrunnerLivio)
 - [Christian Petersen](https://github.com/fnky/fnky)
+
+#### Professional 👨‍💻
+- [Nirbhay Vashisht](https://github.com/nirbhayvashisht/nirbhayvashisht)
 
 ## Tools
 - [Visitor Badge](https://visitor-badge.glitch.me/#docs) - Count visitors for your README.md, Issues, PRs in GitHub
