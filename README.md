@@ -50,6 +50,7 @@
 ## Categories
 
 #### Github Actions 🤖
+- [Zul Marij](https://github.com/zulmarij/zulmarij)
 - [Abhishek Naidu](https://github.com/abhisheknaiidu/abhisheknaiidu)
 - [Thomas Guibert](https://github.com/thmsgbrt/thmsgbrt)
 - [Brian Douglas](https://github.com/bdougie/bdougie)
@@ -101,6 +102,7 @@
 - [Zhenye Na](https://github.com/Zhenye-Na/Zhenye-Na)
 
 #### Dynamic Realtime 💫
+- [Zul Marij](https://github.com/zulmarij/zulmarij)
 - [Kirill Feschenko](https://github.com/xcaq/xcaq)
 - [Anurag Hazra](https://github.com/anuraghazra/anuraghazra)
 - [Hemant Joshi](https://github.com/8bithemant/8bithemant)
@@ -117,6 +119,7 @@
 - [Rahul Jha](https://github.com/rahul-jha98/rahul-jha98)
 
 #### A Little Bit of Everything 😃
+- [Zul Marij](https://github.com/zulmarij/zulmarij)
 - [Raymond Li](https://github.com/Raymo111/Raymo111)
 - [Martin Heinz](https://github.com/MartinHeinz/MartinHeinz)
 - [Adam Alston](https://github.com/adamalston/adamalston)
@@ -145,6 +148,7 @@
 - [Vidur Satija](https://github.com/vidursatija/vidursatija)
 
 #### Simple but Innovative Ones 🤗
+- [Zul Marij](https://github.com/zulmarij/zulmarij)
 - [Nate Moore](https://github.com/natemoo-re/natemoo-re)
 - [Jhey Tompkins](https://github.com/jh3y/jh3y)
 - [Waylon Walker](https://github.com/WaylonWalker/WaylonWalker)
@@ -185,6 +189,7 @@
 - [Yukii](https://github.com/PrincessAkira/PrincessAkira)
 
 #### Minimalistic ✨
+- [Zul Marij](https://github.com/zulmarij/zulmarij)
 - [Caneco](https://github.com/caneco/)
 - [Gift Egwuenu](https://github.com/lauragift21/lauragift21)
 - [Kelechi Precious Nwachukwu](https://github.com/PluckyPrecious/PluckyPrecious)
@@ -206,6 +211,7 @@
 - [Stefanie Grunwald](https://github.com/moertel/moertel)
 
 #### GIFS 👻
+- [Zul Marij](https://github.com/zulmarij/zulmarij)
 - [Pouya Saadeghi](https://github.com/saadeghi/saadeghi)
 - [Ari](https://github.com/ari-hacks/ari-hacks)
 - [Siv Ram Shastri](https://github.com/Prince-Shivaram/Prince-Shivaram)
@@ -236,6 +242,7 @@
 - [Daily Random Photo](https://github.com/dailyrandomphoto/dailyrandomphoto)
 
 #### Badges 🎫
+- [Zul Marij](https://github.com/zulmarij/zulmarij)
 - [Anirudh Emmadi](https://github.com/aemmadi/aemmadi)
 - [Brendon Smith](https://github.com/br3ndonland/br3ndonland)
 - [Alwin Wang](https://github.com/alwinw/alwinw)
