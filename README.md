@@ -90,6 +90,7 @@
 - [Ross Williams](https://github.com/rossjrw/rossjrw)
 - [kylepls](https://github.com/kylepls/kylepls)
 - [Aaron Liu](https://github.com/HFO4/HFO4)
+- [marcizhu](https://github.com/marcizhu/marcizhu)
 
 #### Code Mode 👨🏽‍💻
 - [Thaiane Braga](https://github.com/Thaiane/Thaiane)
