@@ -81,6 +81,7 @@
 - [codeSTACKr](https://github.com/codestackr/codestackr)
 - [itgoyo](https://github.com/itgoyo/itgoyo)
 - [lifeparticle](https://github.com/lifeparticle/lifeparticle)
+- [Zul Marij](https://github.com/zulmarij/zulmarij)
 
 #### Game Mode 🚀
 - [Tim Burgan](https://github.com/timburgan/timburgan)
@@ -116,6 +117,7 @@
 - [iampavangandhi](https://github.com/iampavangandhi/iampavangandhi)
 - [Dani Akash](https://github.com/daniakash/daniakash)
 - [Rahul Jha](https://github.com/rahul-jha98/rahul-jha98)
+- [Zul Marij](https://github.com/zulmarij/zulmarij)
 
 #### A Little Bit of Everything 😃
 - [Raymond Li](https://github.com/Raymo111/Raymo111)
@@ -134,6 +136,7 @@
 - [Sy Rashid](https://github.com/syrashid/syrashid)
 - [Quin Knight](https://github.com/cheesits456/cheesits456)
 - [Jackyu-1999](https://github.com/Jackyu-1999/Jackyu-1999)
+- [Zul Marij](https://github.com/zulmarij/zulmarij)
 
 #### Descriptive 🗒
 - [Filip Troníček](https://github.com/filiptronicek/filiptronicek)
@@ -227,6 +230,7 @@
 - [Shahriar Shafin](https://github.com/ShahriarShafin/ShahriarShafin)
 - [Somnath Paul](https://github.com/SP-XD/SP-XD)
 - [Ksenia Morozova](https://github.com/kmoroz/kmoroz)
+- [Zul Marij](https://github.com/zulmarij/zulmarij)
 
 #### Just Images 🎭
 - [Zack Krida](https://github.com/zackkrida/zackkrida)
@@ -248,6 +252,7 @@
 - [Oka](https://github.com/Coordinate-Cat/Coordinate-Cat)
 - [Nikita Rusetskii](https://github.com/xtenzQ/xtenzQ)
 - [Raphael Ebner](https://github.com/rafi0101/rafi0101)
+- [Zul Marij](https://github.com/zulmarij/zulmarij)
 
 #### Fancy Fonts 🖋
 - [xiaoluoboding](https://github.com/xiaoluoboding/xiaoluoboding)
