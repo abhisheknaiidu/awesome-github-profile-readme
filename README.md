@@ -109,6 +109,7 @@
 - [Johnny Villegas](https://github.com/C9-LinkRs/C9-LinkRs)
 - [Andrew Young](https://github.com/andyruwruw/andyruwruw)
 - [Rashmi Jadhav](https://github.com/rusty-sj/rusty-sj)
+- [Yash Varshney](https://github.com/Yash-Varshney-Creativities/)
 - [andyruwruw](https://github.com/andyruwruw/andyruwruw)
 - [Jacob Colvin](https://github.com/MacroPower/MacroPower)
 - [Osman Durdağ](https://github.com/zumrudu-anka/zumrudu-anka)
