@@ -106,6 +106,7 @@
 #### Dynamic Realtime 💫
 - [Kirill Feschenko](https://github.com/xcaq/xcaq)
 - [Anurag Hazra](https://github.com/anuraghazra/anuraghazra)
+- [Chirag Samal](https://github.com/chiragsamal/chiragsamal)
 - [Hemant Joshi](https://github.com/8bithemant/8bithemant)
 - [Kittinan](https://github.com/kittinan/kittinan)
 - [Andrew Novac](https://github.com/novatorem/novatorem)
