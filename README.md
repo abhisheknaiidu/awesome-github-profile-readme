@@ -2,10 +2,12 @@
 <a href="https://www.producthunt.com/posts/awesome-github-profiles?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-awesome-github-profiles" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=277987&theme=light" alt="Awesome GitHub Profiles - Best curated list of developers readme, updated every 15 min | Product Hunt" style="width: 200px; height: 44px;" width="200" height="44" /></a></h1>
 <div align="center">
 <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
-<a href="https://findwrk.app/?utm_source=awesome-github-profile-readme"><img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=findwrk&color=%230076D6&style=flat&logo=google-chrome&logoColor=%230076D6" alt="website"/></a>
+<a href="https://arbeitnow.com/?utm_source=awesome-github-profile-readme"><img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=arbeitnow&color=%230076D6&style=flat&logo=google-chrome&logoColor=%230076D6" alt="website"/></a>
 <!-- <img src="http://hits.dwyl.com/abhisheknaiidu/awesome-github-profile-readme.svg" alt="Hits Badge"/> -->
 <img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99" alt="Star Badge"/>
-<a href="https://discord.gg/XTW52Kt"><img src="https://img.shields.io/discord/733027681184251937.svg?style=flat&label=Join%20Community&color=7289DA" alt="Join Community Badge"/></a><br>
+<a href="https://discord.gg/XTW52Kt"><img src="https://img.shields.io/discord/733027681184251937.svg?style=flat&label=Join%20Community&color=7289DA" alt="Join Community Badge"/></a>
+<a href="https://twitter.com/abhisheknaiidu" ><img src="https://img.shields.io/twitter/follow/abhisheknaiidu.svg?style=social" /> </a>
+<br>
 
 <i>A curated list of awesome Github Profile READMEs</i>
 
@@ -24,7 +26,7 @@
 
 ### Contents:
   - [Categories](#categories)
-      - [Github Actions 🤖](#github-actions-)
+      - [GitHub Actions 🤖](#github-actions-)
       - [Game Mode 🚀](#game-mode-)
       - [Code Mode 👨🏽‍💻](#code-mode-)
       - [Dynamic Realtime 💫](#dynamic-realtime-)
@@ -49,7 +51,7 @@
 
 ## Categories
 
-#### Github Actions 🤖
+#### GitHub Actions 🤖
 - [Abhishek Naidu](https://github.com/abhisheknaiidu/abhisheknaiidu)
 - [Thomas Guibert](https://github.com/thmsgbrt/thmsgbrt)
 - [Brian Douglas](https://github.com/bdougie/bdougie)
@@ -89,6 +91,8 @@
 - [Jonathan Gin](https://github.com/JonathanGin52/JonathanGin52)
 - [Ross Williams](https://github.com/rossjrw/rossjrw)
 - [kylepls](https://github.com/kylepls/kylepls)
+- [Aaron Liu](https://github.com/HFO4/HFO4)
+- [marcizhu](https://github.com/marcizhu/marcizhu)
 
 #### Code Mode 👨🏽‍💻
 - [Thaiane Braga](https://github.com/Thaiane/Thaiane)
@@ -102,6 +106,7 @@
 #### Dynamic Realtime 💫
 - [Kirill Feschenko](https://github.com/xcaq/xcaq)
 - [Anurag Hazra](https://github.com/anuraghazra/anuraghazra)
+- [DenverCoder1](https://github.com/DenverCoder1/DenverCoder1)
 - [Hemant Joshi](https://github.com/bornmay/bornmay)
 - [Kittinan](https://github.com/kittinan/kittinan)
 - [Andrew Novac](https://github.com/novatorem/novatorem)
@@ -132,6 +137,7 @@
 - [Sy Rashid](https://github.com/syrashid/syrashid)
 - [Quin Knight](https://github.com/cheesits456/cheesits456)
 - [Jackyu-1999](https://github.com/Jackyu-1999/Jackyu-1999)
+- [Rak Laptudirm](https://github.com/raklaptudirm/raklaptudirm)
 
 #### Descriptive 🗒
 - [Filip Troníček](https://github.com/filiptronicek/filiptronicek)
@@ -167,6 +173,8 @@
 - [Hemanth Kollipara](https://github.com/Defcon27/Defcon27)
 - [Tushar Mittal](https://github.com/techytushar/techytushar)
 - [Onimur](https://github.com/onimur/onimur)
+- [Bruno Tacca](https://github.com/brunotacca/brunotacca)
+- [Matthew Taylor](https://github.com/Wrapperup/Wrapperup)
 
 #### Typing.. Mode 🎰
 - [Mathieu Ledru](https://github.com/matyo91/matyo91)
@@ -202,6 +210,7 @@
 - [Zheeeng](https://github.com/Zheeeng/Zheeeng)
 - [TallGuyJenks](https://github.com/tallguyjenks/tallguyjenks)
 - [Stefanie Grunwald](https://github.com/moertel/moertel)
+- [Abdul Khaliq](https://github.com/kha7iq/kha7iq)
 
 #### GIFS 👻
 - [Pouya Saadeghi](https://github.com/saadeghi/saadeghi)
@@ -222,6 +231,8 @@
 - [KelviNosse](https://github.com/KelviNosse/KelviNosse)
 - [nilfalse](https://github.com/nilfalse/nilfalse)
 - [Shahriar Shafin](https://github.com/ShahriarShafin/ShahriarShafin)
+- [Somnath Paul](https://github.com/SP-XD/SP-XD)
+- [Ksenia Morozova](https://github.com/kmoroz/kmoroz)
 
 #### Just Images 🎭
 - [Zack Krida](https://github.com/zackkrida/zackkrida)
@@ -253,17 +264,20 @@
 - [Peter Han](https://github.com/peterthehan/peterthehan)
 - [Thomas George Thomas](https://github.com/Thomas-George-T/Thomas-George-T)
 - [Derek Nguyen](https://github.com/dereknguyen269/dereknguyen269)
+- [Valentin Briand](https://github.com/vbriand/vbriand)
 
 #### Retro 😎
 - [Livio Brunner](https://github.com/BrunnerLivio/BrunnerLivio)
 - [Christian Petersen](https://github.com/fnky/fnky)
 
 ## Tools
+- [Todoist Stats in Readme](https://github.com/abhisheknaiidu/todoist-readme) - Daily Todoist Stats on your Profile Readme
 - [Visitor Badge](https://visitor-badge.glitch.me/#docs) - Count visitors for your README.md, Issues, PRs in GitHub
 - [1990s style Visitor Counter](https://twitter.com/ryanlanciaux/status/1283755637126705152) - Add a 1990s style visitor counter with one line of markdown.
-- [Vists Count](https://pufler.dev/git-badges/) - Count visitors for README.md that can be used with shields.io
+- [Vistor Count](https://pufler.dev/git-badges/) - Count visitors for README.md that can be used with shields.io
 - [Shields Project](https://shields.io/) - Use Shields to create profile badges, compatible with Simple Icons
 - [Github Readme Stats](https://github.com/anuraghazra/github-readme-stats) - Get dynamically generated GitHub stats on your readmes
+- [GitHub Streak Stats](https://github.com/DenverCoder1/github-readme-streak-stats) - 🔥 Stay motivated and show off your contribution streak! 🌟 Display your total contributions, current streak, and longest streak on your GitHub profile README
 - [Simple Icons](https://github.com/simple-icons/simple-icons#cdn-usage) -  SVG icons for popular brands for your README.md files
 - [Laravel GitHub Profile Visit Counter](https://github.com/caneco/laravel-github-profile-view-counter) - Add on your Laravel project a quick-badge to count your profile visits.
 - [Dev Metrics in Readme](https://github.com/athul/waka-readme) - [WakaTime](https://wakatime.com/) Weekly Metrics on your Profile Readme
@@ -294,6 +308,9 @@
 - [PageSpeed score](https://github.com/ankurparihar/readme-pagespeed-insights) - Generate website's PageSpeed score in animated svg form which can be used in GitHub README
 - [Gitwar Profile Score](https://github.com/iampavangandhi/Gitwar) - Add your Github Profile Score in README.
 - [Header Images for Github Profile READMEs](https://github.com/khalby786/REHeader) - Generate header images for your GitHub profile READMEs with custom content
+- [YouTube Channel Stats](https://github.com/DenverCoder1/github-readme-youtube-stats) - 📺 Display number of subscribers on YouTube and/or your channel's view count as a badge
+- [Current Book Status from GoodReads](https://github.com/theFr1nge/goodreads-readme) - Add a card of the current book you are reading that automatically syncs with GoodReads to display your progress.
+- [Readme Typing SVG](https://github.com/DenverCoder1/readme-typing-svg) - :zap: Dynamically generated, customizable SVG that gives the appearance of typing and deleting text
 
 ## Articles
 - ["How To Create A GitHub Profile README"](https://www.aboutmonica.com/blog/how-to-create-a-github-profile-readme) - *Monica Powell*
