@@ -54,6 +54,7 @@
 - [Thomas Guibert](https://github.com/thmsgbrt/thmsgbrt)
 - [Brian Douglas](https://github.com/bdougie/bdougie)
 - [Shawn Wang](https://github.com/sw-yx/sw-yx)
+- [Anmol Singh Yadav](https://github.com/IamLucif3r)
 - [Simon Willison](https://github.com/simonw/simonw)
 - [Mike Coutermarsh](https://github.com/mscoutermarsh/mscoutermarsh)
 - [Michael Hoffmann (Mokkapps)](https://github.com/mokkapps/mokkapps)
