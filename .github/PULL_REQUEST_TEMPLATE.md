@@ -1,8 +1,8 @@
 ## What type of PR is this? (check all applicable)
 
-- [x] 🚀 Added Name
+- [ ] 🚀 Added Name
 - [ ] ✨ Feature
-- [x] ✅ Joined Community
+- [ ] ✅ Joined Community
 - [ ] 🌟 ed the repo
 - [ ] 🐛 Grammatical Error
 - [ ] 📝 Documentation Update
@@ -10,7 +10,6 @@
 
 ## Description
 
-### answer: Hello, my name is Carlos! i want contribute to this incredible project ✌️🤓 
+
 ## Add Link of GitHub Profile
 
-#### https://github.com/CarlosViniMSouza
