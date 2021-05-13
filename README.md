@@ -52,7 +52,7 @@
 ## Categories
 
 #### GitHub Actions 🤖
-- [Abhishek Naidu](https://github.com/abhisheknaiidu/abhisheknaiidu)
+- [Abhishek Naidu](https://github.com/abhisheknaiidu/abhisheknaiidu) <a href="#"><img src="./assets/flash.gif" width="15px" alt="⚡"></a>
 - [Thomas Guibert](https://github.com/thmsgbrt/thmsgbrt)
 - [Brian Douglas](https://github.com/bdougie/bdougie)
 - [Shawn Wang](https://github.com/sw-yx/sw-yx)
@@ -83,6 +83,7 @@
 - [codeSTACKr](https://github.com/codestackr/codestackr)
 - [itgoyo](https://github.com/itgoyo/itgoyo)
 - [lifeparticle](https://github.com/lifeparticle/lifeparticle)
+- [Vikash Chand](https://github.com/vikichand/vikichand) <a href="#"><img src="./assets/flash.gif" width="15px" alt="⚡"></a>
 
 #### Game Mode 🚀
 - [Tim Burgan](https://github.com/timburgan/timburgan)
