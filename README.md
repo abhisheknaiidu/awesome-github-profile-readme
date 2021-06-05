@@ -235,6 +235,7 @@
 - [Ksenia Morozova](https://github.com/kmoroz/kmoroz)
 
 #### Just Images 🎭
+- [Sidharth R](https://github.com/sid-r-singh)
 - [Zack Krida](https://github.com/zackkrida/zackkrida)
 - [偏右](https://github.com/afc163/afc163)
 - [thewhiteh4t](https://github.com/thewhiteh4t/thewhiteh4t)
