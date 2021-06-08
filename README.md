@@ -52,6 +52,7 @@
 ## Categories
 
 #### GitHub Actions 🤖
+- [Nikunj Thesiya](https://github.com/NikunjThesiya/NikunjThesiya)
 - [Abhishek Naidu](https://github.com/abhisheknaiidu/abhisheknaiidu)
 - [Thomas Guibert](https://github.com/thmsgbrt/thmsgbrt)
 - [Brian Douglas](https://github.com/bdougie/bdougie)
@@ -121,6 +122,7 @@
 - [Rahul Jha](https://github.com/rahul-jha98/rahul-jha98)
 
 #### A Little Bit of Everything 😃
+- [Nikunj Thesiya](https://github.com/NikunjThesiya/NikunjThesiya)
 - [Raymond Li](https://github.com/Raymo111/Raymo111)
 - [Martin Heinz](https://github.com/MartinHeinz/MartinHeinz)
 - [Adam Alston](https://github.com/adamalston/adamalston)
@@ -140,6 +142,7 @@
 - [Rak Laptudirm](https://github.com/raklaptudirm/raklaptudirm)
 
 #### Descriptive 🗒
+- [Nikunj Thesiya](https://github.com/NikunjThesiya/NikunjThesiya)
 - [Filip Troníček](https://github.com/filiptronicek/filiptronicek)
 - [Garima Singh](https://github.com/garimasingh128/garimasingh128)
 - [lizheming](https://github.com/lizheming/lizheming)
@@ -150,6 +153,7 @@
 - [Vidur Satija](https://github.com/vidursatija/vidursatija)
 
 #### Simple but Innovative Ones 🤗
+- [Nikunj Thesiya](https://github.com/NikunjThesiya/NikunjThesiya)
 - [Nate Moore](https://github.com/natemoo-re/natemoo-re)
 - [Jhey Tompkins](https://github.com/jh3y/jh3y)
 - [Waylon Walker](https://github.com/WaylonWalker/WaylonWalker)
@@ -191,6 +195,7 @@
 - [Yukii](https://github.com/PrincessAkira/PrincessAkira)
 
 #### Minimalistic ✨
+- [Nikunj Thesiya](https://github.com/NikunjThesiya/NikunjThesiya)
 - [Caneco](https://github.com/caneco/)
 - [Gift Egwuenu](https://github.com/lauragift21/lauragift21)
 - [Kelechi Precious Nwachukwu](https://github.com/PluckyPrecious/PluckyPrecious)
@@ -235,6 +240,7 @@
 - [Ksenia Morozova](https://github.com/kmoroz/kmoroz)
 
 #### Just Images 🎭
+- [Nikunj Thesiya](https://github.com/NikunjThesiya/NikunjThesiya)
 - [Zack Krida](https://github.com/zackkrida/zackkrida)
 - [偏右](https://github.com/afc163/afc163)
 - [thewhiteh4t](https://github.com/thewhiteh4t/thewhiteh4t)
