@@ -184,6 +184,7 @@
 - [Abhinav Sharma](https://github.com/ABSphreak/ABSphreak)
 - [Mason Slover](https://github.com/MasonSlover/MasonSlover)
 - [SuperSupeng](https://github.com/SuperSupeng/SuperSupeng)
+- [Ashutosh Dwivedi](https://github.com/Ashutosh00710)
 
 #### Anime 👾
 - [Ing](https://github.com/innng/innng)
