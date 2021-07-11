@@ -4,14 +4,10 @@
 - [ ] 🚀 Added Name
 - [ ] ✨ Feature
 - [ ] ✅ Joined Community
-- [ ] 🌟 ed the repo
-- [ ] 🐛 Grammatical Error
-- [ ] 📝 Documentation Update
-- [ ] 🚩 Other
-
+ 
 ## Description
-
+added my prfile  
 
 
 ## Add Link of GitHub Profile
-
+ (https://github.com/Ayushparikh-code)
