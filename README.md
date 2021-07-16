@@ -151,6 +151,7 @@
 - [Dani El-Ayyass](https://github.com/dayyass/dayyass)
 
 #### Simple but Innovative Ones 🤗
+- [Tom Hill](https://github.com/hill/hill)
 - [Nate Moore](https://github.com/natemoo-re/natemoo-re)
 - [Jhey Tompkins](https://github.com/jh3y/jh3y)
 - [Waylon Walker](https://github.com/WaylonWalker/WaylonWalker)
