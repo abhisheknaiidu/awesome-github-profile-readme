@@ -149,6 +149,8 @@
 - [Keshav Singh](https://github.com/keshavsingh4522/keshavsingh4522)
 - [Vidur Satija](https://github.com/vidursatija/vidursatija)
 - [Dani El-Ayyass](https://github.com/dayyass/dayyass)
+- [Mit Patel](https://github.com/mitp7/)
+
 
 #### Simple but Innovative Ones 🤗
 - [Nate Moore](https://github.com/natemoo-re/natemoo-re)
