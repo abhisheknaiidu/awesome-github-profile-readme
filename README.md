@@ -148,6 +148,7 @@
 - [TheAbbie](https://github.com/theabbie/theabbie)
 - [Keshav Singh](https://github.com/keshavsingh4522/keshavsingh4522)
 - [Vidur Satija](https://github.com/vidursatija/vidursatija)
+- [Dani El-Ayyass](https://github.com/dayyass/dayyass)
 
 #### Simple but Innovative Ones 🤗
 - [Nate Moore](https://github.com/natemoo-re/natemoo-re)
