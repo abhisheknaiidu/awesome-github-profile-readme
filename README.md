@@ -243,6 +243,7 @@
 - [Kaito Sugimoto](https://github.com/7ma7X/7ma7X)
 - [Oussama Bouchikhi](https://github.com/oussamabouchikhi/oussamabouchikhi)
 - [Daily Random Photo](https://github.com/dailyrandomphoto/dailyrandomphoto)
+- [Jahnavi Darbhamulla](https://github.com/JahnaviDarbhamulla)
 
 #### Badges 🎫
 - [Anirudh Emmadi](https://github.com/aemmadi/aemmadi)
