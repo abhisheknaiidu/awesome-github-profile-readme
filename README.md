@@ -1,4 +1,4 @@
-<h1 align="center">Awesome GitHub Profile README 
+<h1 align="center">Awesome GitHub Profile README
 <a href="https://www.producthunt.com/posts/awesome-github-profiles?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-awesome-github-profiles" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=277987&theme=light" alt="Awesome GitHub Profiles - Best curated list of developers readme, updated every 15 min | Product Hunt" style="width: 200px; height: 44px;" width="200" height="44" /></a></h1>
 <div align="center">
 <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
@@ -212,6 +212,7 @@
 - [TallGuyJenks](https://github.com/tallguyjenks/tallguyjenks)
 - [Stefanie Grunwald](https://github.com/moertel/moertel)
 - [Abdul Khaliq](https://github.com/kha7iq/kha7iq)
+- [Max Rodrigo](https://github.com/maxrodrigo)
 
 #### GIFS 👻
 - [Pouya Saadeghi](https://github.com/saadeghi/saadeghi)
@@ -349,7 +350,7 @@ Please read the [contribution guidelines](contributing.md) first.
 ## Special Thanks 🙇
 - [Zetao Zhuang](https://github.com/zzetao) for making the amazing site for this repo!
 
-## License 
+## License
 
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
