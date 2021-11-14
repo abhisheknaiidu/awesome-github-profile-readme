@@ -138,6 +138,7 @@
 - [Quin Knight](https://github.com/cheesits456/cheesits456)
 - [Jackyu-1999](https://github.com/Jackyu-1999/Jackyu-1999)
 - [Rak Laptudirm](https://github.com/raklaptudirm/raklaptudirm)
+- [Felippe George](https://github.com/felippegh/felippegh)
 
 #### Descriptive 🗒
 - [Filip Troníček](https://github.com/filiptronicek/filiptronicek)
