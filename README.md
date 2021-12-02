@@ -52,6 +52,7 @@
 ## Categories
 
 #### GitHub Actions 🤖
+- [Ravi Damor](https://github.com/ravithemore)
 - [Abhishek Naidu](https://github.com/abhisheknaiidu/abhisheknaiidu)
 - [Thomas Guibert](https://github.com/thmsgbrt/thmsgbrt)
 - [Brian Douglas](https://github.com/bdougie/bdougie)
