@@ -242,6 +242,7 @@
 - [Akash Rai](https://github.com/akasrai/akasrai)
 - [Oussama Bouchikhi](https://github.com/oussamabouchikhi/oussamabouchikhi)
 - [Daily Random Photo](https://github.com/dailyrandomphoto/dailyrandomphoto)
+- [Jahnavi Darbhamulla](https://github.com/JahnaviDarbhamulla)
 
 #### Badges 🎫
 - [Anirudh Emmadi](https://github.com/aemmadi/aemmadi)
