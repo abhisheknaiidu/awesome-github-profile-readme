@@ -257,6 +257,7 @@
 
 #### Fancy Fonts 🖋
 - [xiaoluoboding](https://github.com/xiaoluoboding/xiaoluoboding)
+- [qunil](https://github.com/qunil)
 
 #### Icons 🎯
 - [Yuan Tang](https://github.com/terrytangyuan/terrytangyuan)
