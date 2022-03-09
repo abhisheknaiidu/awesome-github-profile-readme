@@ -93,6 +93,7 @@
 - [kylepls](https://github.com/kylepls/kylepls)
 - [Aaron Liu](https://github.com/HFO4/HFO4)
 - [marcizhu](https://github.com/marcizhu/marcizhu)
+- [Anorak87](https://github.com/Anorak87)
 
 #### Code Mode 👨🏽‍💻
 - [Thaiane Braga](https://github.com/Thaiane/Thaiane)
