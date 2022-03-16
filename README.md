@@ -154,7 +154,6 @@
 - [Nanra Sukedy](https://github.com/Nanra/Nanra)
 
 #### Simple but Innovative Ones 🤗
-- [Abhijeet Pal](https://github.com/TheAbhijeet)
 - [Nate Moore](https://github.com/natemoo-re/natemoo-re)
 - [Jhey Tompkins](https://github.com/jh3y/jh3y)
 - [Waylon Walker](https://github.com/WaylonWalker/WaylonWalker)
@@ -180,6 +179,7 @@
 - [Onimur](https://github.com/onimur/onimur)
 - [Bruno Tacca](https://github.com/brunotacca/brunotacca)
 - [Matthew Taylor](https://github.com/Wrapperup/Wrapperup)
+- [Abhijeet Pal](https://github.com/TheAbhijeet)
 
 #### Typing.. Mode 🎰
 - [Mathieu Ledru](https://github.com/matyo91/matyo91)
