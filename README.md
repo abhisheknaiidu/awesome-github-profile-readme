@@ -55,6 +55,7 @@
 - [Abhishek Naidu](https://github.com/abhisheknaiidu/abhisheknaiidu)
 - [Thomas Guibert](https://github.com/thmsgbrt/thmsgbrt)
 - [Brian Douglas](https://github.com/bdougie/bdougie)
+- [Anmol Singh Yadav](https://github.com/IamLucif3r/Iamlucif3r)
 - [Shawn Wang](https://github.com/sw-yx/sw-yx)
 - [Simon Willison](https://github.com/simonw/simonw)
 - [Mike Coutermarsh](https://github.com/mscoutermarsh/mscoutermarsh)
