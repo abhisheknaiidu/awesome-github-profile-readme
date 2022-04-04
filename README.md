@@ -58,6 +58,7 @@
 - [Shawn Wang](https://github.com/sw-yx/sw-yx)
 - [Simon Willison](https://github.com/simonw/simonw)
 - [Mike Coutermarsh](https://github.com/mscoutermarsh/mscoutermarsh)
+- [Pratik Kumar](https://github.com/pr2tik1/pr2tik1)
 - [Michael Hoffmann (Mokkapps)](https://github.com/mokkapps/mokkapps)
 - [Athul Cyriac Ajay](https://github.com/athul/athul)
 - [Gautam Krishna R](https://github.com/gautamkrishnar/gautamkrishnar)
