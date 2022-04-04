@@ -95,6 +95,7 @@
 - [marcizhu](https://github.com/marcizhu/marcizhu)
 
 #### Code Mode 👨🏽‍💻
+- [Nisha Chauhan](https://github.com/nis6/nis6)
 - [Thaiane Braga](https://github.com/Thaiane/Thaiane)
 - [Ash Baker](https://github.com/ashbakernz/ashbakernz)
 - [Anmol Singh](https://github.com/anmol098/anmol098)
@@ -121,6 +122,7 @@
 - [Rahul Jha](https://github.com/rahul-jha98/rahul-jha98)
 
 #### A Little Bit of Everything 😃
+- [Nisha Chauhan](https://github.com/nis6/nis6)
 - [Raymond Li](https://github.com/Raymo111/Raymo111)
 - [Martin Heinz](https://github.com/MartinHeinz/MartinHeinz)
 - [Adam Alston](https://github.com/adamalston/adamalston)
@@ -142,6 +144,7 @@
 - [holic-x](https://github.com/holic-x/holic-x)
 
 #### Descriptive 🗒
+- [Nisha Chauhan](https://github.com/nis6/nis6)
 - [Filip Troníček](https://github.com/filiptronicek/filiptronicek)
 - [Garima Singh](https://github.com/garimasingh128/garimasingh128)
 - [lizheming](https://github.com/lizheming/lizheming)
@@ -239,6 +242,7 @@
 - [Ksenia Morozova](https://github.com/kmoroz/kmoroz)
 
 #### Just Images 🎭
+- [Nisha Chauhan](https://github.com/nis6/nis6)
 - [Zack Krida](https://github.com/zackkrida/zackkrida)
 - [偏右](https://github.com/afc163/afc163)
 - [thewhiteh4t](https://github.com/thewhiteh4t/thewhiteh4t)
@@ -262,6 +266,7 @@
 - [xiaoluoboding](https://github.com/xiaoluoboding/xiaoluoboding)
 
 #### Icons 🎯
+- [Nisha Chauhan](https://github.com/nis6/nis6)
 - [Yuan Tang](https://github.com/terrytangyuan/terrytangyuan)
 - [Hussainweb](https://github.com/hussainweb/hussainweb)
 - [Peter Han](https://github.com/peterthehan/peterthehan)
