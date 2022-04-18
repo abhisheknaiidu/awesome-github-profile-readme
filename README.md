@@ -237,6 +237,7 @@
 - [Shahriar Shafin](https://github.com/ShahriarShafin/ShahriarShafin)
 - [Somnath Paul](https://github.com/SP-XD/SP-XD)
 - [Ksenia Morozova](https://github.com/kmoroz/kmoroz)
+- [David Vital](https://github.com/ddVital/ddVital) 
 
 #### Just Images 🎭
 - [Zack Krida](https://github.com/zackkrida/zackkrida)
@@ -257,6 +258,7 @@
 - [Oka](https://github.com/Coordinate-Cat/Coordinate-Cat)
 - [Nikita Rusetskii](https://github.com/xtenzQ/xtenzQ)
 - [Raphael Ebner](https://github.com/rafi0101/rafi0101)
+- [David Vital](https://github.com/ddVital/ddVital)
 
 #### Fancy Fonts 🖋
 - [xiaoluoboding](https://github.com/xiaoluoboding/xiaoluoboding)
