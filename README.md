@@ -120,9 +120,10 @@
 - [Dani Akash](https://github.com/daniakash/daniakash)
 - [Rahul Jha](https://github.com/rahul-jha98/rahul-jha98)
 
-#### A Little Bit of Everything 😃
-- [Raymond Li](https://github.com/Raymo111/Raymo111)
-- [Martin Heinz](https://github.com/MartinHeinz/MartinHeinz)
+#### A Little Bit of Everything 😃     
+- [HalemoGPA](https://github.com/HalemoGPA/HalemoGPA)     
+- [Raymond Li](https://github.com/Raymo111/Raymo111)   
+- [Martin Heinz](https://github.com/MartinHeinz/MartinHeinz) 
 - [Adam Alston](https://github.com/adamalston/adamalston)
 - [Rafnix Guzmán](https://github.com/rafnixg/rafnixg)
 - [Aditya Pal](https://github.com/sciencepal/sciencepal)
