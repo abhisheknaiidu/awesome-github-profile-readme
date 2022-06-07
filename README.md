@@ -280,6 +280,7 @@
 - [Vistor Count](https://pufler.dev/git-badges/) - Count visitors for README.md that can be used with shields.io
 - [Hits](https://hits.sh) - Hit Counter for Your GitHub or Any Kind of Websites You Want.
 - [Shields Project](https://shields.io/) - Use Shields to create profile badges, compatible with Simple Icons
+- [For the Badge](https://forthebadge.com) - Create badges for your readme.
 - [Github Readme Stats](https://github.com/anuraghazra/github-readme-stats) - Get dynamically generated GitHub stats on your readmes
 - [GitHub Stats Visualizations : Transparent](https://github.com/rahul-jha98/github-stats-transparent) - Automatically generate summary GitHub statistics transparent images for your profile using Actions, no server required
 - [GitHub Streak Stats](https://github.com/DenverCoder1/github-readme-streak-stats) - 🔥 Stay motivated and show off your contribution streak! 🌟 Display your total contributions, current streak, and longest streak on your GitHub profile README
