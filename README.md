@@ -181,6 +181,7 @@
 - [Matthew Taylor](https://github.com/Wrapperup/Wrapperup)
 
 #### Typing.. Mode 🎰
+- [beluirina](https://github.com/beluirina/green-read-me-template)
 - [Mathieu Ledru](https://github.com/matyo91/matyo91)
 - [CyrisXD](https://github.com/CyrisXD/CyrisXD)
 - [Mpho Mphego](https://github.com/mmphego/mmphego)
