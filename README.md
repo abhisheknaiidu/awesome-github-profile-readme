@@ -52,6 +52,7 @@
 ## Categories
 
 #### GitHub Actions 🤖
+- [ladunjexa](https://github.com/ladunjexa/ladunjexa)
 - [Abhishek Naidu](https://github.com/abhisheknaiidu/abhisheknaiidu)
 - [Thomas Guibert](https://github.com/thmsgbrt/thmsgbrt)
 - [Brian Douglas](https://github.com/bdougie/bdougie)
@@ -104,6 +105,7 @@
 - [Zhenye Na](https://github.com/Zhenye-Na/Zhenye-Na)
 
 #### Dynamic Realtime 💫
+- [ladunjexa](https://github.com/ladunjexa/ladunjexa)
 - [Kirill Feschenko](https://github.com/xcaq/xcaq)
 - [Anurag Hazra](https://github.com/anuraghazra/anuraghazra)
 - [DenverCoder1](https://github.com/DenverCoder1/DenverCoder1)
@@ -121,6 +123,7 @@
 - [Rahul Jha](https://github.com/rahul-jha98/rahul-jha98)
 
 #### A Little Bit of Everything 😃
+- [ladunjexa](https://github.com/ladunjexa/ladunjexa)
 - [Raymond Li](https://github.com/Raymo111/Raymo111)
 - [Martin Heinz](https://github.com/MartinHeinz/MartinHeinz)
 - [Adam Alston](https://github.com/adamalston/adamalston)
@@ -142,6 +145,7 @@
 - [holic-x](https://github.com/holic-x/holic-x)
 
 #### Descriptive 🗒
+- [ladunjexa](https://github.com/ladunjexa/ladunjexa)
 - [Filip Troníček](https://github.com/filiptronicek/filiptronicek)
 - [Garima Singh](https://github.com/garimasingh128/garimasingh128)
 - [lizheming](https://github.com/lizheming/lizheming)
