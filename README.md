@@ -154,6 +154,7 @@
 - [Nanra Sukedy](https://github.com/Nanra/Nanra)
 
 #### Simple but Innovative Ones 🤗
+- [Pedro Neves](https://github.com/pdr-tuche/pdr-tuche)
 - [Nate Moore](https://github.com/natemoo-re/natemoo-re)
 - [Jhey Tompkins](https://github.com/jh3y/jh3y)
 - [Waylon Walker](https://github.com/WaylonWalker/WaylonWalker)
