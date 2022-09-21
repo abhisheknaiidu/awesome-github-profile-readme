@@ -83,6 +83,7 @@
 - [codeSTACKr](https://github.com/codestackr/codestackr)
 - [itgoyo](https://github.com/itgoyo/itgoyo)
 - [lifeparticle](https://github.com/lifeparticle/lifeparticle)
+- [Moe Dayraki](https://github.com/moedayraki/moedayraki)
 
 #### Game Mode 🚀
 - [Tim Burgan](https://github.com/timburgan/timburgan)
@@ -119,6 +120,7 @@
 - [iampavangandhi](https://github.com/iampavangandhi/iampavangandhi)
 - [Dani Akash](https://github.com/daniakash/daniakash)
 - [Rahul Jha](https://github.com/rahul-jha98/rahul-jha98)
+- [Moe Dayraki](https://github.com/moedayraki/moedayraki)
 
 #### A Little Bit of Everything 😃
 - [Raymond Li](https://github.com/Raymo111/Raymo111)
@@ -140,6 +142,7 @@
 - [Rak Laptudirm](https://github.com/raklaptudirm/raklaptudirm)
 - [Trini B](https://github.com/trinib/trinib)
 - [holic-x](https://github.com/holic-x/holic-x)
+- [Moe Dayraki](https://github.com/moedayraki/moedayraki)
 
 #### Descriptive 🗒
 - [Filip Troníček](https://github.com/filiptronicek/filiptronicek)
@@ -257,6 +260,7 @@
 - [Oka](https://github.com/Coordinate-Cat/Coordinate-Cat)
 - [Nikita Rusetskii](https://github.com/xtenzQ/xtenzQ)
 - [Raphael Ebner](https://github.com/rafi0101/rafi0101)
+- [Moe Dayraki](https://github.com/moedayraki/moedayraki)
 
 #### Fancy Fonts 🖋
 - [xiaoluoboding](https://github.com/xiaoluoboding/xiaoluoboding)
@@ -268,6 +272,7 @@
 - [Thomas George Thomas](https://github.com/Thomas-George-T/Thomas-George-T)
 - [Derek Nguyen](https://github.com/dereknguyen269/dereknguyen269)
 - [Valentin Briand](https://github.com/vbriand/vbriand)
+- [Moe Dayraki](https://github.com/moedayraki/moedayraki)
 
 #### Retro 😎
 - [Livio Brunner](https://github.com/BrunnerLivio/BrunnerLivio)
