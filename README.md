@@ -247,6 +247,7 @@
 - [Daily Random Photo](https://github.com/dailyrandomphoto/dailyrandomphoto)
 
 #### Badges 🎫
+- [Harish Kumar S S](https://github.com/harish-sethuraman/harish-sethuraman)
 - [Anirudh Emmadi](https://github.com/aemmadi/aemmadi)
 - [Brendon Smith](https://github.com/br3ndonland/br3ndonland)
 - [Alwin Wang](https://github.com/alwinw/alwinw)
