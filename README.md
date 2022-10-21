@@ -143,6 +143,7 @@
 - [holic-x](https://github.com/holic-x/holic-x)
 
 #### Descriptive 🗒
+- [Amato Francesco](https://github.com/Amatofrancesco99/Amatofrancesco99)
 - [Filip Troníček](https://github.com/filiptronicek/filiptronicek)
 - [Garima Singh](https://github.com/garimasingh128/garimasingh128)
 - [lizheming](https://github.com/lizheming/lizheming)
