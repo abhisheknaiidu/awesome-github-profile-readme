@@ -65,6 +65,7 @@
 - [Leo](https://github.com/mopig/mopig)
 - [Dhruv Jain](https://github.com/maddhruv/maddhruv)
 - [Erwin Lejeune](https://github.com/guilyx/guilyx)
+- [Jie Ding](https://github.com/JieDing/JieDing)  
 - [Jessica Lim](https://github.com/JessicaLim8/JessicaLim8)
 - [侑夕-Tw93](https://github.com/tw93/tw93)
 - [liununu](https://github.com/liununu/liununu)
@@ -281,6 +282,7 @@
 - [1990s style Visitor Counter](https://twitter.com/ryanlanciaux/status/1283755637126705152) - Add a 1990s style visitor counter with one line of markdown.
 - [Vistor Count](https://pufler.dev/git-badges/) - Count visitors for README.md that can be used with shields.io
 - [Shields Project](https://shields.io/) - Use Shields to create profile badges, compatible with Simple Icons
+- [GitHub Followers](https://github.com/JieDing/github-followers-action) - Rank your followers and render the top-21 followers on your Profile Readme
 - [Github Readme Stats](https://github.com/anuraghazra/github-readme-stats) - Get dynamically generated GitHub stats on your readmes
 - [Github Contributor Stats](https://github.com/HwangTaehyun/github-contributor-stats) - :fire: Get dynamically generated Github Contributor stats (repositories you really committed) on your readmes
 - [GitHub Streak Stats](https://github.com/DenverCoder1/github-readme-streak-stats) - 🔥 Stay motivated and show off your contribution streak! 🌟 Display your total contributions, current streak, and longest streak on your GitHub profile README
