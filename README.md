@@ -292,7 +292,8 @@
 - [Github Activity in README](https://github.com/jamesgeorge007/github-activity-readme) - Updates `README.md` with the recent GitHub activity of a user
 - [Github Profile README Generator](https://github.com/rahuldkjain/github-profile-readme-generator) - This tool provides an easy way to create github profile readme with latest addons like `visitors count`, `github stats` etc.
 - [Dynamic Profile Page On Github](https://github.com/umutphp/github-action-dynamic-profile-page) - Get dynamically generated list of your commits (of the repositories that the action is configured) on GitHub profile readme.
-- [npm package downloads](https://github.com/maddhruv/github-readme-npm-downloads) - Show all of your npm packages and their total downloads
+- [npm Package Downloads](https://github.com/maddhruv/github-readme-npm-downloads) - Show all of your npm packages and their total downloads
+- [npm Downloads Badge](https://github.com/DukeLuo/github-readme-npm-stats) - Count your npm packages total downloads that can be used with shields.io
 - [All Dev Stats in Readme](https://github.com/anmol098/waka-readme-stats) - Are you an early 🐤 or a night 🦉? When are you most productive during the day? What languages you code in? And other stuff... Let's check out in your readme!
 - [Feedparser](https://pythonhosted.org/feedparser/) - Convenient processing of RSS files
 - [Profile README Widgets](https://github.com/marketplace/actions/profile-readme) - Add simple widgets to your profile readme.
