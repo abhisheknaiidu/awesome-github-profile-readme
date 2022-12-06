@@ -216,7 +216,7 @@
 - [TallGuyJenks](https://github.com/tallguyjenks/tallguyjenks)
 - [Stefanie Grunwald](https://github.com/moertel/moertel)
 - [Abdul Khaliq](https://github.com/kha7iq/kha7iq)
-- [wangxudong123](https://github.com/wangxudong123/wangxudong123)
+- [linabellbiu](https://github.com/linabellbiu/linabellbiu)
 #### GIFS 👻
 - [Pouya Saadeghi](https://github.com/saadeghi/saadeghi)
 - [Ari](https://github.com/ari-hacks/ari-hacks)
