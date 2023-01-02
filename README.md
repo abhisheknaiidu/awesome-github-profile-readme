@@ -105,6 +105,7 @@
 - [Marton](https://github.com/martonlederer/martonlederer)
 - [Redowan Delowar](https://github.com/rednafi/rednafi)
 - [Zhenye Na](https://github.com/Zhenye-Na/Zhenye-Na)
+- [Priyanshu Roy](https://github.com/roypriyanshu02)
 
 #### Dynamic Realtime 💫
 
