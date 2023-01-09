@@ -95,6 +95,7 @@
 - [marcizhu](https://github.com/marcizhu/marcizhu)
 
 #### Code Mode 👨🏽‍💻
+- [Vito Mohagheghian](https://github.com/vito-mohagheghian/vito-mohagheghian)
 - [Thaiane Braga](https://github.com/Thaiane/Thaiane)
 - [Ash Baker](https://github.com/ashbakernz/ashbakernz)
 - [Anmol Singh](https://github.com/anmol098/anmol098)
@@ -122,6 +123,7 @@
 - [Taehyun Hwang](https://github.com/HwangTaehyun/HwangTaehyun)
 
 #### A Little Bit of Everything 😃
+- [Vito Mohagheghian](https://github.com/vito-mohagheghian/vito-mohagheghian)
 - [Raymond Li](https://github.com/Raymo111/Raymo111)
 - [Martin Heinz](https://github.com/MartinHeinz/MartinHeinz)
 - [Adam Alston](https://github.com/adamalston/adamalston)
@@ -188,6 +190,7 @@
 - [Abhinav Sharma](https://github.com/ABSphreak/ABSphreak)
 - [Mason Slover](https://github.com/MasonSlover/MasonSlover)
 - [SuperSupeng](https://github.com/SuperSupeng/SuperSupeng)
+- [Vito Mohagheghian](https://github.com/vito-mohagheghian/vito-mohagheghian)
 
 #### Anime 👾
 - [Ing](https://github.com/innng/innng)
