@@ -245,6 +245,7 @@
 - [Daily Random Photo](https://github.com/dailyrandomphoto/dailyrandomphoto)
 
 #### Badges 🎫
+- [Felipe Herrera](https://github.com/felipeth04/felipeth04)
 - [Harish Kumar S S](https://github.com/harish-sethuraman/harish-sethuraman)
 - [Anirudh Emmadi](https://github.com/aemmadi/aemmadi)
 - [Brendon Smith](https://github.com/br3ndonland/br3ndonland)
