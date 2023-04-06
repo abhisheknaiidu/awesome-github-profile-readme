@@ -182,6 +182,7 @@
 - [Matthew Taylor](https://github.com/Wrapperup/Wrapperup)
 
 #### Typing.. Mode 🎰
+- [Ziv Nadel](https://github.com/zivnadel/zivnadel)
 - [Mathieu Ledru](https://github.com/matyo91/matyo91)
 - [CyrisXD](https://github.com/CyrisXD/CyrisXD)
 - [Mpho Mphego](https://github.com/mmphego/mmphego)
