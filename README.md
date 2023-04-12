@@ -141,6 +141,7 @@
 - [Rak Laptudirm](https://github.com/raklaptudirm/raklaptudirm)
 - [Trini B](https://github.com/trinib/trinib)
 - [holic-x](https://github.com/holic-x/holic-x)
+- [Souvik Banerjee](https://github.com/Souvik2376/Souvik2376)
 
 #### Descriptive 🗒
 - [Filip Troníček](https://github.com/filiptronicek/filiptronicek)
@@ -180,6 +181,7 @@
 - [Onimur](https://github.com/onimur/onimur)
 - [Bruno Tacca](https://github.com/brunotacca/brunotacca)
 - [Matthew Taylor](https://github.com/Wrapperup/Wrapperup)
+- [Souvik Banerjee](https://github.com/Souvik2376/Souvik2376)
 
 #### Typing.. Mode 🎰
 - [Mathieu Ledru](https://github.com/matyo91/matyo91)
@@ -194,6 +196,7 @@
 - [edisonlee55](https://github.com/edisonlee55/edisonlee55)
 - [Ashutosh](https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX)
 - [Yukii](https://github.com/PrincessAkira/PrincessAkira)
+- [Souvik Banerjee](https://github.com/Souvik2376/Souvik2376)
 
 #### Minimalistic ✨
 - [Caneco](https://github.com/caneco/)
