@@ -262,6 +262,7 @@
 
 #### Fancy Fonts 🖋
 - [xiaoluoboding](https://github.com/xiaoluoboding/xiaoluoboding)
+- [Ram Prakash](https://github.com/thedoodler/thedoodler)
 
 #### Icons 🎯
 - [Yuan Tang](https://github.com/terrytangyuan/terrytangyuan)
