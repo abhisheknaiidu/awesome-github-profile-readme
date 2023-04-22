@@ -196,6 +196,7 @@
 - [Yukii](https://github.com/PrincessAkira/PrincessAkira)
 
 #### Minimalistic ✨
+- [Amit Kumar](https://github.com/amitthecoder)
 - [Caneco](https://github.com/caneco/)
 - [Gift Egwuenu](https://github.com/lauragift21/lauragift21)
 - [Kelechi Precious Nwachukwu](https://github.com/PluckyPrecious/PluckyPrecious)
