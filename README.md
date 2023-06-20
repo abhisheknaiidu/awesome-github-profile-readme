@@ -102,7 +102,7 @@
 - [Marton](https://github.com/martonlederer/martonlederer)
 - [Redowan Delowar](https://github.com/rednafi/rednafi)
 - [Zhenye Na](https://github.com/Zhenye-Na/Zhenye-Na)
-- [Shadowcompiler](https://github.com/shadowcompiler/shadowcompiler)
+- [Abiodoun Baba Mandef](https://github.com/shadowcompiler/ptahemdjehuty)
 
 #### Dynamic Realtime 💫
 - [Kirill Feschenko](https://github.com/xcaq/xcaq)
