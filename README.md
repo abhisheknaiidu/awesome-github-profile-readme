@@ -104,10 +104,10 @@
 - [Zhenye Na](https://github.com/Zhenye-Na/Zhenye-Na)
 
 #### Dynamic Realtime 💫
-- [Kirill Feschenko](https://github.com/xcaq/xcaq)
 - [Anurag Hazra](https://github.com/anuraghazra/anuraghazra)
 - [DenverCoder1](https://github.com/DenverCoder1/DenverCoder1)
 - [Hemant Joshi](https://github.com/8bithemant/8bithemant)
+- [Wasim A Pinjari](https://github.com/wasimapinjari/wasimapinjari)
 - [Kittinan](https://github.com/kittinan/kittinan)
 - [Andrew Novac](https://github.com/novatorem/novatorem)
 - [Johnny Villegas](https://github.com/C9-LinkRs/C9-LinkRs)
@@ -168,7 +168,6 @@
 - [Fatih Kadir Akın](https://github.com/f/f/)
 - [Lucas Vazquez](https://github.com/lucasvazq/lucasvazq)
 - [小弟调调™](https://github.com/jaywcjlove/jaywcjlove)
-- [alx365](https://github.com/alx365/alx365)
 - [Johnny Villegas](https://github.com/C9-LinkRs/C9-LinkRs)
 - [一缕殇流化隐半边冰霜](https://github.com/halfrost/halfrost)
 - [Srihari Kapu](https://github.com/sriharikapu/sriharikapu)
@@ -211,7 +210,6 @@
 - [ChungZH](https://github.com/ChungZH/ChungZH/)
 - [Orhun](https://github.com/orhun/orhun)
 - [Aveek Saha](https://github.com/Aveek-Saha/Aveek-Saha)
-- [Federico Dondi](https://github.com/federico-dondi)
 - [Zheeeng](https://github.com/Zheeeng/Zheeeng)
 - [TallGuyJenks](https://github.com/tallguyjenks/tallguyjenks)
 - [Stefanie Grunwald](https://github.com/moertel/moertel)
@@ -223,7 +221,6 @@
 - [Siv Ram Shastri](https://github.com/Prince-Shivaram/Prince-Shivaram)
 - [Shanu Mishra](https://github.com/Shanu1515/Shanu1515)
 - [Shubham Kumar](https://github.com/imskr/imskr)
-- [Duncan](https://github.com/dephraiim/dephraiim)
 - [Demartini](https://github.com/demartini/demartini)
 - [Sindre Sorhus](https://github.com/sindresorhus/sindresorhus)
 - [Pranjal Bhardwaj](https://github.com/Bhard27/Bhard27)
@@ -279,7 +276,7 @@
 - [Todoist Stats in Readme](https://github.com/abhisheknaiidu/todoist-readme) - Daily Todoist Stats on your Profile Readme
 - [Visitor Badge](https://visitor-badge.glitch.me/#docs) - Count visitors for your README.md, Issues, PRs in GitHub
 - [1990s style Visitor Counter](https://twitter.com/ryanlanciaux/status/1283755637126705152) - Add a 1990s style visitor counter with one line of markdown.
-- [Vistor Count](https://pufler.dev/git-badges/) - Count visitors for README.md that can be used with shields.io
+- [Vistor Count](https://pufler.dev/badge-it/) - Count visitors for README.md that can be used with shields.io
 - [Shields Project](https://shields.io/) - Use Shields to create profile badges, compatible with Simple Icons
 - [Github Readme Stats](https://github.com/anuraghazra/github-readme-stats) - Get dynamically generated GitHub stats on your readmes
 - [Github Contributor Stats](https://github.com/HwangTaehyun/github-contributor-stats) - :fire: Get dynamically generated Github Contributor stats (repositories you really committed) on your readmes
@@ -359,4 +356,4 @@ Please read the [contribution guidelines](contributing.md) first.
 
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-To the extent possible under law, [Abhishek Naidu](https://abhisheknaidu.tech/) has waived all copyright and related or neighboring rights to this work.
+To the extent possible under law, [Abhishek Naidu](https://github.com/abhisheknaiidu/) has waived all copyright and related or neighboring rights to this work.
