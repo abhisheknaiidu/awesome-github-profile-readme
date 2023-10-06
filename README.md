@@ -276,6 +276,7 @@
 - [Christian Petersen](https://github.com/fnky/fnky)
 
 ## Tools
+- [Custom GitHub Badges](https://github.com/my-badges/my-badges) - 🧩 Add custom, user-defined badges to your profile! 🔥 My Badges are like GitHub achievements but can be created by anyone! 🧩
 - [Todoist Stats in Readme](https://github.com/abhisheknaiidu/todoist-readme) - Daily Todoist Stats on your Profile Readme
 - [Visitor Badge](https://visitor-badge.glitch.me/#docs) - Count visitors for your README.md, Issues, PRs in GitHub
 - [1990s style Visitor Counter](https://twitter.com/ryanlanciaux/status/1283755637126705152) - Add a 1990s style visitor counter with one line of markdown.
