@@ -194,6 +194,7 @@
 - [edisonlee55](https://github.com/edisonlee55/edisonlee55)
 - [Ashutosh](https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX)
 - [Yukii](https://github.com/PrincessAkira/PrincessAkira)
+- [azimia404](https://github.com/azimia404/azimia404)
 
 #### Minimalistic ✨
 - [Caneco](https://github.com/caneco/)
