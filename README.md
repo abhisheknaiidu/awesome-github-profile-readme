@@ -56,6 +56,7 @@
 - [Thomas Guibert](https://github.com/thmsgbrt/thmsgbrt)
 - [Brian Douglas](https://github.com/bdougie/bdougie)
 - [Shawn Wang](https://github.com/sw-yx/sw-yx)
+- [Daniel Everest](https://github.com/danieleverest/danieleverest)
 - [Simon Willison](https://github.com/simonw/simonw)
 - [Daniel Everest](https://github.com/danieleverest/danieleverest)
 - [Mike Coutermarsh](https://github.com/mscoutermarsh/mscoutermarsh)
