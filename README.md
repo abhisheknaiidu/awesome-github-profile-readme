@@ -262,6 +262,7 @@
 
 #### Fancy Fonts 🖋
 - [xiaoluoboding](https://github.com/xiaoluoboding/xiaoluoboding)
+- [Jigyasu Tanwar](https://github.com/tanwarjigyasu/tanwarjigyasu)
 
 #### Icons 🎯
 - [Yuan Tang](https://github.com/terrytangyuan/terrytangyuan)
