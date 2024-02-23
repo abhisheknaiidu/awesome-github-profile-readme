@@ -141,7 +141,6 @@
 - [Rak Laptudirm](https://github.com/raklaptudirm/raklaptudirm)
 - [Trini B](https://github.com/trinib/trinib)
 - [holic-x](https://github.com/holic-x/holic-x)
-- [Jigyasu Tanwar](https://github.com/tanwarjigyasu/tanwarjigyasu)
 
 #### Descriptive 🗒
 - [Filip Troníček](https://github.com/filiptronicek/filiptronicek)
@@ -263,6 +262,7 @@
 
 #### Fancy Fonts 🖋
 - [xiaoluoboding](https://github.com/xiaoluoboding/xiaoluoboding)
+- [Jigyasu Tanwar](https://github.com/tanwarjigyasu/tanwarjigyasu)
 
 #### Icons 🎯
 - [Yuan Tang](https://github.com/terrytangyuan/terrytangyuan)
