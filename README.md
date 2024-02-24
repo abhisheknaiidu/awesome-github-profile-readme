@@ -264,6 +264,7 @@
 - [xiaoluoboding](https://github.com/xiaoluoboding/xiaoluoboding)
 
 #### Icons 🎯
+- [Darshan Gaikwad](https://github.com/darshangaikwad4114/darshangaikwad4114)
 - [Yuan Tang](https://github.com/terrytangyuan/terrytangyuan)
 - [Hussainweb](https://github.com/hussainweb/hussainweb)
 - [Peter Han](https://github.com/peterthehan/peterthehan)
