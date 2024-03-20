@@ -52,6 +52,7 @@
 ## Categories
 
 #### GitHub Actions 🤖
+- [Karem Saad](https://github.com/karemSD/karemSD)
 - [Abhishek Naidu](https://github.com/abhisheknaiidu/abhisheknaiidu)
 - [Thomas Guibert](https://github.com/thmsgbrt/thmsgbrt)
 - [Brian Douglas](https://github.com/bdougie/bdougie)
