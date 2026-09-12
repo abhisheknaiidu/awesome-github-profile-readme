@@ -123,6 +123,7 @@
 - [Nisarg Bhatt](https://github.com/nisarg1212)
 
 #### A Little Bit of Everything 😃
+- [Mark Hamilton](https://github.com/mhamilton723)
 - [Raymond Li](https://github.com/Raymo111/Raymo111)
 - [Martin Heinz](https://github.com/MartinHeinz/MartinHeinz)
 - [Adam Alston](https://github.com/adamalston/adamalston)
@@ -198,6 +199,7 @@
 - [Yukii](https://github.com/PrincessAkira/PrincessAkira)
 
 #### Minimalistic ✨
+- [Mark Hamilton](https://github.com/mhamilton723)
 - [Caneco](https://github.com/caneco/)
 - [Gift Egwuenu](https://github.com/lauragift21/lauragift21)
 - [Kelechi Precious Nwachukwu](https://github.com/PluckyPrecious/PluckyPrecious)
