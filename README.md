@@ -284,7 +284,7 @@
 - [Visitor Count](https://pufler.dev/badge-it/) - Count visitors for README.md that can be used with shields.io
 - [Shields Project](https://shields.io/) - Use Shields to create profile badges, compatible with Simple Icons
 - [GitCard Studio](https://github.com/creativecodeco/gitcard-studio) - Dynamic SVG cards generator & live API for GitHub stats, language distribution, commit habits matrix, contribution streak, developer rank, trophies, and sponsors. ([Web Generator](https://gitcard-studio.creativecode.com.co/))
-- [Github Readme Stats](https://github.com/anuraghazra/github-readme-stats) - Get dynamically generated GitHub stats on your readmes
+- [GitHub Stats Extended](https://github.com/stats-organization/github-stats-extended) - Dynamically generate GitHub stats for your READMEs.
 - [GitHub Stats](https://github.com/dvigo/github-stats) - 🚀 A lightning-fast, highly aesthetic SVG statistics generator with True Glassmorphism design and themes
 - [Github Readme Insight Terminal Ascii](https://github.com/seuthootDev/github-readme-insight-terminal-ascii) - Generate terminal-style contribution graph, stats, and top languages SVGs for your GitHub profile README
 - [Github Contributor Stats](https://github.com/HwangTaehyun/github-contributor-stats) - :fire: Get dynamically generated Github Contributor stats (repositories you really committed) on your readmes
