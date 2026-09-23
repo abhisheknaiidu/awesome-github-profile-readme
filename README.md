@@ -333,6 +333,7 @@
 - [GitHub Readme Chinese Zodiac](https://github.com/seuthootDev/github-readme-chinese-zodiac) - Asian zodiac (十二生肖) SVG profile cards and pinned Gists from your GitHub activity.
 - [vinilo](https://github.com/icortesb/vinilo) - Your recently played Spotify tracks as a static SVG, built in your own GitHub Actions and committed to your own branch, so no third-party service holds your token
 - [Github Pet](https://github.com/prsdx/github-pet) - Animated pixel cat for your GitHub profile README that reacts to real activity (CI failures, streaks, releases) - zero-dependency animated SVGs via a GitHub Action.
+- [Living Scene](https://github.com/yuki4266/living-scene) - Paint the real weather into your profile README banner: an animated SVG sky that follows the forecast where you live, a night variant for dark mode, and a seasonal garden footer. One workflow, zero dependencies.
 
 ## Articles
 - ["How To Create A GitHub Profile README"](https://www.aboutmonica.com/blog/how-to-create-a-github-profile-readme) - *Monica Powell*
