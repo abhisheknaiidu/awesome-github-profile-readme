@@ -333,6 +333,9 @@
 - [GitHub Readme Chinese Zodiac](https://github.com/seuthootDev/github-readme-chinese-zodiac) - Asian zodiac (十二生肖) SVG profile cards and pinned Gists from your GitHub activity.
 - [vinilo](https://github.com/icortesb/vinilo) - Your recently played Spotify tracks as a static SVG, built in your own GitHub Actions and committed to your own branch, so no third-party service holds your token
 - [Github Pet](https://github.com/prsdx/github-pet) - Animated pixel cat for your GitHub profile README that reacts to real activity (CI failures, streaks, releases) - zero-dependency animated SVGs via a GitHub Action.
+- [BannerGen CLI](https://github.com/astra-intelligence/bannergen-cli) - Generate platform-optimized social media banners from the command line. Supports LinkedIn, Twitter, Instagram, YouTube with custom text, brand colors, and batch processing.
+- [GitHub Profile Banner Generator](https://astra-intelligence.github.io/adventure-banners/generator.html) - Free browser-based tool to create custom banners for your GitHub profile README with presets, live preview, and PNG download.
+- [GitHub Profile README Builder](https://astra-intelligence.github.io/adventure-products/readme-builder/) - Free browser-based builder that generates a complete profile README in 2 minutes with sections, badges, and links; optional $1 premium adds a custom AI-generated header image.
 
 ## Articles
 - ["How To Create A GitHub Profile README"](https://www.aboutmonica.com/blog/how-to-create-a-github-profile-readme) - *Monica Powell*
