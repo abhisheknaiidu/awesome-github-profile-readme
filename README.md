@@ -277,6 +277,7 @@
 - [Christian Petersen](https://github.com/fnky/fnky)
 
 ## Tools
+- [gitstats](https://gitstats.org/widget) - README badge with your lines, commits and streak for the week, month or year, including private and work repos counted on your own machine (only numbers leave it)
 - [Git Bonsai](https://github.com/egorthinks/git-bonsai) - Grow a unique, deterministic pixel-art bonsai from your GitHub history - animated GIF for your README that keeps growing as you commit 🌳
 - [Todoist Stats in Readme](https://github.com/abhisheknaiidu/todoist-readme) - Daily Todoist Stats on your Profile Readme
 - [Visitor Badge](https://visitor-badge.glitch.me/#docs) - Count visitors for your README.md, Issues, PRs in GitHub
