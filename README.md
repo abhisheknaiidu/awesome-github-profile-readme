@@ -333,6 +333,7 @@
 - [GitHub Readme Chinese Zodiac](https://github.com/seuthootDev/github-readme-chinese-zodiac) - Asian zodiac (十二生肖) SVG profile cards and pinned Gists from your GitHub activity.
 - [vinilo](https://github.com/icortesb/vinilo) - Your recently played Spotify tracks as a static SVG, built in your own GitHub Actions and committed to your own branch, so no third-party service holds your token
 - [Github Pet](https://github.com/prsdx/github-pet) - Animated pixel cat for your GitHub profile README that reacts to real activity (CI failures, streaks, releases) - zero-dependency animated SVGs via a GitHub Action.
+- [readme-mark](https://github.com/SylphxAI/readme-mark) - Animated banners, badges, typing text, tech icons and GitHub stats, streak and trophy cards from one URL, with a web studio at [mark.sylphx.com](https://mark.sylphx.com). Accepts the URLs of capsule-render, shields.io, skill-icons, readme-typing-svg and github-readme-stats with only the host changed.
 
 ## Articles
 - ["How To Create A GitHub Profile README"](https://www.aboutmonica.com/blog/how-to-create-a-github-profile-readme) - *Monica Powell*
