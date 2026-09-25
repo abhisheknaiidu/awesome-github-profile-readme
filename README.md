@@ -143,6 +143,7 @@
 - [Trini B](https://github.com/trinib/trinib)
 - [holic-x](https://github.com/holic-x/holic-x)
 - [Magrelaio](https://github.com/Magrelaio/Magrelaio)
+- [Prashanth Kumar G](https://github.com/prashanth-kumar-g)
 
 #### Descriptive 🗒
 - [Filip Troníček](https://github.com/filiptronicek/filiptronicek)
