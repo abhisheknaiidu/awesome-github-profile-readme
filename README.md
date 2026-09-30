@@ -333,6 +333,7 @@
 - [GitHub Readme Chinese Zodiac](https://github.com/seuthootDev/github-readme-chinese-zodiac) - Asian zodiac (十二生肖) SVG profile cards and pinned Gists from your GitHub activity.
 - [vinilo](https://github.com/icortesb/vinilo) - Your recently played Spotify tracks as a static SVG, built in your own GitHub Actions and committed to your own branch, so no third-party service holds your token
 - [Github Pet](https://github.com/prsdx/github-pet) - Animated pixel cat for your GitHub profile README that reacts to real activity (CI failures, streaks, releases) - zero-dependency animated SVGs via a GitHub Action.
+- [Clawd MD](https://github.com/jaameypr/clawd-md) - Animated pixel Clawd (the Claude Code mascot) for your README. Walks, sits, waves, shows speech bubbles or a Claude Code style "thinking" line. Pure SVG, configured with JSON, with a [browser playground](https://jaameypr.github.io/clawd-md/)
 
 ## Articles
 - ["How To Create A GitHub Profile README"](https://www.aboutmonica.com/blog/how-to-create-a-github-profile-readme) - *Monica Powell*
