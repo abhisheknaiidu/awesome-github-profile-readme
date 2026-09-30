@@ -59,6 +59,7 @@
 - [Simon Willison](https://github.com/simonw/simonw)
 - [Mike Coutermarsh](https://github.com/mscoutermarsh/mscoutermarsh)
 - [Michael Hoffmann (Mokkapps)](https://github.com/mokkapps/mokkapps)
+- [Navneet Kumar Gupta](https://github.com/frostyfoxie/frostyfoxie)
 - [Athul Cyriac Ajay](https://github.com/athul/athul)
 - [Gautam Krishna R](https://github.com/gautamkrishnar/gautamkrishnar)
 - [Roald Nefs](https://github.com/roaldnefs/roaldnefs)
