@@ -52,6 +52,7 @@
 ## Categories
 
 #### GitHub Actions 🤖
+- [Bryan Orellanau](https://github.com/bryan-o-orellana/bryan-o-orellana)
 - [Abhishek Naidu](https://github.com/abhisheknaiidu/abhisheknaiidu)
 - [Thomas Guibert](https://github.com/thmsgbrt/thmsgbrt)
 - [Brian Douglas](https://github.com/bdougie/bdougie)
