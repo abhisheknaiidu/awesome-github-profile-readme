@@ -103,6 +103,7 @@
 - [Marton](https://github.com/martonlederer/martonlederer)
 - [Redowan Delowar](https://github.com/rednafi/rednafi)
 - [Zhenye Na](https://github.com/Zhenye-Na/Zhenye-Na)
+- [Parag Agrawal](https://github.com/parag477/parag477)
 
 #### Dynamic Realtime 💫
 - [Anurag Hazra](https://github.com/anuraghazra/anuraghazra)
