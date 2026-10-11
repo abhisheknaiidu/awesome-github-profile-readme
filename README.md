@@ -42,6 +42,7 @@
       - [Fancy Fonts 🖋](#fancy-fonts-)
       - [Icons 🎯](#icons-)
       - [Retro 😎](#retro-)
+      - [Animated SVG / Vector ⚡](#animated-svg--vector-)
   - [Tools](#tools)
   - [Articles](#articles)
   - [Video Tutorials](#tutorials)
@@ -275,6 +276,9 @@
 #### Retro 😎
 - [Livio Brunner](https://github.com/BrunnerLivio/BrunnerLivio)
 - [Christian Petersen](https://github.com/fnky/fnky)
+
+#### Animated SVG / Vector ⚡
+- [MinkWungNe](https://github.com/MinkWungNe/MinkWungNe)
 
 ## Tools
 - [Git Bonsai](https://github.com/egorthinks/git-bonsai) - Grow a unique, deterministic pixel-art bonsai from your GitHub history - animated GIF for your README that keeps growing as you commit 🌳
