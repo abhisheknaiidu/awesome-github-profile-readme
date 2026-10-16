@@ -376,3 +376,155 @@ Please read the [contribution guidelines](contributing.md) first.
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [Abhishek Naidu](https://abhisheknaidu.tech/) has waived all copyright and related or neighboring rights to this work.
+
+
+
+
+
+<!-- Pokémon-Themed GitHub README -->
+
+<div align="center">
+
+<!-- Animated Header -->
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:163d2b,100:39d353&height=200&section=header&text=POK%C3%89MON%20TRAINER&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35"
+  width="100%"
+  alt="Pokémon Trainer animated header"
+/>
+
+# ⚡ Pokémon Trainer's GitHub ⚡
+
+### Catching bugs, building projects, and leveling up my skills!
+
+<img
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=39D353&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;Gotta+code+%27em+all!;Building+projects+one+commit+at+a+time!;Cybersecurity+%7C+Development+%7C+Learning"
+  alt="Typing animation"
+/>
+
+<br/>
+
+<img
+  src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/25.png"
+  width="100"
+  alt="Pikachu"
+/>
+<img
+  src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/6.png"
+  width="120"
+  alt="Charizard"
+/>
+<img
+  src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/150.png"
+  width="100"
+  alt="Mewtwo"
+/>
+
+</div>
+
+---
+
+## 🌿 About Me
+
+- 🎓 Cybersecurity student
+- 💻 Interested in programming, web development, and cybersecurity
+- 🔐 Learning how systems and networks work
+- 🚀 Building projects and improving my skills
+- ⚡ Motto: **Keep learning. Keep building. Keep leveling up.**
+
+---
+
+## 🧰 My Pokédex of Skills
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,java,python,c,linux,mysql,git,github,vscode&theme=dark" alt="Programming and development skills"/>
+
+</div>
+
+---
+
+## 🎮 Trainer Stats
+
+<div align="center">
+
+<img
+  src="https://github-readme-stats.vercel.app/api?username=Manthanhk&show_icons=true&theme=merko&hide_border=true&include_all_commits=true"
+  height="165"
+  alt="GitHub statistics"
+/>
+
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manthanhk&layout=compact&theme=merko&hide_border=true"
+  height="165"
+  alt="Most used programming languages"
+/>
+
+</div>
+
+---
+
+## 🏆 Trainer Achievements
+
+<div align="center">
+
+<img
+  src="https://github-profile-trophy.vercel.app/?username=Manthanhk&theme=matrix&no-frame=true&no-bg=true&row=1&column=6"
+  width="100%"
+  alt="GitHub achievement trophies"
+/>
+
+</div>
+
+---
+
+## 🐉 Choose Your Starter
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1.png" width="90" alt="Bulbasaur"/><br/>
+      <b>🌱 Bulbasaur</b><br/>
+      Grass / Poison
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/4.png" width="90" alt="Charmander"/><br/>
+      <b>🔥 Charmander</b><br/>
+      Fire
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/7.png" width="90" alt="Squirtle"/><br/>
+      <b>💧 Squirtle</b><br/>
+      Water
+    </td>
+  </tr>
+</table>
+
+</div>
+
+---
+
+## 📬 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/Manthanhk">
+  <img src="https://img.shields.io/badge/GitHub-Profile-39D353?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### ✨ Every commit is another level gained!
+
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:39d353,50:163d2b,100:0d1117&height=100&section=footer"
+  width="100%"
+  alt="Green animated footer"
+/>
+
+</div>
