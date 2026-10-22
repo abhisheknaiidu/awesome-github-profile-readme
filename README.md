@@ -217,6 +217,7 @@
 - [Stefanie Grunwald](https://github.com/moertel/moertel)
 - [Abdul Khaliq](https://github.com/kha7iq/kha7iq)
 - [Bilivro](https://github.com/bilivro)
+- [Ayaan Faisal](https://github.com/AppleAyaan/appleayaan)
 
 #### GIFS 👻
 - [Pouya Saadeghi](https://github.com/saadeghi/saadeghi)
