@@ -333,6 +333,7 @@
 - [GitHub Readme Chinese Zodiac](https://github.com/seuthootDev/github-readme-chinese-zodiac) - Asian zodiac (十二生肖) SVG profile cards and pinned Gists from your GitHub activity.
 - [vinilo](https://github.com/icortesb/vinilo) - Your recently played Spotify tracks as a static SVG, built in your own GitHub Actions and committed to your own branch, so no third-party service holds your token
 - [Github Pet](https://github.com/prsdx/github-pet) - Animated pixel cat for your GitHub profile README that reacts to real activity (CI failures, streaks, releases) - zero-dependency animated SVGs via a GitHub Action.
+- [Code Trainer Card](https://github.com/lpepinelli/CodeTrainerCard) - Pixel-art trainer card for your profile README, inspired by Pokémon FireRed: avatar, followers, commits, PRs, GitHub achievements and skill icons, with optional shine, float and flip animations. ([Card builder](https://codetrainer.pepinelli.dev))
 
 ## Articles
 - ["How To Create A GitHub Profile README"](https://www.aboutmonica.com/blog/how-to-create-a-github-profile-readme) - *Monica Powell*
