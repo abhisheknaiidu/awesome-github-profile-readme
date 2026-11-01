@@ -287,7 +287,7 @@
 - [Github Readme Stats](https://github.com/anuraghazra/github-readme-stats) - Get dynamically generated GitHub stats on your readmes
 - [GitHub Stats](https://github.com/dvigo/github-stats) - 🚀 A lightning-fast, highly aesthetic SVG statistics generator with True Glassmorphism design and themes
 - [Github Readme Insight Terminal Ascii](https://github.com/seuthootDev/github-readme-insight-terminal-ascii) - Generate terminal-style contribution graph, stats, and top languages SVGs for your GitHub profile README
-- [Ghstats](https://github.com/tiennm99/ghstats) - Go CLI + GitHub Action that generates 9 themed SVG profile cards (61+ themes, byte-weighted commit-to-language attribution, all-time variants).
+- [ghglance](https://github.com/tiennm99/ghglance) - Go CLI and GitHub Action that generates 16 themed SVG profile cards (65 themes, byte-weighted commit-language stats, all-time variants)
 - [Github Contributor Stats](https://github.com/HwangTaehyun/github-contributor-stats) - :fire: Get dynamically generated Github Contributor stats (repositories you really committed) on your readmes
 - [GitHub Gravity](https://github.com/flycran/github-gravity) - 🌌 Make your GitHub contribution graph fall under gravity, colliding with custom text to produce a beautiful animated SVG
 - [GitHub Streak Stats](https://github.com/DenverCoder1/github-readme-streak-stats) - 🔥 Stay motivated and show off your contribution streak! 🌟 Display your total contributions, current streak, and longest streak on your GitHub profile README
