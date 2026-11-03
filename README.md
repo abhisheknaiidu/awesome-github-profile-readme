@@ -138,6 +138,7 @@
 - [Clayton Hamilton](https://github.com/claytonjhamilton/claytonjhamilton)
 - [Sy Rashid](https://github.com/syrashid/syrashid)
 - [Quin Knight](https://github.com/cheesits456/cheesits456)
+- [John III Sobieski](https://github.com/john3sobieski)
 - [Jackyu-1999](https://github.com/Jackyu-1999/Jackyu-1999)
 - [Rak Laptudirm](https://github.com/raklaptudirm/raklaptudirm)
 - [Trini B](https://github.com/trinib/trinib)
