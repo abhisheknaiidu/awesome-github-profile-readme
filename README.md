@@ -121,6 +121,7 @@
 - [Rahul Jha](https://github.com/rahul-jha98/rahul-jha98)
 - [Taehyun Hwang](https://github.com/HwangTaehyun/HwangTaehyun)
 - [Nisarg Bhatt](https://github.com/nisarg1212)
+- [Harshul Kala | Navi](https://github.com/Wired-Navi0x17/Wired-Navi0x17)
 
 #### A Little Bit of Everything 😃
 - [Raymond Li](https://github.com/Raymo111/Raymo111)
@@ -196,6 +197,7 @@
 - [edisonlee55](https://github.com/edisonlee55/edisonlee55)
 - [Ashutosh](https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX)
 - [Yukii](https://github.com/PrincessAkira/PrincessAkira)
+- [Harshul Kala | Navi](https://github.com/Wired-Navi0x17/Wired-Navi0x17)
 
 #### Minimalistic ✨
 - [Caneco](https://github.com/caneco/)
@@ -260,6 +262,7 @@
 - [Oka](https://github.com/Coordinate-Cat/Coordinate-Cat)
 - [Nikita Rusetskii](https://github.com/xtenzQ/xtenzQ)
 - [Raphael Ebner](https://github.com/rafi0101/rafi0101)
+- [Harshul Kala | Navi](https://github.com/Wired-Navi0x17/Wired-Navi0x17)
 
 #### Fancy Fonts 🖋
 - [xiaoluoboding](https://github.com/xiaoluoboding/xiaoluoboding)
