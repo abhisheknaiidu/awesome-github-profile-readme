@@ -278,6 +278,7 @@
 
 ## Tools
 - [Git Bonsai](https://github.com/egorthinks/git-bonsai) - Grow a unique, deterministic pixel-art bonsai from your GitHub history - animated GIF for your README that keeps growing as you commit 🌳
+- [Git-Safari](https://github.com/Nightkilller/git-safari) - Dynamic pixel-art animated companions (Giraffe, Buffalo, Monkey, Train, Snowman) that scale and change with your commits and languages 🦒🦁
 - [Todoist Stats in Readme](https://github.com/abhisheknaiidu/todoist-readme) - Daily Todoist Stats on your Profile Readme
 - [Visitor Badge](https://visitor-badge.glitch.me/#docs) - Count visitors for your README.md, Issues, PRs in GitHub
 - [1990s style Visitor Counter](https://twitter.com/ryanlanciaux/status/1283755637126705152) - Add a 1990s style visitor counter with one line of markdown.
