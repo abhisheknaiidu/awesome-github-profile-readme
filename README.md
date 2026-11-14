@@ -317,6 +317,7 @@
 - [Github Readme Twitter](https://github.com/gazf/github-readme-twitter) - Show your latest tweet on your readmes.
 - [Random Dev Memes](https://github.com/techytushar/random-memer) - Random dev memes to display on your GitHub README.
 - [GitHub Readme Quotes](https://github.com/PiyushSuthar/github-readme-quotes) - Dev quotes on your GitHub Profile Readme.
+- [Qur’an Ayah of the Day](https://github.com/KitCatasha/quran-ayah-of-the-day) - Add an animated daily Qur’an verse with Arabic calligraphy and English translation to your GitHub README.
 - [GitHub Profilinator](https://github.com/rishavanand/github-profilinator) - This tool contains small GUI components that you can hook together to generate markdown for your perfect readme.
 - [PageSpeed score](https://github.com/ankurparihar/readme-pagespeed-insights) - Generate website's PageSpeed score in animated svg form which can be used in GitHub README
 - [Gitwar Profile Score](https://github.com/iampavangandhi/Gitwar) - Add your Github Profile Score in README.
