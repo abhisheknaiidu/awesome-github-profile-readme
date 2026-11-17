@@ -324,6 +324,7 @@
 - [YouTube Channel Stats](https://github.com/DenverCoder1/github-readme-youtube-stats) - 📺 Display number of subscribers on YouTube and/or your channel's view count as a badge
 - [Current Book Status from GoodReads](https://github.com/theFr1nge/goodreads-readme) - Add a card of the current book you are reading that automatically syncs with GoodReads to display your progress.
 - [Readme Typing SVG](https://github.com/DenverCoder1/readme-typing-svg) - :zap: Dynamically generated, customizable SVG that gives the appearance of typing and deleting text
+- [Typing Text GIF](https://github.com/fancydirty/typing-text-gif) - Open-source engine that renders typing, typewriter and rotating-word text to a GIF or animated PNG in the browser, for READMEs that need a plain image
 - [Snake and Commits](https://github.com/dahan8473/snake-and-commits) - 🐍 Turn your contribution graph into a real, self-playing game of Snake. Pathfinding AI, self-collision avoidance, grows as it eats. Pure animated SVG, zero dependencies, drop-in Action.
 - [GitHub Profile Stats](https://github.com/rowkav09/GitHub-profile-stats) - Free, real-time GitHub stat cards, language charts, mini badges & activity sparklines for your README. No token, no setup - just paste one line. [Live demo](https://ghstats.dev)
 - [github-candles](https://github.com/starlash7/github-candles) - Render your GitHub contributions as a self-updating trading candlestick chart.
