@@ -121,6 +121,7 @@
 - [Rahul Jha](https://github.com/rahul-jha98/rahul-jha98)
 - [Taehyun Hwang](https://github.com/HwangTaehyun/HwangTaehyun)
 - [Nisarg Bhatt](https://github.com/nisarg1212)
+- [Canyuan Ye](https://github.com/Glacieerr/Glacieerr)
 
 #### A Little Bit of Everything 😃
 - [Raymond Li](https://github.com/Raymo111/Raymo111)
