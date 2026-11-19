@@ -42,6 +42,7 @@
       - [Fancy Fonts 🖋](#fancy-fonts-)
       - [Icons 🎯](#icons-)
       - [Retro 😎](#retro-)
+      - [Universe 👽](#universe-)
   - [Tools](#tools)
   - [Articles](#articles)
   - [Video Tutorials](#tutorials)
@@ -275,6 +276,9 @@
 #### Retro 😎
 - [Livio Brunner](https://github.com/BrunnerLivio/BrunnerLivio)
 - [Christian Petersen](https://github.com/fnky/fnky)
+
+#### Universe 👽
+- [Trungquandev](https://github.com/trungquandev/trungquandev)
 
 ## Tools
 - [Git Bonsai](https://github.com/egorthinks/git-bonsai) - Grow a unique, deterministic pixel-art bonsai from your GitHub history - animated GIF for your README that keeps growing as you commit 🌳
