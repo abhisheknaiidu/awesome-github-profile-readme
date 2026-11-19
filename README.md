@@ -101,6 +101,7 @@
 - [Kiho](https://github.com/monkindey/monkindey)
 - [Ahmad Munir](https://github.com/ddroid/ddroid)
 - [Marton](https://github.com/martonlederer/martonlederer)
+- [Nikita Babko](https://github.com/nikitababko/nikitababko)
 - [Redowan Delowar](https://github.com/rednafi/rednafi)
 - [Zhenye Na](https://github.com/Zhenye-Na/Zhenye-Na)
 
