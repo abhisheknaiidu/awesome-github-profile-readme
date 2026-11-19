@@ -123,6 +123,7 @@
 - [Nisarg Bhatt](https://github.com/nisarg1212)
 
 #### A Little Bit of Everything 😃
+- [Yahya Batulu](https://github.com/ByPikod)
 - [Raymond Li](https://github.com/Raymo111/Raymo111)
 - [Martin Heinz](https://github.com/MartinHeinz/MartinHeinz)
 - [Adam Alston](https://github.com/adamalston/adamalston)
