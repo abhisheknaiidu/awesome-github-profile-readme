@@ -183,7 +183,7 @@
 - [Matthew Taylor](https://github.com/Wrapperup/Wrapperup)
 - [Ali Hamza](https://github.com/alihamzaio/alihamzaio)
 - [Lei Zhidong](https://github.com/Leizhidong-creator/leizhidong-myself)
-  -
+
 #### Typing.. Mode 🎰
 - [Mathieu Ledru](https://github.com/matyo91/matyo91)
 - [CyrisXD](https://github.com/CyrisXD/CyrisXD)
