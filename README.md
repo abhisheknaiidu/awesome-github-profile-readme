@@ -252,6 +252,7 @@
 - [Harish Kumar S S](https://github.com/harish-sethuraman/harish-sethuraman)
 - [Anirudh Emmadi](https://github.com/aemmadi/aemmadi)
 - [Brendon Smith](https://github.com/br3ndonland/br3ndonland)
+- [Sonu Chaudhary](https://github.com/sonuoffsec/sonuoffsec)
 - [Alwin Wang](https://github.com/alwinw/alwinw)
 - [Moshfiq Rony](https://github.com/moshfiqrony/moshfiqrony)
 - [Ileriayo Adebiyi](https://github.com/ileriayo/ileriayo)
