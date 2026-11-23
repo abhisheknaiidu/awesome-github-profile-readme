@@ -182,10 +182,11 @@
 - [Bruno Tacca](https://github.com/brunotacca/brunotacca)
 - [Matthew Taylor](https://github.com/Wrapperup/Wrapperup)
 - [Ali Hamza](https://github.com/alihamzaio/alihamzaio)
-
+- [Lei Zhidong](https://github.com/Leizhidong-creator/leizhidong-myself)
 #### Typing.. Mode 🎰
 - [Mathieu Ledru](https://github.com/matyo91/matyo91)
 - [CyrisXD](https://github.com/CyrisXD/CyrisXD)
+- 
 - [Mpho Mphego](https://github.com/mmphego/mmphego)
 - [Abhinav Sharma](https://github.com/ABSphreak/ABSphreak)
 - [Mason Slover](https://github.com/MasonSlover/MasonSlover)
