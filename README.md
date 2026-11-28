@@ -291,6 +291,7 @@
 - [GitHub Gravity](https://github.com/flycran/github-gravity) - 🌌 Make your GitHub contribution graph fall under gravity, colliding with custom text to produce a beautiful animated SVG
 - [GitHub Streak Stats](https://github.com/DenverCoder1/github-readme-streak-stats) - 🔥 Stay motivated and show off your contribution streak! 🌟 Display your total contributions, current streak, and longest streak on your GitHub profile README
 - [gitglance](https://github.com/rafaeloliveiraz/gitglance) - Self-hostable GitHub stats cards with 16 visual styles, 21 themes, chart cards (donut, gauges, commit activity) and a visual card builder
+- [gh-stats](https://github.com/ShayManor/github-readme-stats) - One SVG card for your whole profile: a score out of 100, contribution timeline, top collaborators, language breakdown, commit streaks and tags worked out from your repos. Five themes and GitHub dark/light auto-switching, no signup. ([Website](https://gh-stats.com))
 - [Simple Icons](https://github.com/simple-icons/simple-icons#cdn-usage) -  SVG icons for popular brands for your README.md files
 - [Laravel GitHub Profile Visit Counter](https://github.com/caneco/laravel-github-profile-view-counter) - Add on your Laravel project a quick-badge to count your profile visits.
 - [Dev Metrics in Readme](https://github.com/athul/waka-readme) - [WakaTime](https://wakatime.com/) Weekly Metrics on your Profile Readme
